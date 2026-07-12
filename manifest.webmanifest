@@ -1,0 +1,17 @@
+{
+  "name": "AI 동향 — 오늘의 읽을거리",
+  "short_name": "AI 동향",
+  "description": "매일 오전 10시, 자동으로 고른 AI 관련 읽을거리 두 개.",
+  "lang": "ko",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#f4efe4",
+  "theme_color": "#b8472e",
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "icon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
