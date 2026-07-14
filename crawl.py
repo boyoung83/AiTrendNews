@@ -109,6 +109,21 @@ def is_ai(text):
     return any(k in low for k in AI_KEYWORDS)
 
 
+def tag_names(raw, limit=4):
+    """태그를 항상 문자열 리스트로 정규화한다.
+    Discourse가 태그를 문자열이 아니라 dict({'name': ...})로 주는 경우까지 처리."""
+    out = []
+    for tag in (raw or []):
+        if isinstance(tag, dict):
+            name = tag.get("name") or tag.get("term") or tag.get("text") or ""
+        else:
+            name = str(tag)
+        name = name.strip()
+        if name:
+            out.append(name)
+    return out[:limit]
+
+
 # ── 소스별 수집 ────────────────────────────────────────────
 def fetch_discourse(src):
     """Discourse JSON에서 조회수·좋아요까지 가져온다."""
@@ -137,7 +152,7 @@ def fetch_discourse(src):
             "title": clean_text(t.get("title", "제목 없음"), 120),
             "url": f"{base}/t/{t.get('slug','topic')}/{t.get('id')}",
             "summary": "",  # JSON에는 본문 발췌가 없어 비워둠
-            "tags": (t.get("tags") or [])[:4],
+            "tags": tag_names(t.get("tags")),
             "_dt": dt,
             # 조회수 + 좋아요(가중) 를 인기 원점수로
             "_pop_raw": t.get("views", 0) + 30 * t.get("like_count", 0),
@@ -165,7 +180,7 @@ def fetch_rss_ranked(src):
             "title": clean_text(e.get("title", "제목 없음"), 120),
             "url": e.get("link", ""),
             "summary": clean_text(e.get("summary", "")),
-            "tags": [x.get("term", "") for x in e.get("tags", []) if x.get("term")][:4],
+            "tags": tag_names(e.get("tags")),
             "_dt": dt,
             "_pop_raw": n - rank,  # 위에 있을수록 큼
         })
@@ -184,7 +199,7 @@ def fetch(src):
 
 # ── 점수 매기기 ────────────────────────────────────────────
 def score(item):
-    text = f"{item['title']} {item['summary']} {' '.join(item['tags'])}"
+    text = f"{item['title']} {item['summary']} {' '.join(tag_names(item['tags']))}"
     s = (
         WEIGHTS["popularity"] * item["_pop"]
         + WEIGHTS["practical"] * kw_score(text, PRACTICAL_KEYWORDS)
