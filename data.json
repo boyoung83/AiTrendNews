@@ -1,11 +1,44 @@
 [
   {
+    "date": "2026-07-14",
+    "source": "PyTorch KR",
+    "title": "OpenAI가 공개한 GPT-5.6 공식 활용 가이드: 마이그레이션부터 프롬프팅, Pro 모드까지",
+    "url": "https://discuss.pytorch.kr/t/openai-gpt-5-6-pro/11195",
+    "summary": "(요약 없음 — data.json에서 직접 채워도 됨)",
+    "tags": [
+      "llm",
+      "openai",
+      "agent",
+      "prompt-engineering"
+    ],
+    "score": 0.85
+  },
+  {
+    "date": "2026-07-14",
+    "source": "PyTorch KR",
+    "title": "Skills for Design Engineers: 코딩 에이전트에 UI 애니메이션 감각을 더하는 스킬",
+    "url": "https://discuss.pytorch.kr/t/skills-for-design-engineers-ui/11206",
+    "summary": "(요약 없음 — data.json에서 직접 채워도 됨)",
+    "tags": [
+      "claude-code",
+      "mit-license",
+      "agent-skills",
+      "motion-design"
+    ],
+    "score": 0.59
+  },
+  {
     "date": "2026-06-06",
     "source": "PyTorch KR",
     "title": "사고 패치(Thought Patching): 프롬프트를 가중치로 바꾸는 모델 편집 연구",
     "url": "https://discuss.pytorch.kr/t/thought-patching-feat-google/10554",
     "summary": "프롬프트로 주던 지시를 모델 가중치에 새겨넣는 편집 기법. in-context로 매번 넣던 걸 영구 반영하는 방향.",
-    "tags": ["paper", "LLM", "model-editing", "Google"]
+    "tags": [
+      "paper",
+      "LLM",
+      "model-editing",
+      "Google"
+    ]
   },
   {
     "date": "2026-06-06",
@@ -13,6 +46,11 @@
     "title": "Anthropic, AI 에이전트 배포용 Zero Trust 보안 프레임워크 eBook 공개",
     "url": "https://discuss.pytorch.kr/t/anthropic-ai-zero-trust-ebook-pdf-36p/10567",
     "summary": "에이전트를 사내에 깔 때 prompt injection·권한 문제를 Zero Trust 관점에서 정리한 36p 가이드.",
-    "tags": ["agent", "security", "MCP", "Anthropic"]
+    "tags": [
+      "agent",
+      "security",
+      "MCP",
+      "Anthropic"
+    ]
   }
 ]
