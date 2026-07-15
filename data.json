@@ -1,5 +1,33 @@
 [
   {
+    "date": "2026-07-15",
+    "source": "PyTorch KR",
+    "title": "Flint, 시맨틱 스펙으로 차트를 만드는 AI 시대의 시각화 언어 (feat. Microsoft)",
+    "url": "https://discuss.pytorch.kr/t/flint-ai-feat-microsoft/11204",
+    "summary": "(요약 없음 — data.json에서 직접 채워도 됨)",
+    "tags": [
+      "opensource",
+      "agent",
+      "mcp",
+      "microsoft"
+    ],
+    "score": 0.57
+  },
+  {
+    "date": "2026-07-15",
+    "source": "PyTorch KR",
+    "title": "Nexus: 시계열 예측을 멀티 에이전트 추론 문제로 푸는 프레임워크에 대한 연구 (feat. Google)",
+    "url": "https://discuss.pytorch.kr/t/nexus-feat-google/11203",
+    "summary": "(요약 없음 — data.json에서 직접 채워도 됨)",
+    "tags": [
+      "llm",
+      "paper",
+      "google",
+      "agent"
+    ],
+    "score": 0.56
+  },
+  {
     "date": "2026-07-14",
     "source": "PyTorch KR",
     "title": "Social Media Skills: Claude 에이전트로 소셜 미디어 콘텐츠를 만드는 스킬 모음",
