@@ -1,5 +1,33 @@
 [
   {
+    "date": "2026-07-16",
+    "source": "PyTorch KR",
+    "title": "pdf-inspector: OCR 없이 PDF를 분류하고 마크다운으로 추출하는 Rust 라이브러리 (feat. firecrawl)",
+    "url": "https://discuss.pytorch.kr/t/pdf-inspector-ocr-pdf-rust-feat-firecrawl/11255",
+    "summary": "(요약 없음 — data.json에서 직접 채워도 됨)",
+    "tags": [
+      "rag",
+      "mit-license",
+      "rust",
+      "pdf"
+    ],
+    "score": 0.63
+  },
+  {
+    "date": "2026-07-16",
+    "source": "PyTorch KR",
+    "title": "Weft: LLM과 사람, API를 기본 노드로 삼는 AI 오케스트레이션 프로그래밍 언어",
+    "url": "https://discuss.pytorch.kr/t/weft-llm-api-ai/11236",
+    "summary": "(요약 없음 — data.json에서 직접 채워도 됨)",
+    "tags": [
+      "agent-framework",
+      "rust",
+      "human-in-the-loop",
+      "programming-language"
+    ],
+    "score": 0.51
+  },
+  {
     "date": "2026-07-15",
     "source": "PyTorch KR",
     "title": "Flint, 시맨틱 스펙으로 차트를 만드는 AI 시대의 시각화 언어 (feat. Microsoft)",
