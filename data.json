@@ -1,5 +1,33 @@
 [
   {
+    "date": "2026-07-17",
+    "source": "PyTorch KR",
+    "title": "scroll-world: 스크롤에 맞춰 브랜드를 3D 월드처럼 비행하는 랜딩페이지를 만드는 에이전트 스킬",
+    "url": "https://discuss.pytorch.kr/t/scroll-world-3d/11268",
+    "summary": "(요약 없음 — data.json에서 직접 채워도 됨)",
+    "tags": [
+      "claude-code",
+      "mit-license",
+      "agent-skill",
+      "landing-page"
+    ],
+    "score": 0.6
+  },
+  {
+    "date": "2026-07-17",
+    "source": "PyTorch KR",
+    "title": "OpenAI, 에이전틱 코딩용 매크로패드 Codex Micro 공개 (feat. Work Louder)",
+    "url": "https://discuss.pytorch.kr/t/openai-codex-micro-feat-work-louder/11282",
+    "summary": "(요약 없음 — data.json에서 직접 채워도 됨)",
+    "tags": [
+      "openai",
+      "agent",
+      "codex",
+      "product-launch"
+    ],
+    "score": 0.53
+  },
+  {
     "date": "2026-07-16",
     "source": "PyTorch KR",
     "title": "pdf-inspector: OCR 없이 PDF를 분류하고 마크다운으로 추출하는 Rust 라이브러리 (feat. firecrawl)",
