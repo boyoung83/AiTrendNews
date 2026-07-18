@@ -1,5 +1,33 @@
 [
   {
+    "date": "2026-07-18",
+    "source": "PyTorch KR",
+    "title": "ASO App Store Screenshots: 앱 코드를 분석해 앱스토어 스크린샷을 만드는 Claude 스킬",
+    "url": "https://discuss.pytorch.kr/t/aso-app-store-screenshots-claude/11278",
+    "summary": "(요약 없음 — data.json에서 직접 채워도 됨)",
+    "tags": [
+      "claude-code",
+      "agent-skill",
+      "nano-banana",
+      "gemini-mcp"
+    ],
+    "score": 0.59
+  },
+  {
+    "date": "2026-07-18",
+    "source": "PyTorch KR",
+    "title": "OpenKnowledge: Claude, Codex와 함께 편집하는 로컬 마크다운 에디터 겸 LLM Wiki",
+    "url": "https://discuss.pytorch.kr/t/openknowledge-claude-codex-llm-wiki/11222",
+    "summary": "(요약 없음 — data.json에서 직접 채워도 됨)",
+    "tags": [
+      "ai-agent",
+      "mcp",
+      "knowledge-base",
+      "llm-wiki"
+    ],
+    "score": 0.53
+  },
+  {
     "date": "2026-07-17",
     "source": "PyTorch KR",
     "title": "scroll-world: 스크롤에 맞춰 브랜드를 3D 월드처럼 비행하는 랜딩페이지를 만드는 에이전트 스킬",
