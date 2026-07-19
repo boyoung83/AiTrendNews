@@ -1,5 +1,33 @@
 [
   {
+    "date": "2026-07-19",
+    "source": "PyTorch KR",
+    "title": "local-llm: 최신 LLM을 로컬에서 직접 돌리는 GPU 하드웨어 구성 가이드",
+    "url": "https://discuss.pytorch.kr/t/local-llm-llm-gpu/11274",
+    "summary": "(요약 없음 — data.json에서 직접 채워도 됨)",
+    "tags": [
+      "local-llm",
+      "vllm",
+      "multi-gpu",
+      "self-hosting"
+    ],
+    "score": 0.6
+  },
+  {
+    "date": "2026-07-19",
+    "source": "PyTorch KR",
+    "title": "keep-codex-fast: 로컬 Codex 상태를 백업 우선으로 정리해 빠르게 유지하는 스킬",
+    "url": "https://discuss.pytorch.kr/t/keep-codex-fast-codex/11277",
+    "summary": "(요약 없음 — data.json에서 직접 채워도 됨)",
+    "tags": [
+      "coding-agent",
+      "mit-license",
+      "codex",
+      "cli"
+    ],
+    "score": 0.49
+  },
+  {
     "date": "2026-07-18",
     "source": "PyTorch KR",
     "title": "ASO App Store Screenshots: 앱 코드를 분석해 앱스토어 스크린샷을 만드는 Claude 스킬",
