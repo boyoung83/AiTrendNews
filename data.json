@@ -1,5 +1,33 @@
 [
   {
+    "date": "2026-07-20",
+    "source": "PyTorch KR",
+    "title": "NVIDIA, RTEB 1위 오픈 임베딩 모델 Nemotron 3 Embed 공개 (feat. RAG, 에이전트 검색)",
+    "url": "https://discuss.pytorch.kr/t/nvidia-rteb-1-nemotron-3-embed-feat-rag/11308",
+    "summary": "(요약 없음 — data.json에서 직접 채워도 됨)",
+    "tags": [
+      "llm",
+      "opensource",
+      "rag",
+      "agent"
+    ],
+    "score": 0.6
+  },
+  {
+    "date": "2026-07-20",
+    "source": "PyTorch KR",
+    "title": "Mozilla 재단이 공개한 오픈소스 AI 현황 2026: '성능 격차는 3.3%로, 경쟁은 하네스로'",
+    "url": "https://discuss.pytorch.kr/t/mozilla-ai-2026-3-3/11305",
+    "summary": "(요약 없음 — data.json에서 직접 채워도 됨)",
+    "tags": [
+      "llm",
+      "opensource",
+      "agent",
+      "open-weights"
+    ],
+    "score": 0.5
+  },
+  {
     "date": "2026-07-19",
     "source": "PyTorch KR",
     "title": "local-llm: 최신 LLM을 로컬에서 직접 돌리는 GPU 하드웨어 구성 가이드",
