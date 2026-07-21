@@ -1,5 +1,33 @@
 [
   {
+    "date": "2026-07-21",
+    "source": "PyTorch KR",
+    "title": "Kimi K3, Moonshot AI가 공개한 세계 첫 3T급 오픈 웨이트 모델 (전체 가중치 공개는 7월 27일 예정)",
+    "url": "https://discuss.pytorch.kr/t/kimi-k3-moonshot-ai-3t-7-27/11301",
+    "summary": "(요약 없음 — data.json에서 직접 채워도 됨)",
+    "tags": [
+      "llm",
+      "agent",
+      "open-weights",
+      "moe"
+    ],
+    "score": 0.51
+  },
+  {
+    "date": "2026-07-21",
+    "source": "PyTorch KR",
+    "title": "Full-Stack AI Agent Template: AI 에이전트와 RAG를 갖춘 풀스택 앱 생성 템플릿 프로젝트",
+    "url": "https://discuss.pytorch.kr/t/full-stack-ai-agent-template-ai-rag/11325",
+    "summary": "(요약 없음 — data.json에서 직접 채워도 됨)",
+    "tags": [
+      "rag",
+      "ai-agent",
+      "langgraph",
+      "fastapi"
+    ],
+    "score": 0.47
+  },
+  {
     "date": "2026-07-20",
     "source": "PyTorch KR",
     "title": "NVIDIA, RTEB 1위 오픈 임베딩 모델 Nemotron 3 Embed 공개 (feat. RAG, 에이전트 검색)",
