@@ -1,5 +1,33 @@
 [
   {
+    "date": "2026-07-22",
+    "source": "PyTorch KR",
+    "title": "PIKE-RAG: 전문 지식과 추론으로 정확도를 높인 Microsoft의 산업용 RAG 프레임워크",
+    "url": "https://discuss.pytorch.kr/t/pike-rag-microsoft-rag/11323",
+    "summary": "(요약 없음 — data.json에서 직접 채워도 됨)",
+    "tags": [
+      "rag",
+      "mit-license",
+      "microsoft",
+      "knowledge-graph"
+    ],
+    "score": 0.52
+  },
+  {
+    "date": "2026-07-22",
+    "source": "PyTorch KR",
+    "title": "스마트폰을 엔지니어링 컨트롤 플레인으로, OpenAI Codex Remote 모바일 활용 공식 가이드",
+    "url": "https://discuss.pytorch.kr/t/openai-codex-remote/11370",
+    "summary": "(요약 없음 — data.json에서 직접 채워도 됨)",
+    "tags": [
+      "openai",
+      "agent",
+      "chatgpt",
+      "coding-agent"
+    ],
+    "score": 0.5
+  },
+  {
     "date": "2026-07-21",
     "source": "PyTorch KR",
     "title": "Kimi K3, Moonshot AI가 공개한 세계 첫 3T급 오픈 웨이트 모델 (전체 가중치 공개는 7월 27일 예정)",
