@@ -1,5 +1,33 @@
 [
   {
+    "date": "2026-07-24",
+    "source": "PyTorch KR",
+    "title": "Chops: Claude Code, Cursor, Codex 등의 에이전트 스킬을 한곳에서 관리하는 macOS 앱",
+    "url": "https://discuss.pytorch.kr/t/chops-claude-code-cursor-codex-macos/11351",
+    "summary": "(요약 없음 — data.json에서 직접 채워도 됨)",
+    "tags": [
+      "claude-code",
+      "agent-skills",
+      "developer-tools",
+      "macos"
+    ],
+    "score": 0.75
+  },
+  {
+    "date": "2026-07-24",
+    "source": "PyTorch KR",
+    "title": "Logo Generator: SVG 로고와 전문가급 쇼케이스를 만드는 Claude Code 스킬",
+    "url": "https://discuss.pytorch.kr/t/logo-generator-svg-claude-code/11295",
+    "summary": "(요약 없음 — data.json에서 직접 채워도 됨)",
+    "tags": [
+      "claude-code",
+      "gemini",
+      "nano-banana",
+      "image-generation"
+    ],
+    "score": 0.74
+  },
+  {
     "date": "2026-07-23",
     "source": "PyTorch KR",
     "title": "video-shotcraft: Claude Code와 Codex를 영상 스튜디오로 바꾸는 AI 스킬",
