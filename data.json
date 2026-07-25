@@ -1,5 +1,33 @@
 [
   {
+    "date": "2026-07-25",
+    "source": "PyTorch KR",
+    "title": "Hallmark: AI 티가 나지 않는 웹 디자인을 만드는 코딩 에이전트 스킬",
+    "url": "https://discuss.pytorch.kr/t/hallmark-ai/11348",
+    "summary": "(요약 없음 — data.json에서 직접 채워도 됨)",
+    "tags": [
+      "claude-code",
+      "mit-license",
+      "frontend",
+      "ai-design"
+    ],
+    "score": 0.73
+  },
+  {
+    "date": "2026-07-25",
+    "source": "PyTorch KR",
+    "title": "OfficeCLI: AI 에이전트가 Word, Excel, PowerPoint 문서를 다루는 명령줄 도구",
+    "url": "https://discuss.pytorch.kr/t/officecli-ai-word-excel-powerpoint/11347",
+    "summary": "(요약 없음 — data.json에서 직접 채워도 됨)",
+    "tags": [
+      "ai-agent",
+      "mcp-server",
+      "apache-2",
+      "cli"
+    ],
+    "score": 0.71
+  },
+  {
     "date": "2026-07-24",
     "source": "PyTorch KR",
     "title": "Chops: Claude Code, Cursor, Codex 등의 에이전트 스킬을 한곳에서 관리하는 macOS 앱",
