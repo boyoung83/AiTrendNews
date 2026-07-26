@@ -1,5 +1,33 @@
 [
   {
+    "date": "2026-07-26",
+    "source": "PyTorch KR",
+    "title": "Code Review Skill: 20여 개 언어와 프레임워크를 다루는 Claude Code 코드 리뷰 스킬",
+    "url": "https://discuss.pytorch.kr/t/code-review-skill-20-claude-code/11350",
+    "summary": "(요약 없음 — data.json에서 직접 채워도 됨)",
+    "tags": [
+      "claude-code",
+      "mit-license",
+      "developer-tools",
+      "code-review"
+    ],
+    "score": 0.65
+  },
+  {
+    "date": "2026-07-26",
+    "source": "PyTorch KR",
+    "title": "OpenAI Secure MCP Tunnel: 사설 MCP 서버를 공개하지 않고 ChatGPT와 Codex에 연결하는 프로젝트",
+    "url": "https://discuss.pytorch.kr/t/openai-secure-mcp-tunnel-mcp-chatgpt-codex/11369",
+    "summary": "(요약 없음 — data.json에서 직접 채워도 됨)",
+    "tags": [
+      "openai",
+      "agent",
+      "mcp",
+      "codex"
+    ],
+    "score": 0.64
+  },
+  {
     "date": "2026-07-25",
     "source": "PyTorch KR",
     "title": "Hallmark: AI 티가 나지 않는 웹 디자인을 만드는 코딩 에이전트 스킬",
