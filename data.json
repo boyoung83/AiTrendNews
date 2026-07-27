@@ -1,5 +1,33 @@
 [
   {
+    "date": "2026-07-27",
+    "source": "PyTorch KR",
+    "title": "open-kritt: 여러 AI 에이전트로 코드 취약점을 찾는 오픈소스 보안 연구 플랫폼",
+    "url": "https://discuss.pytorch.kr/t/open-kritt-ai/11418",
+    "summary": "(요약 없음 — data.json에서 직접 채워도 됨)",
+    "tags": [
+      "ai-agent",
+      "agpl-3",
+      "vulnerability",
+      "bug-bounty"
+    ],
+    "score": 0.64
+  },
+  {
+    "date": "2026-07-27",
+    "source": "PyTorch KR",
+    "title": "Phantom: 자기만의 컴퓨터를 가지고 스스로 진화하는 AI 동료 에이전트",
+    "url": "https://discuss.pytorch.kr/t/phantom-ai/11349",
+    "summary": "(요약 없음 — data.json에서 직접 채워도 됨)",
+    "tags": [
+      "ai-agent",
+      "mcp-server",
+      "autonomous-agent",
+      "claude-agent-sdk"
+    ],
+    "score": 0.58
+  },
+  {
     "date": "2026-07-26",
     "source": "PyTorch KR",
     "title": "Code Review Skill: 20여 개 언어와 프레임워크를 다루는 Claude Code 코드 리뷰 스킬",
