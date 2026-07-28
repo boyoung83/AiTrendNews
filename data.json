@@ -1,5 +1,33 @@
 [
   {
+    "date": "2026-07-28",
+    "source": "PyTorch KR",
+    "title": "ko-embedding-leaderboard: 한국어 임베딩 모델을 평가하는 오픈소스 리더보드",
+    "url": "https://discuss.pytorch.kr/t/ko-embedding-leaderboard/11416",
+    "summary": "(요약 없음 — data.json에서 직접 채워도 됨)",
+    "tags": [
+      "embedding",
+      "leaderboard",
+      "mteb",
+      "information-retrieval"
+    ],
+    "score": 0.56
+  },
+  {
+    "date": "2026-07-28",
+    "source": "PyTorch KR",
+    "title": "Open Generative UI: AI 에이전트가 대화로 인터랙티브 UI를 생성하는 오픈소스 프로젝트",
+    "url": "https://discuss.pytorch.kr/t/open-generative-ui-ai-ui/11345",
+    "summary": "(요약 없음 — data.json에서 직접 채워도 됨)",
+    "tags": [
+      "ai-agent",
+      "mcp",
+      "langchain",
+      "generative-ui"
+    ],
+    "score": 0.53
+  },
+  {
     "date": "2026-07-27",
     "source": "PyTorch KR",
     "title": "open-kritt: 여러 AI 에이전트로 코드 취약점을 찾는 오픈소스 보안 연구 플랫폼",
