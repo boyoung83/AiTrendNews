@@ -1,5 +1,33 @@
 [
   {
+    "date": "2026-07-30",
+    "source": "PyTorch KR",
+    "title": "OpenWorker: 데스크톱에서 실제 결과물을 만들어내는 오픈소스 AI Co-worker 프로젝트 (feat. Andrew Ng)",
+    "url": "https://discuss.pytorch.kr/t/openworker-ai-co-worker-feat-andrew-ng/11446",
+    "summary": "(요약 없음 — data.json에서 직접 채워도 됨)",
+    "tags": [
+      "ai-agent",
+      "mcp",
+      "local-llm",
+      "desktop-app"
+    ],
+    "score": 0.52
+  },
+  {
+    "date": "2026-07-30",
+    "source": "PyTorch KR",
+    "title": "DocsGPT: 에이전트 빌더와 문서 분석을 갖춘 오픈소스 프라이빗 AI 플랫폼",
+    "url": "https://discuss.pytorch.kr/t/docsgpt-ai/11449",
+    "summary": "(요약 없음 — data.json에서 직접 채워도 됨)",
+    "tags": [
+      "ai-agent",
+      "rag",
+      "self-hosted",
+      "flask"
+    ],
+    "score": 0.5
+  },
+  {
     "date": "2026-07-29",
     "source": "PyTorch KR",
     "title": "Anthropic이 공개한 Claude Opus 5 프롬프트 작성법 및 Opus 4.8 마이그레이션 가이드",
