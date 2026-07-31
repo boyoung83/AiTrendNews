@@ -1,5 +1,33 @@
 [
   {
+    "date": "2026-07-31",
+    "source": "PyTorch KR",
+    "title": "CodeBurn: AI 코딩 도구 36종의 토큰 사용량과 비용을 로컬에서 추적하는 대시보드",
+    "url": "https://discuss.pytorch.kr/t/codeburn-ai-36/11469",
+    "summary": "(요약 없음 — data.json에서 직접 채워도 됨)",
+    "tags": [
+      "claude-code",
+      "mcp",
+      "coding-agent",
+      "cli"
+    ],
+    "score": 0.63
+  },
+  {
+    "date": "2026-07-31",
+    "source": "PyTorch KR",
+    "title": "SurfSense: 실시간 웹 데이터 커넥터를 갖춘 오픈소스 NotebookLM 대안",
+    "url": "https://discuss.pytorch.kr/t/surfsense-notebooklm/11459",
+    "summary": "(요약 없음 — data.json에서 직접 채워도 됨)",
+    "tags": [
+      "rag",
+      "mcp-server",
+      "self-hosted",
+      "web-scraping"
+    ],
+    "score": 0.53
+  },
+  {
     "date": "2026-07-30",
     "source": "PyTorch KR",
     "title": "OpenWorker: 데스크톱에서 실제 결과물을 만들어내는 오픈소스 AI Co-worker 프로젝트 (feat. Andrew Ng)",
