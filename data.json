@@ -1,5 +1,33 @@
 [
   {
+    "date": "2026-08-01",
+    "source": "PyTorch KR",
+    "title": "html-ppt: 테마 36종과 레이아웃 31종을 갖춘 HTML 프레젠테이션 제작 에이전트 스킬",
+    "url": "https://discuss.pytorch.kr/t/html-ppt-36-31-html/11470",
+    "summary": "(요약 없음 — data.json에서 직접 채워도 됨)",
+    "tags": [
+      "claude-code",
+      "mit-license",
+      "agent-skill",
+      "design-system"
+    ],
+    "score": 0.61
+  },
+  {
+    "date": "2026-08-01",
+    "source": "PyTorch KR",
+    "title": "agentmemory: 코딩 에이전트에 4단계 기억 구조를 붙이는 오픈소스 메모리 서버",
+    "url": "https://discuss.pytorch.kr/t/agentmemory-4/11460",
+    "summary": "(요약 없음 — data.json에서 직접 채워도 됨)",
+    "tags": [
+      "coding-agent",
+      "mcp-server",
+      "self-hosted",
+      "agent-memory"
+    ],
+    "score": 0.47
+  },
+  {
     "date": "2026-07-31",
     "source": "PyTorch KR",
     "title": "CodeBurn: AI 코딩 도구 36종의 토큰 사용량과 비용을 로컬에서 추적하는 대시보드",
