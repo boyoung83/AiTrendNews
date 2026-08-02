@@ -1,5 +1,33 @@
 [
   {
+    "date": "2026-08-02",
+    "source": "PyTorch KR",
+    "title": "autoskills: 프로젝트 기술 스택을 감지해 AI 에이전트 스킬을 자동 설치하는 CLI",
+    "url": "https://discuss.pytorch.kr/t/autoskills-ai-cli/11489",
+    "summary": "(요약 없음 — data.json에서 직접 채워도 됨)",
+    "tags": [
+      "claude-code",
+      "coding-agent",
+      "agent-skills",
+      "cli"
+    ],
+    "score": 0.6
+  },
+  {
+    "date": "2026-08-02",
+    "source": "PyTorch KR",
+    "title": "Open Multi-Agent: 목표를 받아 작업 DAG를 실행 시점에 만드는 멀티 에이전트 프레임워크",
+    "url": "https://discuss.pytorch.kr/t/open-multi-agent-dag/11472",
+    "summary": "(요약 없음 — data.json에서 직접 채워도 됨)",
+    "tags": [
+      "mit-license",
+      "multi-agent",
+      "typescript",
+      "observability"
+    ],
+    "score": 0.47
+  },
+  {
     "date": "2026-08-01",
     "source": "PyTorch KR",
     "title": "html-ppt: 테마 36종과 레이아웃 31종을 갖춘 HTML 프레젠테이션 제작 에이전트 스킬",
