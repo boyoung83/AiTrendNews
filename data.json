@@ -1,5 +1,33 @@
 [
   {
+    "date": "2026-08-03",
+    "source": "PyTorch KR",
+    "title": "Kimi K3 모델 가중치 및 기술 문서 공개: 2.8T 오픈 모델의 아키텍처와 학습 레시피 심층 분석",
+    "url": "https://discuss.pytorch.kr/t/kimi-k3-2-8t/11455",
+    "summary": "(요약 없음 — data.json에서 직접 채워도 됨)",
+    "tags": [
+      "llm",
+      "paper",
+      "agent",
+      "open-weights"
+    ],
+    "score": 0.68
+  },
+  {
+    "date": "2026-08-03",
+    "source": "PyTorch KR",
+    "title": "darwin-skill: 평가와 회귀 테스트로 에이전트 스킬을 진화시키는 최적화 루프",
+    "url": "https://discuss.pytorch.kr/t/darwin-skill/11492",
+    "summary": "(요약 없음 — data.json에서 직접 채워도 됨)",
+    "tags": [
+      "claude-code",
+      "mit-license",
+      "agent-skills",
+      "autoresearch"
+    ],
+    "score": 0.66
+  },
+  {
     "date": "2026-08-02",
     "source": "PyTorch KR",
     "title": "autoskills: 프로젝트 기술 스택을 감지해 AI 에이전트 스킬을 자동 설치하는 CLI",
