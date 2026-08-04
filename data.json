@@ -1,5 +1,33 @@
 [
   {
+    "date": "2026-08-04",
+    "source": "PyTorch KR",
+    "title": "Codex Security: 취약점 탐지부터 검증, 패치까지 수행하는 OpenAI의 보안 스캔 CLI 및 SDK",
+    "url": "https://discuss.pytorch.kr/t/codex-security-openai-cli-sdk/11487",
+    "summary": "(요약 없음 — data.json에서 직접 채워도 됨)",
+    "tags": [
+      "openai",
+      "codex",
+      "ai-security",
+      "devsecops"
+    ],
+    "score": 0.68
+  },
+  {
+    "date": "2026-08-04",
+    "source": "PyTorch KR",
+    "title": "agents-cli: 코딩 어시스턴트를 Google Cloud 에이전트 개발 전문가로 만드는 CLI와 스킬",
+    "url": "https://discuss.pytorch.kr/t/agents-cli-google-cloud-cli/11491",
+    "summary": "(요약 없음 — data.json에서 직접 채워도 됨)",
+    "tags": [
+      "coding-agent",
+      "gemini",
+      "google-cloud",
+      "adk"
+    ],
+    "score": 0.68
+  },
+  {
     "date": "2026-08-03",
     "source": "PyTorch KR",
     "title": "Kimi K3 모델 가중치 및 기술 문서 공개: 2.8T 오픈 모델의 아키텍처와 학습 레시피 심층 분석",
