@@ -1,5 +1,33 @@
 [
   {
+    "date": "2026-08-05",
+    "source": "PyTorch KR",
+    "title": "Qwen, Max 계열 최초로 가중치를 공개하는 2.4T 규모 플래그십 모델 Qwen3.8-Max 출시 및 공개 예정",
+    "url": "https://discuss.pytorch.kr/t/qwen-max-2-4t-qwen3-8-max/11509",
+    "summary": "(요약 없음 — data.json에서 직접 채워도 됨)",
+    "tags": [
+      "llm",
+      "agent",
+      "open-weights",
+      "product-launch"
+    ],
+    "score": 0.73
+  },
+  {
+    "date": "2026-08-05",
+    "source": "PyTorch KR",
+    "title": "[2026/07/27 ~ 08/02] 이번 주에 살펴볼 만한 AI/ML 논문 모음",
+    "url": "https://discuss.pytorch.kr/t/2026-07-27-08-02-ai-ml/11499",
+    "summary": "(요약 없음 — data.json에서 직접 채워도 됨)",
+    "tags": [
+      "paper",
+      "ai-ml-papers-of-the-week",
+      "self-improving-agents",
+      "recommendation-system"
+    ],
+    "score": 0.63
+  },
+  {
     "date": "2026-08-04",
     "source": "PyTorch KR",
     "title": "Codex Security: 취약점 탐지부터 검증, 패치까지 수행하는 OpenAI의 보안 스캔 CLI 및 SDK",
