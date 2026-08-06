@@ -1,5 +1,33 @@
 [
   {
+    "date": "2026-08-06",
+    "source": "PyTorch KR",
+    "title": "MiniMax, 영상과 음향을 함께 만드는 33B 옴니모달 모델 H3 웨이트 공개 (단, 한국 사용 금지🫠)",
+    "url": "https://discuss.pytorch.kr/t/minimax-33b-h3/11523",
+    "summary": "(요약 없음 — data.json에서 직접 채워도 됨)",
+    "tags": [
+      "multimodal",
+      "open-weights",
+      "vllm",
+      "video-generation"
+    ],
+    "score": 0.62
+  },
+  {
+    "date": "2026-08-06",
+    "source": "PyTorch KR",
+    "title": "x402: AI 에이전트가 API와 MCP 도구 사용료를 스스로 지불하는 HTTP 결제 표준",
+    "url": "https://discuss.pytorch.kr/t/x402-ai-api-mcp-http/11513",
+    "summary": "(요약 없음 — data.json에서 직접 채워도 됨)",
+    "tags": [
+      "ai-agent",
+      "mcp",
+      "stablecoin",
+      "x402"
+    ],
+    "score": 0.62
+  },
+  {
     "date": "2026-08-05",
     "source": "PyTorch KR",
     "title": "Qwen, Max 계열 최초로 가중치를 공개하는 2.4T 규모 플래그십 모델 Qwen3.8-Max 출시 및 공개 예정",
