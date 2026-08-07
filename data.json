@@ -1,5 +1,33 @@
 [
   {
+    "date": "2026-08-07",
+    "source": "PyTorch KR",
+    "title": "Archify: 코드베이스를 검증된 대화형 시스템 맵으로 바꾸는 에이전트 스킬",
+    "url": "https://discuss.pytorch.kr/t/archify/11536",
+    "summary": "(요약 없음 — data.json에서 직접 채워도 됨)",
+    "tags": [
+      "claude-code",
+      "developer-tools",
+      "agent-skill",
+      "codex-cli"
+    ],
+    "score": 0.64
+  },
+  {
+    "date": "2026-08-07",
+    "source": "PyTorch KR",
+    "title": "DeepSeek-V4-Flash 정식 버전 출시, 성능은 좋아지면서 가격은 낮아진 모델 (Task당 약 $0.027)",
+    "url": "https://discuss.pytorch.kr/t/deepseek-v4-flash-task-0-027/11533",
+    "summary": "(요약 없음 — data.json에서 직접 채워도 됨)",
+    "tags": [
+      "llm",
+      "opensource",
+      "agent",
+      "deepseek"
+    ],
+    "score": 0.56
+  },
+  {
     "date": "2026-08-06",
     "source": "PyTorch KR",
     "title": "MiniMax, 영상과 음향을 함께 만드는 33B 옴니모달 모델 H3 웨이트 공개 (단, 한국 사용 금지🫠)",
