@@ -1,5 +1,33 @@
 [
   {
+    "date": "2026-08-09",
+    "source": "PyTorch KR",
+    "title": "Meta, 터미널 코딩 에이전트 Muse Code와 코딩 특화 모델 Muse Spark 1.2 출시",
+    "url": "https://discuss.pytorch.kr/t/meta-muse-code-muse-spark-1-2/11554",
+    "summary": "(요약 없음 — data.json에서 직접 채워도 됨)",
+    "tags": [
+      "llm",
+      "agent",
+      "coding-agent",
+      "meta"
+    ],
+    "score": 0.6
+  },
+  {
+    "date": "2026-08-09",
+    "source": "PyTorch KR",
+    "title": "과기정통부와 KISA가 발간한 AI 보안 레드티밍 가이드, AI 레드팀 구성부터 결과 보고까지 [국문/PDF/69p]",
+    "url": "https://discuss.pytorch.kr/t/kisa-ai-ai-pdf-69p/11535",
+    "summary": "(요약 없음 — data.json에서 직접 채워도 됨)",
+    "tags": [
+      "agent",
+      "ai-security",
+      "guide",
+      "prompt-injection"
+    ],
+    "score": 0.6
+  },
+  {
     "date": "2026-08-08",
     "source": "PyTorch KR",
     "title": "Cloudflare OS: Cloudflare 오픈소스로 공개한 사내 AI 에이전트 워크스페이스 도구 (및 커뮤니티 의견들)",
