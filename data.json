@@ -1,5 +1,33 @@
 [
   {
+    "date": "2026-08-10",
+    "source": "PyTorch KR",
+    "title": "anydoc: 오피스 문서를 LLM이 읽을 Markdown으로 5밀리초 안에 바꾸는 Rust 라이브러리",
+    "url": "https://discuss.pytorch.kr/t/anydoc-llm-markdown-5-rust/11552",
+    "summary": "(요약 없음 — data.json에서 직접 채워도 됨)",
+    "tags": [
+      "llm",
+      "rust",
+      "agent-skill",
+      "markdown"
+    ],
+    "score": 0.54
+  },
+  {
+    "date": "2026-08-10",
+    "source": "PyTorch KR",
+    "title": "Liquid AI, 휴대폰에서 실행 가능한 온-디바이스 에이전트 모델 LFM2.5-2.6B 공개",
+    "url": "https://discuss.pytorch.kr/t/liquid-ai-lfm2-5-2-6b/11549",
+    "summary": "(요약 없음 — data.json에서 직접 채워도 됨)",
+    "tags": [
+      "llm",
+      "agent",
+      "on-device",
+      "product-launch"
+    ],
+    "score": 0.48
+  },
+  {
     "date": "2026-08-09",
     "source": "PyTorch KR",
     "title": "Meta, 터미널 코딩 에이전트 Muse Code와 코딩 특화 모델 Muse Spark 1.2 출시",
