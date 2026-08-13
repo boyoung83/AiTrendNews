@@ -1,5 +1,33 @@
 [
   {
+    "date": "2026-08-13",
+    "source": "PyTorch KR",
+    "title": "OpenMinis: 기기 안의 리눅스 셸과 시스템 권한을 그대로 쓰는 모바일 AI 에이전트 앱",
+    "url": "https://discuss.pytorch.kr/t/openminis-ai/11556",
+    "summary": "(요약 없음 — data.json에서 직접 채워도 됨)",
+    "tags": [
+      "agent-skills",
+      "android",
+      "ios",
+      "swift"
+    ],
+    "score": 0.52
+  },
+  {
+    "date": "2026-08-13",
+    "source": "PyTorch KR",
+    "title": "Comp AI CRM: 에이전트가 스스로 조사하고 근거가 있는 사실만 기록하는 오픈소스 CRM",
+    "url": "https://discuss.pytorch.kr/t/comp-ai-crm-crm/11538",
+    "summary": "(요약 없음 — data.json에서 직접 채워도 됨)",
+    "tags": [
+      "agentic-ai",
+      "bun",
+      "eve",
+      "nestjs"
+    ],
+    "score": 0.5
+  },
+  {
     "date": "2026-08-12",
     "source": "PyTorch KR",
     "title": "interfaces: 코딩 에이전트가 UI를 도메인별로 검토하게 만드는 8개 스킬",
@@ -810,33 +838,5 @@
       "agent"
     ],
     "score": 0.56
-  },
-  {
-    "date": "2026-07-14",
-    "source": "PyTorch KR",
-    "title": "Social Media Skills: Claude 에이전트로 소셜 미디어 콘텐츠를 만드는 스킬 모음",
-    "url": "https://discuss.pytorch.kr/t/social-media-skills-claude/11224",
-    "summary": "(요약 없음 — data.json에서 직접 채워도 됨)",
-    "tags": [
-      "claude-code",
-      "ai-agent",
-      "claude",
-      "agent-skills"
-    ],
-    "score": 0.59
-  },
-  {
-    "date": "2026-07-14",
-    "source": "PyTorch KR",
-    "title": "BigSet: 문장 하나로 웹에서 검증된 데이터셋을 만들고 자동으로 갱신하는 에이전트 도구",
-    "url": "https://discuss.pytorch.kr/t/bigset/11225",
-    "summary": "(요약 없음 — data.json에서 직접 채워도 됨)",
-    "tags": [
-      "ai-agent",
-      "dataset",
-      "web-scraping",
-      "data-extraction"
-    ],
-    "score": 0.59
   }
 ]
