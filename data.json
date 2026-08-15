@@ -1,5 +1,33 @@
 [
   {
+    "date": "2026-08-15",
+    "source": "PyTorch KR",
+    "title": "Gathered Scenes Zine: 사진을 종이 질감의 편집 디자인 작품으로 바꾸는 Codex 스킬",
+    "url": "https://discuss.pytorch.kr/t/gathered-scenes-zine-codex/11607",
+    "summary": "(요약 없음 — data.json에서 직접 채워도 됨)",
+    "tags": [
+      "codex",
+      "agent-skills",
+      "image-generation",
+      "non-commercial-license"
+    ],
+    "score": 0.56
+  },
+  {
+    "date": "2026-08-15",
+    "source": "PyTorch KR",
+    "title": "SIE: 에이전트가 쓰는 임베딩부터 OCR까지 한 클러스터에서 서빙하는 오픈소스 추론 엔진",
+    "url": "https://discuss.pytorch.kr/t/sie-ocr/11597",
+    "summary": "(요약 없음 — data.json에서 직접 채워도 됨)",
+    "tags": [
+      "rag",
+      "apache-2",
+      "reranking",
+      "embeddings"
+    ],
+    "score": 0.44
+  },
+  {
     "date": "2026-08-14",
     "source": "PyTorch KR",
     "title": "Skill Recorder: Microsoft가 공개한, 화면 녹화를 에이전트 스킬로 바꾸는 도구",
@@ -810,33 +838,5 @@
       "product-launch"
     ],
     "score": 0.53
-  },
-  {
-    "date": "2026-07-16",
-    "source": "PyTorch KR",
-    "title": "pdf-inspector: OCR 없이 PDF를 분류하고 마크다운으로 추출하는 Rust 라이브러리 (feat. firecrawl)",
-    "url": "https://discuss.pytorch.kr/t/pdf-inspector-ocr-pdf-rust-feat-firecrawl/11255",
-    "summary": "(요약 없음 — data.json에서 직접 채워도 됨)",
-    "tags": [
-      "rag",
-      "mit-license",
-      "rust",
-      "pdf"
-    ],
-    "score": 0.63
-  },
-  {
-    "date": "2026-07-16",
-    "source": "PyTorch KR",
-    "title": "Weft: LLM과 사람, API를 기본 노드로 삼는 AI 오케스트레이션 프로그래밍 언어",
-    "url": "https://discuss.pytorch.kr/t/weft-llm-api-ai/11236",
-    "summary": "(요약 없음 — data.json에서 직접 채워도 됨)",
-    "tags": [
-      "agent-framework",
-      "rust",
-      "human-in-the-loop",
-      "programming-language"
-    ],
-    "score": 0.51
   }
 ]
