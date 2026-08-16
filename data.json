@@ -1,5 +1,33 @@
 [
   {
+    "date": "2026-08-16",
+    "source": "PyTorch KR",
+    "title": "누구나 AI로 신약 발견을 할 수 있는 시대, 신약개발 공익 챌린지가 허깅페이스에 공개되다",
+    "url": "https://discuss.pytorch.kr/t/ai/11625",
+    "summary": "(요약 없음 — data.json에서 직접 채워도 됨)",
+    "tags": [
+      "ai",
+      "vidraft",
+      "비드래프트",
+      "신약"
+    ],
+    "score": 0.48
+  },
+  {
+    "date": "2026-08-16",
+    "source": "PyTorch KR",
+    "title": "kimi-k3-in-c: 2.78조 파라미터 모델을 GPU 없이 8GB 램에서 돌리는 C99 추론 엔진",
+    "url": "https://discuss.pytorch.kr/t/kimi-k3-in-c-2-78-gpu-8gb-c99/11574",
+    "summary": "(요약 없음 — data.json에서 직접 채워도 됨)",
+    "tags": [
+      "mixture-of-experts",
+      "kimi-k3",
+      "cpu-inference",
+      "memory-efficient"
+    ],
+    "score": 0.44
+  },
+  {
     "date": "2026-08-15",
     "source": "PyTorch KR",
     "title": "Gathered Scenes Zine: 사진을 종이 질감의 편집 디자인 작품으로 바꾸는 Codex 스킬",
@@ -808,34 +836,6 @@
       "mcp",
       "knowledge-base",
       "llm-wiki"
-    ],
-    "score": 0.53
-  },
-  {
-    "date": "2026-07-17",
-    "source": "PyTorch KR",
-    "title": "scroll-world: 스크롤에 맞춰 브랜드를 3D 월드처럼 비행하는 랜딩페이지를 만드는 에이전트 스킬",
-    "url": "https://discuss.pytorch.kr/t/scroll-world-3d/11268",
-    "summary": "(요약 없음 — data.json에서 직접 채워도 됨)",
-    "tags": [
-      "claude-code",
-      "mit-license",
-      "agent-skill",
-      "landing-page"
-    ],
-    "score": 0.6
-  },
-  {
-    "date": "2026-07-17",
-    "source": "PyTorch KR",
-    "title": "OpenAI, 에이전틱 코딩용 매크로패드 Codex Micro 공개 (feat. Work Louder)",
-    "url": "https://discuss.pytorch.kr/t/openai-codex-micro-feat-work-louder/11282",
-    "summary": "(요약 없음 — data.json에서 직접 채워도 됨)",
-    "tags": [
-      "openai",
-      "agent",
-      "codex",
-      "product-launch"
     ],
     "score": 0.53
   }
