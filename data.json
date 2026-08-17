@@ -1,5 +1,33 @@
 [
   {
+    "date": "2026-08-17",
+    "source": "PyTorch KR",
+    "title": "DeepSeek Harness: 에이전트 루프까지 설정으로 교체하는 플러그인 구조의 코딩 에이전트",
+    "url": "https://discuss.pytorch.kr/t/deepseek-harness/11628",
+    "summary": "(요약 없음 — data.json에서 직접 채워도 됨)",
+    "tags": [
+      "coding-agent",
+      "agent-framework",
+      "typescript",
+      "deepseek"
+    ],
+    "score": 0.48
+  },
+  {
+    "date": "2026-08-17",
+    "source": "PyTorch KR",
+    "title": "Agent-Safe Pipeline: 에이전트는 제안만 하고 승인은 정책이 결정하는 참조 아키텍처",
+    "url": "https://discuss.pytorch.kr/t/agent-safe-pipeline/11630",
+    "summary": "(요약 없음 — data.json에서 직접 채워도 됨)",
+    "tags": [
+      "mcp",
+      "prompt-injection",
+      "human-in-the-loop",
+      "policy-as-code"
+    ],
+    "score": 0.45
+  },
+  {
     "date": "2026-08-16",
     "source": "PyTorch KR",
     "title": "누구나 AI로 신약 발견을 할 수 있는 시대, 신약개발 공익 챌린지가 허깅페이스에 공개되다",
@@ -810,33 +838,5 @@
       "cli"
     ],
     "score": 0.49
-  },
-  {
-    "date": "2026-07-18",
-    "source": "PyTorch KR",
-    "title": "ASO App Store Screenshots: 앱 코드를 분석해 앱스토어 스크린샷을 만드는 Claude 스킬",
-    "url": "https://discuss.pytorch.kr/t/aso-app-store-screenshots-claude/11278",
-    "summary": "(요약 없음 — data.json에서 직접 채워도 됨)",
-    "tags": [
-      "claude-code",
-      "agent-skill",
-      "nano-banana",
-      "gemini-mcp"
-    ],
-    "score": 0.59
-  },
-  {
-    "date": "2026-07-18",
-    "source": "PyTorch KR",
-    "title": "OpenKnowledge: Claude, Codex와 함께 편집하는 로컬 마크다운 에디터 겸 LLM Wiki",
-    "url": "https://discuss.pytorch.kr/t/openknowledge-claude-codex-llm-wiki/11222",
-    "summary": "(요약 없음 — data.json에서 직접 채워도 됨)",
-    "tags": [
-      "ai-agent",
-      "mcp",
-      "knowledge-base",
-      "llm-wiki"
-    ],
-    "score": 0.53
   }
 ]
