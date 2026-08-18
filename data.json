@@ -1,5 +1,33 @@
 [
   {
+    "date": "2026-08-18",
+    "source": "PyTorch KR",
+    "title": "Photo Abstract Editorial: 원본 사진을 건드리지 않고 추상 패널을 덧붙이는 Codex 스킬",
+    "url": "https://discuss.pytorch.kr/t/photo-abstract-editorial-codex/11635",
+    "summary": "(요약 없음 — data.json에서 직접 채워도 됨)",
+    "tags": [
+      "codex",
+      "prompt-engineering",
+      "agent-skill",
+      "image-generation"
+    ],
+    "score": 0.52
+  },
+  {
+    "date": "2026-08-18",
+    "source": "PyTorch KR",
+    "title": "Moli: Chrome Headless보다 가벼우면서 웹 페이지 데이터 활용에 적합한 AI 에이전트용 헤드리스 브라우저",
+    "url": "https://discuss.pytorch.kr/t/moli-chrome-headless-ai/11643",
+    "summary": "(요약 없음 — data.json에서 직접 채워도 됨)",
+    "tags": [
+      "ai-agent",
+      "rust",
+      "web-scraping",
+      "browser-automation"
+    ],
+    "score": 0.45
+  },
+  {
     "date": "2026-08-17",
     "source": "PyTorch KR",
     "title": "DeepSeek Harness: 에이전트 루프까지 설정으로 교체하는 플러그인 구조의 코딩 에이전트",
@@ -810,33 +838,5 @@
       "open-weights"
     ],
     "score": 0.5
-  },
-  {
-    "date": "2026-07-19",
-    "source": "PyTorch KR",
-    "title": "local-llm: 최신 LLM을 로컬에서 직접 돌리는 GPU 하드웨어 구성 가이드",
-    "url": "https://discuss.pytorch.kr/t/local-llm-llm-gpu/11274",
-    "summary": "(요약 없음 — data.json에서 직접 채워도 됨)",
-    "tags": [
-      "local-llm",
-      "vllm",
-      "multi-gpu",
-      "self-hosting"
-    ],
-    "score": 0.6
-  },
-  {
-    "date": "2026-07-19",
-    "source": "PyTorch KR",
-    "title": "keep-codex-fast: 로컬 Codex 상태를 백업 우선으로 정리해 빠르게 유지하는 스킬",
-    "url": "https://discuss.pytorch.kr/t/keep-codex-fast-codex/11277",
-    "summary": "(요약 없음 — data.json에서 직접 채워도 됨)",
-    "tags": [
-      "coding-agent",
-      "mit-license",
-      "codex",
-      "cli"
-    ],
-    "score": 0.49
   }
 ]
