@@ -1,5 +1,33 @@
 [
   {
+    "date": "2026-08-19",
+    "source": "PyTorch KR",
+    "title": "Andrew Ng의 AI Engineering Skills Map: 개발자가 갖춰야 할 4가지 핵심 역량들",
+    "url": "https://discuss.pytorch.kr/t/andrew-ng-ai-engineering-skills-map-4/11638",
+    "summary": "(요약 없음 — data.json에서 직접 채워도 됨)",
+    "tags": [
+      "coding-agent",
+      "andrew-ng",
+      "ai-engineering",
+      "career"
+    ],
+    "score": 0.63
+  },
+  {
+    "date": "2026-08-19",
+    "source": "PyTorch KR",
+    "title": "How to Train Your GPT: LLaMA 3 구조를 밑바닥부터 구현하며 배우는 LLM의 원리와 동작",
+    "url": "https://discuss.pytorch.kr/t/how-to-train-your-gpt-llama-3-llm/11599",
+    "summary": "(요약 없음 — data.json에서 직접 채워도 됨)",
+    "tags": [
+      "mit-license",
+      "pytorch",
+      "transformer",
+      "llm-from-scratch"
+    ],
+    "score": 0.45
+  },
+  {
     "date": "2026-08-18",
     "source": "PyTorch KR",
     "title": "Photo Abstract Editorial: 원본 사진을 건드리지 않고 추상 패널을 덧붙이는 Codex 스킬",
@@ -810,33 +838,5 @@
       "fastapi"
     ],
     "score": 0.47
-  },
-  {
-    "date": "2026-07-20",
-    "source": "PyTorch KR",
-    "title": "NVIDIA, RTEB 1위 오픈 임베딩 모델 Nemotron 3 Embed 공개 (feat. RAG, 에이전트 검색)",
-    "url": "https://discuss.pytorch.kr/t/nvidia-rteb-1-nemotron-3-embed-feat-rag/11308",
-    "summary": "(요약 없음 — data.json에서 직접 채워도 됨)",
-    "tags": [
-      "llm",
-      "opensource",
-      "rag",
-      "agent"
-    ],
-    "score": 0.6
-  },
-  {
-    "date": "2026-07-20",
-    "source": "PyTorch KR",
-    "title": "Mozilla 재단이 공개한 오픈소스 AI 현황 2026: '성능 격차는 3.3%로, 경쟁은 하네스로'",
-    "url": "https://discuss.pytorch.kr/t/mozilla-ai-2026-3-3/11305",
-    "summary": "(요약 없음 — data.json에서 직접 채워도 됨)",
-    "tags": [
-      "llm",
-      "opensource",
-      "agent",
-      "open-weights"
-    ],
-    "score": 0.5
   }
 ]
