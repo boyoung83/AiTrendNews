@@ -1,5 +1,33 @@
 [
   {
+    "date": "2026-08-20",
+    "source": "PyTorch KR",
+    "title": "Cindy: Claude Code와 Codex를 작업 도중에 바꿔 가며 쓰는 오픈소스 AI 에이전트 클라이언트",
+    "url": "https://discuss.pytorch.kr/t/cindy-claude-code-codex-ai/11657",
+    "summary": "(요약 없음 — data.json에서 직접 채워도 됨)",
+    "tags": [
+      "claude-code",
+      "ai-agent",
+      "codex",
+      "agent-harness"
+    ],
+    "score": 0.64
+  },
+  {
+    "date": "2026-08-20",
+    "source": "PyTorch KR",
+    "title": "phone-harness: Xcode나 WebDriverAgent 없이 AI 에이전트가 실제 아이폰을 조작하는 도구",
+    "url": "https://discuss.pytorch.kr/t/phone-harness-xcode-webdriveragent-ai/11644",
+    "summary": "(요약 없음 — data.json에서 직접 채워도 됨)",
+    "tags": [
+      "agent",
+      "mit-license",
+      "ocr",
+      "macos"
+    ],
+    "score": 0.61
+  },
+  {
     "date": "2026-08-19",
     "source": "PyTorch KR",
     "title": "Andrew Ng의 AI Engineering Skills Map: 개발자가 갖춰야 할 4가지 핵심 역량들",
@@ -810,33 +838,5 @@
       "coding-agent"
     ],
     "score": 0.5
-  },
-  {
-    "date": "2026-07-21",
-    "source": "PyTorch KR",
-    "title": "Kimi K3, Moonshot AI가 공개한 세계 첫 3T급 오픈 웨이트 모델 (전체 가중치 공개는 7월 27일 예정)",
-    "url": "https://discuss.pytorch.kr/t/kimi-k3-moonshot-ai-3t-7-27/11301",
-    "summary": "(요약 없음 — data.json에서 직접 채워도 됨)",
-    "tags": [
-      "llm",
-      "agent",
-      "open-weights",
-      "moe"
-    ],
-    "score": 0.51
-  },
-  {
-    "date": "2026-07-21",
-    "source": "PyTorch KR",
-    "title": "Full-Stack AI Agent Template: AI 에이전트와 RAG를 갖춘 풀스택 앱 생성 템플릿 프로젝트",
-    "url": "https://discuss.pytorch.kr/t/full-stack-ai-agent-template-ai-rag/11325",
-    "summary": "(요약 없음 — data.json에서 직접 채워도 됨)",
-    "tags": [
-      "rag",
-      "ai-agent",
-      "langgraph",
-      "fastapi"
-    ],
-    "score": 0.47
   }
 ]
