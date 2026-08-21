@@ -1,5 +1,33 @@
 [
   {
+    "date": "2026-08-21",
+    "source": "PyTorch KR",
+    "title": "Oil Motion: AI 생성 영상을 스크롤과 마우스가 제어하는 웹 애니메이션으로 바꾸는 에이전트 스킬",
+    "url": "https://discuss.pytorch.kr/t/oil-motion-ai/11668",
+    "summary": "(요약 없음 — data.json에서 직접 채워도 됨)",
+    "tags": [
+      "mit-license",
+      "agent-skill",
+      "video-generation",
+      "minimax-h3"
+    ],
+    "score": 0.6
+  },
+  {
+    "date": "2026-08-21",
+    "source": "PyTorch KR",
+    "title": "Cumora: AI 에이전트들과 업무를 나누고 진행 상황을 공유하는 에이전트 팀을 위한 채팅 앱",
+    "url": "https://discuss.pytorch.kr/t/cumora-ai/11666",
+    "summary": "(요약 없음 — data.json에서 직접 채워도 됨)",
+    "tags": [
+      "claude-code",
+      "mit-license",
+      "multi-agent",
+      "codex"
+    ],
+    "score": 0.52
+  },
+  {
     "date": "2026-08-20",
     "source": "PyTorch KR",
     "title": "Cindy: Claude Code와 Codex를 작업 도중에 바꿔 가며 쓰는 오픈소스 AI 에이전트 클라이언트",
@@ -810,33 +838,5 @@
       "codex"
     ],
     "score": 0.47
-  },
-  {
-    "date": "2026-07-22",
-    "source": "PyTorch KR",
-    "title": "PIKE-RAG: 전문 지식과 추론으로 정확도를 높인 Microsoft의 산업용 RAG 프레임워크",
-    "url": "https://discuss.pytorch.kr/t/pike-rag-microsoft-rag/11323",
-    "summary": "(요약 없음 — data.json에서 직접 채워도 됨)",
-    "tags": [
-      "rag",
-      "mit-license",
-      "microsoft",
-      "knowledge-graph"
-    ],
-    "score": 0.52
-  },
-  {
-    "date": "2026-07-22",
-    "source": "PyTorch KR",
-    "title": "스마트폰을 엔지니어링 컨트롤 플레인으로, OpenAI Codex Remote 모바일 활용 공식 가이드",
-    "url": "https://discuss.pytorch.kr/t/openai-codex-remote/11370",
-    "summary": "(요약 없음 — data.json에서 직접 채워도 됨)",
-    "tags": [
-      "openai",
-      "agent",
-      "chatgpt",
-      "coding-agent"
-    ],
-    "score": 0.5
   }
 ]
