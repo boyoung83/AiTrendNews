@@ -1,5 +1,33 @@
 [
   {
+    "date": "2026-08-22",
+    "source": "PyTorch KR",
+    "title": "hyperresearch: 읽은 자료를 보관해 다음 리서치에 재사용하는 Claude Code용 16단계 조사 파이프라인",
+    "url": "https://discuss.pytorch.kr/t/hyperresearch-claude-code-16/11646",
+    "summary": "(요약 없음 — data.json에서 직접 채워도 됨)",
+    "tags": [
+      "claude-code",
+      "agent",
+      "mit-license",
+      "deep-research"
+    ],
+    "score": 0.47
+  },
+  {
+    "date": "2026-08-22",
+    "source": "PyTorch KR",
+    "title": "Sol Advisor: 작업 규모와 위험도에 따라 서브 에이전트 위임 여부를 결정하는 Codex 에이전트 오케스트레이션 플러그인",
+    "url": "https://discuss.pytorch.kr/t/sol-advisor-codex/11678",
+    "summary": "(요약 없음 — data.json에서 직접 채워도 됨)",
+    "tags": [
+      "mit-license",
+      "coding-agent",
+      "codex",
+      "code-review"
+    ],
+    "score": 0.47
+  },
+  {
     "date": "2026-08-21",
     "source": "PyTorch KR",
     "title": "Oil Motion: AI 생성 영상을 스크롤과 마우스가 제어하는 웹 애니메이션으로 바꾸는 에이전트 스킬",
@@ -810,33 +838,5 @@
       "image-generation"
     ],
     "score": 0.74
-  },
-  {
-    "date": "2026-07-23",
-    "source": "PyTorch KR",
-    "title": "video-shotcraft: Claude Code와 Codex를 영상 스튜디오로 바꾸는 AI 스킬",
-    "url": "https://discuss.pytorch.kr/t/video-shotcraft-claude-code-codex-ai/11377",
-    "summary": "(요약 없음 — data.json에서 직접 채워도 됨)",
-    "tags": [
-      "claude-code",
-      "agent-skill",
-      "motion-design",
-      "remotion"
-    ],
-    "score": 0.5
-  },
-  {
-    "date": "2026-07-23",
-    "source": "PyTorch KR",
-    "title": "Auto Company: 내 PC에서 24시간 돌아가는 14인 AI 에이전트 자율 회사",
-    "url": "https://discuss.pytorch.kr/t/auto-company-pc-24-14-ai/11378",
-    "summary": "(요약 없음 — data.json에서 직접 채워도 됨)",
-    "tags": [
-      "claude-code",
-      "ai-agent",
-      "multi-agent",
-      "codex"
-    ],
-    "score": 0.47
   }
 ]
