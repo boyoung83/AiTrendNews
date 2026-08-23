@@ -1,5 +1,33 @@
 [
   {
+    "date": "2026-08-23",
+    "source": "PyTorch KR",
+    "title": "AI 신약 후보 물질 발견을 위한 '예측 도구(능력)' 평가 리더보드 허깅페이스에 공개",
+    "url": "https://discuss.pytorch.kr/t/ai/11688",
+    "summary": "(요약 없음 — data.json에서 직접 채워도 됨)",
+    "tags": [
+      "ai",
+      "vidraft",
+      "비드래프트",
+      "신약"
+    ],
+    "score": 0.53
+  },
+  {
+    "date": "2026-08-23",
+    "source": "PyTorch KR",
+    "title": "Hugging Face가 공개한 2026 여름 기준 공개된 AI 모델 보고서: 좋아요와 다운로드는 서로 다른 경제입니다",
+    "url": "https://discuss.pytorch.kr/t/hugging-face-2026-ai/11674",
+    "summary": "(요약 없음 — data.json에서 직접 채워도 됨)",
+    "tags": [
+      "llm",
+      "agent",
+      "report",
+      "qwen"
+    ],
+    "score": 0.46
+  },
+  {
     "date": "2026-08-22",
     "source": "PyTorch KR",
     "title": "hyperresearch: 읽은 자료를 보관해 다음 리서치에 재사용하는 Claude Code용 16단계 조사 파이프라인",
@@ -810,33 +838,5 @@
       "cli"
     ],
     "score": 0.71
-  },
-  {
-    "date": "2026-07-24",
-    "source": "PyTorch KR",
-    "title": "Chops: Claude Code, Cursor, Codex 등의 에이전트 스킬을 한곳에서 관리하는 macOS 앱",
-    "url": "https://discuss.pytorch.kr/t/chops-claude-code-cursor-codex-macos/11351",
-    "summary": "(요약 없음 — data.json에서 직접 채워도 됨)",
-    "tags": [
-      "claude-code",
-      "agent-skills",
-      "developer-tools",
-      "macos"
-    ],
-    "score": 0.75
-  },
-  {
-    "date": "2026-07-24",
-    "source": "PyTorch KR",
-    "title": "Logo Generator: SVG 로고와 전문가급 쇼케이스를 만드는 Claude Code 스킬",
-    "url": "https://discuss.pytorch.kr/t/logo-generator-svg-claude-code/11295",
-    "summary": "(요약 없음 — data.json에서 직접 채워도 됨)",
-    "tags": [
-      "claude-code",
-      "gemini",
-      "nano-banana",
-      "image-generation"
-    ],
-    "score": 0.74
   }
 ]
