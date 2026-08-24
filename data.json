@@ -1,5 +1,33 @@
 [
   {
+    "date": "2026-08-24",
+    "source": "PyTorch KR",
+    "title": "IP as Logo: 일관되게 제약조건을 적용하여 일관성있는 기업 IP 마스코트 로고를 만드는 에이전트 스킬",
+    "url": "https://discuss.pytorch.kr/t/ip-as-logo-ip/11687",
+    "summary": "(요약 없음 — data.json에서 직접 채워도 됨)",
+    "tags": [
+      "codex",
+      "agent-skills",
+      "image-generation",
+      "logo-design"
+    ],
+    "score": 0.6
+  },
+  {
+    "date": "2026-08-24",
+    "source": "PyTorch KR",
+    "title": "Stripe의 무인 코딩 에이전트 Minions, 매주 1,300개 PR을 사람 코드 없이 만드는 방법 (feat. goose, MCP)",
+    "url": "https://discuss.pytorch.kr/t/stripe-minions-1-300-pr-feat-goose-mcp/11690",
+    "summary": "(요약 없음 — data.json에서 직접 채워도 됨)",
+    "tags": [
+      "llm",
+      "mcp",
+      "coding-agent",
+      "agent-harness"
+    ],
+    "score": 0.47
+  },
+  {
     "date": "2026-08-23",
     "source": "PyTorch KR",
     "title": "AI 신약 후보 물질 발견을 위한 '예측 도구(능력)' 평가 리더보드 허깅페이스에 공개",
@@ -810,33 +838,5 @@
       "codex"
     ],
     "score": 0.64
-  },
-  {
-    "date": "2026-07-25",
-    "source": "PyTorch KR",
-    "title": "Hallmark: AI 티가 나지 않는 웹 디자인을 만드는 코딩 에이전트 스킬",
-    "url": "https://discuss.pytorch.kr/t/hallmark-ai/11348",
-    "summary": "(요약 없음 — data.json에서 직접 채워도 됨)",
-    "tags": [
-      "claude-code",
-      "mit-license",
-      "frontend",
-      "ai-design"
-    ],
-    "score": 0.73
-  },
-  {
-    "date": "2026-07-25",
-    "source": "PyTorch KR",
-    "title": "OfficeCLI: AI 에이전트가 Word, Excel, PowerPoint 문서를 다루는 명령줄 도구",
-    "url": "https://discuss.pytorch.kr/t/officecli-ai-word-excel-powerpoint/11347",
-    "summary": "(요약 없음 — data.json에서 직접 채워도 됨)",
-    "tags": [
-      "ai-agent",
-      "mcp-server",
-      "apache-2",
-      "cli"
-    ],
-    "score": 0.71
   }
 ]
