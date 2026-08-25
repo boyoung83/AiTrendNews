@@ -1,5 +1,33 @@
 [
   {
+    "date": "2026-08-25",
+    "source": "PyTorch KR",
+    "title": "PenEcho: 손으로 쓴 수식과 도형을 읽고 답을 옆에 그려주는 오픈소스 AI 캔버스",
+    "url": "https://discuss.pytorch.kr/t/penecho-ai/11658",
+    "summary": "(요약 없음 — data.json에서 직접 채워도 됨)",
+    "tags": [
+      "claude-code",
+      "codex",
+      "local-first",
+      "canvas"
+    ],
+    "score": 0.6
+  },
+  {
+    "date": "2026-08-25",
+    "source": "PyTorch KR",
+    "title": "TrueForge: 모델 호출부터 샌드박스, 채팅 UI까지 에이전트 실행 루프를 통째로 제공하는 오픈소스 하네스",
+    "url": "https://discuss.pytorch.kr/t/trueforge-ui/11685",
+    "summary": "(요약 없음 — data.json에서 직접 채워도 됨)",
+    "tags": [
+      "ai-agent",
+      "mcp",
+      "typescript",
+      "self-hosted"
+    ],
+    "score": 0.6
+  },
+  {
     "date": "2026-08-24",
     "source": "PyTorch KR",
     "title": "IP as Logo: 일관되게 제약조건을 적용하여 일관성있는 기업 IP 마스코트 로고를 만드는 에이전트 스킬",
@@ -810,33 +838,5 @@
       "claude-agent-sdk"
     ],
     "score": 0.58
-  },
-  {
-    "date": "2026-07-26",
-    "source": "PyTorch KR",
-    "title": "Code Review Skill: 20여 개 언어와 프레임워크를 다루는 Claude Code 코드 리뷰 스킬",
-    "url": "https://discuss.pytorch.kr/t/code-review-skill-20-claude-code/11350",
-    "summary": "(요약 없음 — data.json에서 직접 채워도 됨)",
-    "tags": [
-      "claude-code",
-      "mit-license",
-      "developer-tools",
-      "code-review"
-    ],
-    "score": 0.65
-  },
-  {
-    "date": "2026-07-26",
-    "source": "PyTorch KR",
-    "title": "OpenAI Secure MCP Tunnel: 사설 MCP 서버를 공개하지 않고 ChatGPT와 Codex에 연결하는 프로젝트",
-    "url": "https://discuss.pytorch.kr/t/openai-secure-mcp-tunnel-mcp-chatgpt-codex/11369",
-    "summary": "(요약 없음 — data.json에서 직접 채워도 됨)",
-    "tags": [
-      "openai",
-      "agent",
-      "mcp",
-      "codex"
-    ],
-    "score": 0.64
   }
 ]
