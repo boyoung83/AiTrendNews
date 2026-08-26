@@ -1,5 +1,33 @@
 [
   {
+    "date": "2026-08-26",
+    "source": "PyTorch KR",
+    "title": "Slack은 어떻게 대화를 조직의 지식으로 바꾸는가: Anthropic이 공개한 사람과 AI 에이전트가 함께 일하는 6가지 원칙 (feat. Claude Tag)",
+    "url": "https://discuss.pytorch.kr/t/slack-anthropic-ai-6-feat-claude-tag/11702",
+    "summary": "(요약 없음 — data.json에서 직접 채워도 됨)",
+    "tags": [
+      "agent",
+      "anthropic",
+      "claude",
+      "enterprise-ai"
+    ],
+    "score": 0.66
+  },
+  {
+    "date": "2026-08-26",
+    "source": "PyTorch KR",
+    "title": "PandaProbe: 에이전트의 실패를 추적/평가하여 스스로 고치는 자기 치유 하네스를 구현한 오픈소스 플랫폼",
+    "url": "https://discuss.pytorch.kr/t/pandaprobe/11715",
+    "summary": "(요약 없음 — data.json에서 직접 채워도 됨)",
+    "tags": [
+      "self-hosted",
+      "llmops",
+      "agent-evaluation",
+      "agent-observability"
+    ],
+    "score": 0.62
+  },
+  {
     "date": "2026-08-25",
     "source": "PyTorch KR",
     "title": "PenEcho: 손으로 쓴 수식과 도형을 읽고 답을 옆에 그려주는 오픈소스 AI 캔버스",
@@ -810,33 +838,5 @@
       "generative-ui"
     ],
     "score": 0.53
-  },
-  {
-    "date": "2026-07-27",
-    "source": "PyTorch KR",
-    "title": "open-kritt: 여러 AI 에이전트로 코드 취약점을 찾는 오픈소스 보안 연구 플랫폼",
-    "url": "https://discuss.pytorch.kr/t/open-kritt-ai/11418",
-    "summary": "(요약 없음 — data.json에서 직접 채워도 됨)",
-    "tags": [
-      "ai-agent",
-      "agpl-3",
-      "vulnerability",
-      "bug-bounty"
-    ],
-    "score": 0.64
-  },
-  {
-    "date": "2026-07-27",
-    "source": "PyTorch KR",
-    "title": "Phantom: 자기만의 컴퓨터를 가지고 스스로 진화하는 AI 동료 에이전트",
-    "url": "https://discuss.pytorch.kr/t/phantom-ai/11349",
-    "summary": "(요약 없음 — data.json에서 직접 채워도 됨)",
-    "tags": [
-      "ai-agent",
-      "mcp-server",
-      "autonomous-agent",
-      "claude-agent-sdk"
-    ],
-    "score": 0.58
   }
 ]
