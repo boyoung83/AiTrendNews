@@ -1,5 +1,33 @@
 [
   {
+    "date": "2026-08-27",
+    "source": "PyTorch KR",
+    "title": "BrowserCode: 정해진 동작 API 대신 자바스크립트를 작성해 실제 Chrome을 조작하는 브라우저 에이전트",
+    "url": "https://discuss.pytorch.kr/t/browsercode-api-chrome/11714",
+    "summary": "(요약 없음 — data.json에서 직접 채워도 됨)",
+    "tags": [
+      "coding-agent",
+      "browser-use",
+      "cdp",
+      "bu-bench"
+    ],
+    "score": 0.69
+  },
+  {
+    "date": "2026-08-27",
+    "source": "PyTorch KR",
+    "title": "Effective HTML: 와이어프레임부터 동작하는 프로토타입까지 코딩 에이전트로 만드는 HTML 스킬 6종",
+    "url": "https://discuss.pytorch.kr/t/effective-html-html-6/11725",
+    "summary": "(요약 없음 — data.json에서 직접 채워도 됨)",
+    "tags": [
+      "claude-code",
+      "codex",
+      "agent-skills",
+      "html"
+    ],
+    "score": 0.6
+  },
+  {
     "date": "2026-08-26",
     "source": "PyTorch KR",
     "title": "Slack은 어떻게 대화를 조직의 지식으로 바꾸는가: Anthropic이 공개한 사람과 AI 에이전트가 함께 일하는 6가지 원칙 (feat. Claude Tag)",
@@ -810,33 +838,5 @@
       "local-first"
     ],
     "score": 0.51
-  },
-  {
-    "date": "2026-07-28",
-    "source": "PyTorch KR",
-    "title": "ko-embedding-leaderboard: 한국어 임베딩 모델을 평가하는 오픈소스 리더보드",
-    "url": "https://discuss.pytorch.kr/t/ko-embedding-leaderboard/11416",
-    "summary": "(요약 없음 — data.json에서 직접 채워도 됨)",
-    "tags": [
-      "embedding",
-      "leaderboard",
-      "mteb",
-      "information-retrieval"
-    ],
-    "score": 0.56
-  },
-  {
-    "date": "2026-07-28",
-    "source": "PyTorch KR",
-    "title": "Open Generative UI: AI 에이전트가 대화로 인터랙티브 UI를 생성하는 오픈소스 프로젝트",
-    "url": "https://discuss.pytorch.kr/t/open-generative-ui-ai-ui/11345",
-    "summary": "(요약 없음 — data.json에서 직접 채워도 됨)",
-    "tags": [
-      "ai-agent",
-      "mcp",
-      "langchain",
-      "generative-ui"
-    ],
-    "score": 0.53
   }
 ]
