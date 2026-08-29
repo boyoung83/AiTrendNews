@@ -1,5 +1,33 @@
 [
   {
+    "date": "2026-08-29",
+    "source": "PyTorch KR",
+    "title": "CodexPro: 허용한 저장소만 ChatGPT에 열어 주는 로컬 MCP 서버 (≠ 사용량 우회 도구)",
+    "url": "https://discuss.pytorch.kr/t/codexpro-chatgpt-mcp/11723",
+    "summary": "(요약 없음 — data.json에서 직접 채워도 됨)",
+    "tags": [
+      "mcp",
+      "chatgpt",
+      "nodejs",
+      "developer-tool"
+    ],
+    "score": 0.58
+  },
+  {
+    "date": "2026-08-29",
+    "source": "PyTorch KR",
+    "title": "OpenAI의 내부 모델 평가 중 Hugging Face를 해킹한 사건에 대한 조사 보고서 3편 정리: OpenAI, Hugging Face, METR 등",
+    "url": "https://discuss.pytorch.kr/t/openai-hugging-face-3-openai-hugging-face-metr/11734",
+    "summary": "(요약 없음 — data.json에서 직접 채워도 됨)",
+    "tags": [
+      "llm",
+      "openai",
+      "agent",
+      "ai-safety"
+    ],
+    "score": 0.54
+  },
+  {
     "date": "2026-08-28",
     "source": "PyTorch KR",
     "title": "FreeToken: 프론티어급 MoE 모델을 게이밍 데스크톱 수준에서 서빙하기 위한 Edge-Serving에 대한 연구",
@@ -810,33 +838,5 @@
       "web-scraping"
     ],
     "score": 0.53
-  },
-  {
-    "date": "2026-07-30",
-    "source": "PyTorch KR",
-    "title": "OpenWorker: 데스크톱에서 실제 결과물을 만들어내는 오픈소스 AI Co-worker 프로젝트 (feat. Andrew Ng)",
-    "url": "https://discuss.pytorch.kr/t/openworker-ai-co-worker-feat-andrew-ng/11446",
-    "summary": "(요약 없음 — data.json에서 직접 채워도 됨)",
-    "tags": [
-      "ai-agent",
-      "mcp",
-      "local-llm",
-      "desktop-app"
-    ],
-    "score": 0.52
-  },
-  {
-    "date": "2026-07-30",
-    "source": "PyTorch KR",
-    "title": "DocsGPT: 에이전트 빌더와 문서 분석을 갖춘 오픈소스 프라이빗 AI 플랫폼",
-    "url": "https://discuss.pytorch.kr/t/docsgpt-ai/11449",
-    "summary": "(요약 없음 — data.json에서 직접 채워도 됨)",
-    "tags": [
-      "ai-agent",
-      "rag",
-      "self-hosted",
-      "flask"
-    ],
-    "score": 0.5
   }
 ]
