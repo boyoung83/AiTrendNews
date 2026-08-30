@@ -1,5 +1,33 @@
 [
   {
+    "date": "2026-08-30",
+    "source": "PyTorch KR",
+    "title": "OpenConnector: 에이전트에 자격 증명을 넘기지 않고 1,000여 개 SaaS에 연결하는 오픈소스 게이트웨이",
+    "url": "https://discuss.pytorch.kr/t/openconnector-1-000-saas/11706",
+    "summary": "(요약 없음 — data.json에서 직접 채워도 됨)",
+    "tags": [
+      "ai-agent",
+      "mcp",
+      "typescript",
+      "self-hosted"
+    ],
+    "score": 0.52
+  },
+  {
+    "date": "2026-08-30",
+    "source": "PyTorch KR",
+    "title": "HarnessRouter: Codex와 Claude Code를 내 컨테이너 하나에서 실행하는 자체 호스팅 게이트웨이",
+    "url": "https://discuss.pytorch.kr/t/harnessrouter-codex-claude-code/11716",
+    "summary": "(요약 없음 — data.json에서 직접 채워도 됨)",
+    "tags": [
+      "coding-agent",
+      "self-hosted",
+      "agent-harness",
+      "docker"
+    ],
+    "score": 0.48
+  },
+  {
     "date": "2026-08-29",
     "source": "PyTorch KR",
     "title": "CodexPro: 허용한 저장소만 ChatGPT에 열어 주는 로컬 MCP 서버 (≠ 사용량 우회 도구)",
@@ -810,33 +838,5 @@
       "agent-memory"
     ],
     "score": 0.47
-  },
-  {
-    "date": "2026-07-31",
-    "source": "PyTorch KR",
-    "title": "CodeBurn: AI 코딩 도구 36종의 토큰 사용량과 비용을 로컬에서 추적하는 대시보드",
-    "url": "https://discuss.pytorch.kr/t/codeburn-ai-36/11469",
-    "summary": "(요약 없음 — data.json에서 직접 채워도 됨)",
-    "tags": [
-      "claude-code",
-      "mcp",
-      "coding-agent",
-      "cli"
-    ],
-    "score": 0.63
-  },
-  {
-    "date": "2026-07-31",
-    "source": "PyTorch KR",
-    "title": "SurfSense: 실시간 웹 데이터 커넥터를 갖춘 오픈소스 NotebookLM 대안",
-    "url": "https://discuss.pytorch.kr/t/surfsense-notebooklm/11459",
-    "summary": "(요약 없음 — data.json에서 직접 채워도 됨)",
-    "tags": [
-      "rag",
-      "mcp-server",
-      "self-hosted",
-      "web-scraping"
-    ],
-    "score": 0.53
   }
 ]
