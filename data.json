@@ -1,5 +1,33 @@
 [
   {
+    "date": "2026-09-01",
+    "source": "PyTorch KR",
+    "title": "Agent Flow: Claude Code와 Codex의 에이전트 실행 과정을 실시간 노드 그래프로 보여주는 도구",
+    "url": "https://discuss.pytorch.kr/t/agent-flow-claude-code-codex/11767",
+    "summary": "(요약 없음 — data.json에서 직접 채워도 됨)",
+    "tags": [
+      "claude-code",
+      "coding-agent",
+      "codex",
+      "observability"
+    ],
+    "score": 0.72
+  },
+  {
+    "date": "2026-09-01",
+    "source": "PyTorch KR",
+    "title": "WikiSkill: 에이전트의 실행 경험을 위키에 쌓아 스킬을 진화시키는 3계층 구조에 대한 연구",
+    "url": "https://discuss.pytorch.kr/t/wikiskill-3/11772",
+    "summary": "(요약 없음 — data.json에서 직접 채워도 됨)",
+    "tags": [
+      "llm",
+      "paper",
+      "agent",
+      "agent-skills"
+    ],
+    "score": 0.68
+  },
+  {
     "date": "2026-08-31",
     "source": "PyTorch KR",
     "title": "SlideOps: 저장소로 만든 슬라이드가 코드와 어긋난 시점을 토큰 없이 찾아내는 에이전트 스킬",
@@ -810,33 +838,5 @@
       "autoresearch"
     ],
     "score": 0.66
-  },
-  {
-    "date": "2026-08-02",
-    "source": "PyTorch KR",
-    "title": "autoskills: 프로젝트 기술 스택을 감지해 AI 에이전트 스킬을 자동 설치하는 CLI",
-    "url": "https://discuss.pytorch.kr/t/autoskills-ai-cli/11489",
-    "summary": "(요약 없음 — data.json에서 직접 채워도 됨)",
-    "tags": [
-      "claude-code",
-      "coding-agent",
-      "agent-skills",
-      "cli"
-    ],
-    "score": 0.6
-  },
-  {
-    "date": "2026-08-02",
-    "source": "PyTorch KR",
-    "title": "Open Multi-Agent: 목표를 받아 작업 DAG를 실행 시점에 만드는 멀티 에이전트 프레임워크",
-    "url": "https://discuss.pytorch.kr/t/open-multi-agent-dag/11472",
-    "summary": "(요약 없음 — data.json에서 직접 채워도 됨)",
-    "tags": [
-      "mit-license",
-      "multi-agent",
-      "typescript",
-      "observability"
-    ],
-    "score": 0.47
   }
 ]
