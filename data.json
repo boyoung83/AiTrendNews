@@ -1,5 +1,33 @@
 [
   {
+    "date": "2026-09-03",
+    "source": "PyTorch KR",
+    "title": "img2obj: 참조 이미지를 애니메이션 가능한 Three.js 절차적 코드로 재구성하는 Codex 플러그인",
+    "url": "https://discuss.pytorch.kr/t/img2obj-three-js-codex/11724",
+    "summary": "(요약 없음 — data.json에서 직접 채워도 됨)",
+    "tags": [
+      "codex",
+      "agent-skills",
+      "procedural-generation",
+      "3d-modeling"
+    ],
+    "score": 0.67
+  },
+  {
+    "date": "2026-09-03",
+    "source": "PyTorch KR",
+    "title": "Reversa: 레거시 코드에서 AI 코딩 에이전트용 명세를 역으로 추출하는 다중 에이전트 프레임워크에 대한 연구",
+    "url": "https://discuss.pytorch.kr/t/reversa-ai/11785",
+    "summary": "(요약 없음 — data.json에서 직접 채워도 됨)",
+    "tags": [
+      "coding-agent",
+      "multi-agent",
+      "spec-driven-development",
+      "reverse-engineering"
+    ],
+    "score": 0.67
+  },
+  {
     "date": "2026-09-02",
     "source": "PyTorch KR",
     "title": "AI 에이전트들로 만든 외계 행성 문명 생성 시뮬레이션 공개",
@@ -810,33 +838,5 @@
       "recommendation-system"
     ],
     "score": 0.63
-  },
-  {
-    "date": "2026-08-04",
-    "source": "PyTorch KR",
-    "title": "Codex Security: 취약점 탐지부터 검증, 패치까지 수행하는 OpenAI의 보안 스캔 CLI 및 SDK",
-    "url": "https://discuss.pytorch.kr/t/codex-security-openai-cli-sdk/11487",
-    "summary": "(요약 없음 — data.json에서 직접 채워도 됨)",
-    "tags": [
-      "openai",
-      "codex",
-      "ai-security",
-      "devsecops"
-    ],
-    "score": 0.68
-  },
-  {
-    "date": "2026-08-04",
-    "source": "PyTorch KR",
-    "title": "agents-cli: 코딩 어시스턴트를 Google Cloud 에이전트 개발 전문가로 만드는 CLI와 스킬",
-    "url": "https://discuss.pytorch.kr/t/agents-cli-google-cloud-cli/11491",
-    "summary": "(요약 없음 — data.json에서 직접 채워도 됨)",
-    "tags": [
-      "coding-agent",
-      "gemini",
-      "google-cloud",
-      "adk"
-    ],
-    "score": 0.68
   }
 ]
