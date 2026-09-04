@@ -1,5 +1,33 @@
 [
   {
+    "date": "2026-09-04",
+    "source": "PyTorch KR",
+    "title": "Goal-Driven: 완료 기준을 검사해 서브 에이전트를 계속 다시 실행하는 다중 에이전트 프롬프트 도구",
+    "url": "https://discuss.pytorch.kr/t/goal-driven/11783",
+    "summary": "(요약 없음 — data.json에서 직접 채워도 됨)",
+    "tags": [
+      "claude-code",
+      "coding-agent",
+      "multi-agent",
+      "prompt-engineering"
+    ],
+    "score": 0.69
+  },
+  {
+    "date": "2026-09-04",
+    "source": "PyTorch KR",
+    "title": "WebMCP, Web 문서를 읽는 AI 에이전트에게 사용 가능한 기능을 도구로 알려주는 웹 표준 제안 (feat. Microsoft, Google, ChatGPT)",
+    "url": "https://discuss.pytorch.kr/t/webmcp-web-ai-feat-microsoft-google-chatgpt/11770",
+    "summary": "(요약 없음 — data.json에서 직접 채워도 됨)",
+    "tags": [
+      "openai",
+      "agent",
+      "mcp",
+      "browser"
+    ],
+    "score": 0.62
+  },
+  {
     "date": "2026-09-03",
     "source": "PyTorch KR",
     "title": "img2obj: 참조 이미지를 애니메이션 가능한 Three.js 절차적 코드로 재구성하는 Codex 플러그인",
@@ -810,33 +838,5 @@
       "x402"
     ],
     "score": 0.62
-  },
-  {
-    "date": "2026-08-05",
-    "source": "PyTorch KR",
-    "title": "Qwen, Max 계열 최초로 가중치를 공개하는 2.4T 규모 플래그십 모델 Qwen3.8-Max 출시 및 공개 예정",
-    "url": "https://discuss.pytorch.kr/t/qwen-max-2-4t-qwen3-8-max/11509",
-    "summary": "(요약 없음 — data.json에서 직접 채워도 됨)",
-    "tags": [
-      "llm",
-      "agent",
-      "open-weights",
-      "product-launch"
-    ],
-    "score": 0.73
-  },
-  {
-    "date": "2026-08-05",
-    "source": "PyTorch KR",
-    "title": "[2026/07/27 ~ 08/02] 이번 주에 살펴볼 만한 AI/ML 논문 모음",
-    "url": "https://discuss.pytorch.kr/t/2026-07-27-08-02-ai-ml/11499",
-    "summary": "(요약 없음 — data.json에서 직접 채워도 됨)",
-    "tags": [
-      "paper",
-      "ai-ml-papers-of-the-week",
-      "self-improving-agents",
-      "recommendation-system"
-    ],
-    "score": 0.63
   }
 ]
