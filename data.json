@@ -1,5 +1,33 @@
 [
   {
+    "date": "2026-09-05",
+    "source": "PyTorch KR",
+    "title": "sepia: AI가 작성한 티를 없애기 위해, 어휘 교정 뿐만 아니라 서사 구조까지 종합적으로 살펴보고 개선하는 에이전트 스킬",
+    "url": "https://discuss.pytorch.kr/t/sepia-ai/11813",
+    "summary": "(요약 없음 — data.json에서 직접 채워도 됨)",
+    "tags": [
+      "claude-code",
+      "prompt-engineering",
+      "agent-skills",
+      "ai-writing"
+    ],
+    "score": 0.72
+  },
+  {
+    "date": "2026-09-05",
+    "source": "PyTorch KR",
+    "title": "OpenAI GPT-6 Astra 출시: 사이버보안 Critical 등급 첫 도달과 낮아진 CoT 모니터링 가능성",
+    "url": "https://discuss.pytorch.kr/t/openai-gpt-6-astra-critical-cot/11819",
+    "summary": "(요약 없음 — data.json에서 직접 채워도 됨)",
+    "tags": [
+      "llm",
+      "openai",
+      "agent",
+      "ai-safety"
+    ],
+    "score": 0.66
+  },
+  {
     "date": "2026-09-04",
     "source": "PyTorch KR",
     "title": "Goal-Driven: 완료 기준을 검사해 서브 에이전트를 계속 다시 실행하는 다중 에이전트 프롬프트 도구",
@@ -810,33 +838,5 @@
       "deepseek"
     ],
     "score": 0.56
-  },
-  {
-    "date": "2026-08-06",
-    "source": "PyTorch KR",
-    "title": "MiniMax, 영상과 음향을 함께 만드는 33B 옴니모달 모델 H3 웨이트 공개 (단, 한국 사용 금지🫠)",
-    "url": "https://discuss.pytorch.kr/t/minimax-33b-h3/11523",
-    "summary": "(요약 없음 — data.json에서 직접 채워도 됨)",
-    "tags": [
-      "multimodal",
-      "open-weights",
-      "vllm",
-      "video-generation"
-    ],
-    "score": 0.62
-  },
-  {
-    "date": "2026-08-06",
-    "source": "PyTorch KR",
-    "title": "x402: AI 에이전트가 API와 MCP 도구 사용료를 스스로 지불하는 HTTP 결제 표준",
-    "url": "https://discuss.pytorch.kr/t/x402-ai-api-mcp-http/11513",
-    "summary": "(요약 없음 — data.json에서 직접 채워도 됨)",
-    "tags": [
-      "ai-agent",
-      "mcp",
-      "stablecoin",
-      "x402"
-    ],
-    "score": 0.62
   }
 ]
