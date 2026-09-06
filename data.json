@@ -1,5 +1,33 @@
 [
   {
+    "date": "2026-09-06",
+    "source": "PyTorch KR",
+    "title": "Code World Model: 코딩 에이전트가 세계의 상태를 코드로 유지하는 영상 월드 모델 (≠ Meta의 동명 코드 모델)",
+    "url": "https://discuss.pytorch.kr/t/code-world-model-meta/11829",
+    "summary": "(요약 없음 — data.json에서 직접 채워도 됨)",
+    "tags": [
+      "coding-agent",
+      "world-model",
+      "video-generation",
+      "lora"
+    ],
+    "score": 0.59
+  },
+  {
+    "date": "2026-09-06",
+    "source": "PyTorch KR",
+    "title": "Claude Commerce Agents: 쇼핑과 백오피스 에이전트를 한 번만 정의해 세 가지 방식으로 실행하는 참조 구현",
+    "url": "https://discuss.pytorch.kr/t/claude-commerce-agents/11828",
+    "summary": "(요약 없음 — data.json에서 직접 채워도 됨)",
+    "tags": [
+      "anthropic",
+      "mcp",
+      "agent-sdk",
+      "reference-implementation"
+    ],
+    "score": 0.59
+  },
+  {
     "date": "2026-09-05",
     "source": "PyTorch KR",
     "title": "sepia: AI가 작성한 티를 없애기 위해, 어휘 교정 뿐만 아니라 서사 구조까지 종합적으로 살펴보고 개선하는 에이전트 스킬",
@@ -810,33 +838,5 @@
       "agent-harness"
     ],
     "score": 0.61
-  },
-  {
-    "date": "2026-08-07",
-    "source": "PyTorch KR",
-    "title": "Archify: 코드베이스를 검증된 대화형 시스템 맵으로 바꾸는 에이전트 스킬",
-    "url": "https://discuss.pytorch.kr/t/archify/11536",
-    "summary": "(요약 없음 — data.json에서 직접 채워도 됨)",
-    "tags": [
-      "claude-code",
-      "developer-tools",
-      "agent-skill",
-      "codex-cli"
-    ],
-    "score": 0.64
-  },
-  {
-    "date": "2026-08-07",
-    "source": "PyTorch KR",
-    "title": "DeepSeek-V4-Flash 정식 버전 출시, 성능은 좋아지면서 가격은 낮아진 모델 (Task당 약 $0.027)",
-    "url": "https://discuss.pytorch.kr/t/deepseek-v4-flash-task-0-027/11533",
-    "summary": "(요약 없음 — data.json에서 직접 채워도 됨)",
-    "tags": [
-      "llm",
-      "opensource",
-      "agent",
-      "deepseek"
-    ],
-    "score": 0.56
   }
 ]
