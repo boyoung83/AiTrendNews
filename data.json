@@ -1,5 +1,33 @@
 [
   {
+    "date": "2026-09-07",
+    "source": "PyTorch KR",
+    "title": "OpenAI가 공개한 GPT-6 Astra 공식 활용 가이드: 자주 되묻는 모델을 끝까지 일하게 하는 프롬프팅과 마이그레이션",
+    "url": "https://discuss.pytorch.kr/t/openai-gpt-6-astra/11846",
+    "summary": "(요약 없음 — data.json에서 직접 채워도 됨)",
+    "tags": [
+      "openai",
+      "agent",
+      "guide",
+      "migration"
+    ],
+    "score": 0.71
+  },
+  {
+    "date": "2026-09-07",
+    "source": "PyTorch KR",
+    "title": "Codex with ChatGPT: 웹 ChatGPT에 설계와 검토를 맡기는 읽기 전용 MCP 연결",
+    "url": "https://discuss.pytorch.kr/t/codex-with-chatgpt-chatgpt-mcp/11804",
+    "summary": "(요약 없음 — data.json에서 직접 채워도 됨)",
+    "tags": [
+      "mcp",
+      "coding-agent",
+      "chatgpt",
+      "codex"
+    ],
+    "score": 0.69
+  },
+  {
     "date": "2026-09-06",
     "source": "PyTorch KR",
     "title": "Code World Model: 코딩 에이전트가 세계의 상태를 코드로 유지하는 영상 월드 모델 (≠ Meta의 동명 코드 모델)",
@@ -810,33 +838,5 @@
       "prompt-injection"
     ],
     "score": 0.6
-  },
-  {
-    "date": "2026-08-08",
-    "source": "PyTorch KR",
-    "title": "Cloudflare OS: Cloudflare 오픈소스로 공개한 사내 AI 에이전트 워크스페이스 도구 (및 커뮤니티 의견들)",
-    "url": "https://discuss.pytorch.kr/t/cloudflare-os-cloudflare-ai/11545",
-    "summary": "(요약 없음 — data.json에서 직접 채워도 됨)",
-    "tags": [
-      "opensource",
-      "agent",
-      "mcp",
-      "product-launch"
-    ],
-    "score": 0.63
-  },
-  {
-    "date": "2026-08-08",
-    "source": "PyTorch KR",
-    "title": "Prime Intellect, 컨텍스트를 변수로 다루는 자기개선형 코딩 에이전트 Prime Agent 공개",
-    "url": "https://discuss.pytorch.kr/t/prime-intellect-prime-agent/11544",
-    "summary": "(요약 없음 — data.json에서 직접 채워도 됨)",
-    "tags": [
-      "opensource",
-      "coding-agent",
-      "llm-agent",
-      "agent-harness"
-    ],
-    "score": 0.61
   }
 ]
