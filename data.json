@@ -1,5 +1,33 @@
 [
   {
+    "date": "2026-09-08",
+    "source": "PyTorch KR",
+    "title": "free PhD labor: 고정된 워크플로우 대신 에이전트가 다음 단계를 정하는 연구 자동화 프레임워크",
+    "url": "https://discuss.pytorch.kr/t/free-phd-labor/11838",
+    "summary": "(요약 없음 — data.json에서 직접 채워도 됨)",
+    "tags": [
+      "multi-agent",
+      "agent-framework",
+      "autoresearch",
+      "research-automation"
+    ],
+    "score": 0.59
+  },
+  {
+    "date": "2026-09-08",
+    "source": "PyTorch KR",
+    "title": "Anthropic, Claude Code 시스템 프롬프트 80% 삭제: Claude 5 세대 컨텍스트 엔지니어링 규칙 6가지",
+    "url": "https://discuss.pytorch.kr/t/anthropic-claude-code-80-claude-5-6/11845",
+    "summary": "(요약 없음 — data.json에서 직접 채워도 됨)",
+    "tags": [
+      "claude-code",
+      "anthropic",
+      "agent-skills",
+      "guide"
+    ],
+    "score": 0.51
+  },
+  {
     "date": "2026-09-07",
     "source": "PyTorch KR",
     "title": "OpenAI가 공개한 GPT-6 Astra 공식 활용 가이드: 자주 되묻는 모델을 끝까지 일하게 하는 프롬프팅과 마이그레이션",
@@ -810,33 +838,5 @@
       "product-launch"
     ],
     "score": 0.48
-  },
-  {
-    "date": "2026-08-09",
-    "source": "PyTorch KR",
-    "title": "Meta, 터미널 코딩 에이전트 Muse Code와 코딩 특화 모델 Muse Spark 1.2 출시",
-    "url": "https://discuss.pytorch.kr/t/meta-muse-code-muse-spark-1-2/11554",
-    "summary": "(요약 없음 — data.json에서 직접 채워도 됨)",
-    "tags": [
-      "llm",
-      "agent",
-      "coding-agent",
-      "meta"
-    ],
-    "score": 0.6
-  },
-  {
-    "date": "2026-08-09",
-    "source": "PyTorch KR",
-    "title": "과기정통부와 KISA가 발간한 AI 보안 레드티밍 가이드, AI 레드팀 구성부터 결과 보고까지 [국문/PDF/69p]",
-    "url": "https://discuss.pytorch.kr/t/kisa-ai-ai-pdf-69p/11535",
-    "summary": "(요약 없음 — data.json에서 직접 채워도 됨)",
-    "tags": [
-      "agent",
-      "ai-security",
-      "guide",
-      "prompt-injection"
-    ],
-    "score": 0.6
   }
 ]
