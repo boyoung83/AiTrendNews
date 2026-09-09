@@ -1,5 +1,33 @@
 [
   {
+    "date": "2026-09-09",
+    "source": "PyTorch KR",
+    "title": "Meta, Muse Spark 1.3 출시: 1M 컨텍스트 검색 55.5점에서 98.1점으로, 코딩 도구 호출 20% 절감",
+    "url": "https://discuss.pytorch.kr/t/meta-muse-spark-1-3-1m-55-5-98-1-20/11860",
+    "summary": "(요약 없음 — data.json에서 직접 채워도 됨)",
+    "tags": [
+      "llm",
+      "agent",
+      "coding-agent",
+      "meta"
+    ],
+    "score": 0.5
+  },
+  {
+    "date": "2026-09-09",
+    "source": "PyTorch KR",
+    "title": "my-free-code: Claude Code와 Codex 등 코딩 에이전트 9종이 모델 설정을 공유하는 로컬 게이트웨이",
+    "url": "https://discuss.pytorch.kr/t/my-free-code-claude-code-codex-9/11843",
+    "summary": "(요약 없음 — data.json에서 직접 채워도 됨)",
+    "tags": [
+      "claude-code",
+      "local-llm",
+      "llm-gateway",
+      "fastapi"
+    ],
+    "score": 0.49
+  },
+  {
     "date": "2026-09-08",
     "source": "PyTorch KR",
     "title": "free PhD labor: 고정된 워크플로우 대신 에이전트가 다음 단계를 정하는 연구 자동화 프레임워크",
@@ -810,33 +838,5 @@
       "llm-security"
     ],
     "score": 0.67
-  },
-  {
-    "date": "2026-08-10",
-    "source": "PyTorch KR",
-    "title": "anydoc: 오피스 문서를 LLM이 읽을 Markdown으로 5밀리초 안에 바꾸는 Rust 라이브러리",
-    "url": "https://discuss.pytorch.kr/t/anydoc-llm-markdown-5-rust/11552",
-    "summary": "(요약 없음 — data.json에서 직접 채워도 됨)",
-    "tags": [
-      "llm",
-      "rust",
-      "agent-skill",
-      "markdown"
-    ],
-    "score": 0.54
-  },
-  {
-    "date": "2026-08-10",
-    "source": "PyTorch KR",
-    "title": "Liquid AI, 휴대폰에서 실행 가능한 온-디바이스 에이전트 모델 LFM2.5-2.6B 공개",
-    "url": "https://discuss.pytorch.kr/t/liquid-ai-lfm2-5-2-6b/11549",
-    "summary": "(요약 없음 — data.json에서 직접 채워도 됨)",
-    "tags": [
-      "llm",
-      "agent",
-      "on-device",
-      "product-launch"
-    ],
-    "score": 0.48
   }
 ]
