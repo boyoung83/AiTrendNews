@@ -1,5 +1,33 @@
 [
   {
+    "date": "2026-09-11",
+    "source": "PyTorch KR",
+    "title": "Envoy AI Gateway가 Agent Router로, AAIF 합류 후에도 CRD와 aigw CLI는 그대로",
+    "url": "https://discuss.pytorch.kr/t/envoy-ai-gateway-agent-router-aaif-crd-aigw-cli/11880",
+    "summary": "(요약 없음 — data.json에서 직접 채워도 됨)",
+    "tags": [
+      "opensource",
+      "agent",
+      "mcp",
+      "ai-gateway"
+    ],
+    "score": 0.59
+  },
+  {
+    "date": "2026-09-11",
+    "source": "PyTorch KR",
+    "title": "FrontierAgent: 단일 에이전트와 병렬 팀 두 방식을 한 터미널에서 고르는 오픈소스 에이전트 런타임 프로젝트",
+    "url": "https://discuss.pytorch.kr/t/frontieragent/11842",
+    "summary": "(요약 없음 — data.json에서 직접 채워도 됨)",
+    "tags": [
+      "multi-agent",
+      "deep-research",
+      "tui",
+      "apodex"
+    ],
+    "score": 0.43
+  },
+  {
     "date": "2026-09-10",
     "source": "PyTorch KR",
     "title": "Goldie: 코딩 에이전트가 앱을 직접 실행해 앱스토어 스크린샷과 미리보기 영상을 만드는 CLI 도구",
@@ -810,33 +838,5 @@
       "nestjs"
     ],
     "score": 0.5
-  },
-  {
-    "date": "2026-08-12",
-    "source": "PyTorch KR",
-    "title": "interfaces: 코딩 에이전트가 UI를 도메인별로 검토하게 만드는 8개 스킬",
-    "url": "https://discuss.pytorch.kr/t/interfaces-ui-8/11582",
-    "summary": "(요약 없음 — data.json에서 직접 채워도 됨)",
-    "tags": [
-      "claude-code",
-      "codex",
-      "agent-skills",
-      "code-review"
-    ],
-    "score": 0.61
-  },
-  {
-    "date": "2026-08-12",
-    "source": "PyTorch KR",
-    "title": "ai-knowledge-graph: 비정형 텍스트에서 지식 그래프를 뽑아 시각화하는 파이썬 도구",
-    "url": "https://discuss.pytorch.kr/t/ai-knowledge-graph/11583",
-    "summary": "(요약 없음 — data.json에서 직접 채워도 됨)",
-    "tags": [
-      "llm",
-      "knowledge-graph",
-      "ollama",
-      "python"
-    ],
-    "score": 0.53
   }
 ]
