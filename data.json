@@ -1,5 +1,33 @@
 [
   {
+    "date": "2026-09-12",
+    "source": "PyTorch KR",
+    "title": "[A2A 알아보기 1편] A2A 프로토콜: 프레임워크가 서로 달라도 에이전트들끼리 서로 작업을 위임하게 하는 표준 규격",
+    "url": "https://discuss.pytorch.kr/t/a2a-1-a2a/11892",
+    "summary": "(요약 없음 — data.json에서 직접 채워도 됨)",
+    "tags": [
+      "mcp",
+      "multi-agent",
+      "a2a",
+      "json-rpc"
+    ],
+    "score": 0.44
+  },
+  {
+    "date": "2026-09-12",
+    "source": "PyTorch KR",
+    "title": "OpenAI, 자동화 연구 인턴 목표 달성 발표와 함께 공개한 사내 측정치: 에이전트 노동이 사람의 3.1배",
+    "url": "https://discuss.pytorch.kr/t/openai-3-1/11849",
+    "summary": "(요약 없음 — data.json에서 직접 채워도 됨)",
+    "tags": [
+      "llm",
+      "openai",
+      "agent",
+      "coding-agent"
+    ],
+    "score": 0.4
+  },
+  {
     "date": "2026-09-11",
     "source": "PyTorch KR",
     "title": "Envoy AI Gateway가 Agent Router로, AAIF 합류 후에도 CRD와 aigw CLI는 그대로",
@@ -810,33 +838,5 @@
       "code-review"
     ],
     "score": 0.62
-  },
-  {
-    "date": "2026-08-13",
-    "source": "PyTorch KR",
-    "title": "OpenMinis: 기기 안의 리눅스 셸과 시스템 권한을 그대로 쓰는 모바일 AI 에이전트 앱",
-    "url": "https://discuss.pytorch.kr/t/openminis-ai/11556",
-    "summary": "(요약 없음 — data.json에서 직접 채워도 됨)",
-    "tags": [
-      "agent-skills",
-      "android",
-      "ios",
-      "swift"
-    ],
-    "score": 0.52
-  },
-  {
-    "date": "2026-08-13",
-    "source": "PyTorch KR",
-    "title": "Comp AI CRM: 에이전트가 스스로 조사하고 근거가 있는 사실만 기록하는 오픈소스 CRM",
-    "url": "https://discuss.pytorch.kr/t/comp-ai-crm-crm/11538",
-    "summary": "(요약 없음 — data.json에서 직접 채워도 됨)",
-    "tags": [
-      "agentic-ai",
-      "bun",
-      "eve",
-      "nestjs"
-    ],
-    "score": 0.5
   }
 ]
