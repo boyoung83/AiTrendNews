@@ -1,5 +1,33 @@
 [
   {
+    "date": "2026-09-13",
+    "source": "PyTorch KR",
+    "title": "OpenAI Codex 팀이 권하는 GPT-6 Astra 전환 준비, 스킬 설명은 좁게 AGENTS.md는 조건부로",
+    "url": "https://discuss.pytorch.kr/t/openai-codex-gpt-6-astra-agents-md/11900",
+    "summary": "(요약 없음 — data.json에서 직접 채워도 됨)",
+    "tags": [
+      "openai",
+      "codex",
+      "prompt-engineering",
+      "agent-skills"
+    ],
+    "score": 0.49
+  },
+  {
+    "date": "2026-09-13",
+    "source": "PyTorch KR",
+    "title": "Microsoft, 1시간분량 오디오를 10초만에 전사하는 60개 언어 음성 인식 모델 MAI-Transcribe-2 출시 (가중치 공개 X)",
+    "url": "https://discuss.pytorch.kr/t/microsoft-1-10-60-mai-transcribe-2-x/11839",
+    "summary": "(요약 없음 — data.json에서 직접 채워도 됨)",
+    "tags": [
+      "microsoft",
+      "benchmark",
+      "product-launch",
+      "asr"
+    ],
+    "score": 0.34
+  },
+  {
     "date": "2026-09-12",
     "source": "PyTorch KR",
     "title": "[A2A 알아보기 1편] A2A 프로토콜: 프레임워크가 서로 달라도 에이전트들끼리 서로 작업을 위임하게 하는 표준 규격",
@@ -810,33 +838,5 @@
       "embeddings"
     ],
     "score": 0.44
-  },
-  {
-    "date": "2026-08-14",
-    "source": "PyTorch KR",
-    "title": "Skill Recorder: Microsoft가 공개한, 화면 녹화를 에이전트 스킬로 바꾸는 도구",
-    "url": "https://discuss.pytorch.kr/t/skill-recorder-microsoft/11606",
-    "summary": "(요약 없음 — data.json에서 직접 채워도 됨)",
-    "tags": [
-      "mit-license",
-      "agent-skills",
-      "github-copilot",
-      "electron"
-    ],
-    "score": 0.66
-  },
-  {
-    "date": "2026-08-14",
-    "source": "PyTorch KR",
-    "title": "9arm-skills: Claude Code에 디버깅 규율과 코드 리뷰 절차를 심는 에이전트 스킬 모음",
-    "url": "https://discuss.pytorch.kr/t/9arm-skills-claude-code/11605",
-    "summary": "(요약 없음 — data.json에서 직접 채워도 됨)",
-    "tags": [
-      "claude-code",
-      "coding-agent",
-      "agent-skills",
-      "code-review"
-    ],
-    "score": 0.62
   }
 ]
