@@ -1,5 +1,33 @@
 [
   {
+    "date": "2026-09-14",
+    "source": "PyTorch KR",
+    "title": "[A2A 알아보기 2편] A2A Python SDK: 나의 에이전트를 다른 사람의 에이전트가 호출할 수 있도록 하기 위해 A2A 서버로 공개하기",
+    "url": "https://discuss.pytorch.kr/t/a2a-2-a2a-python-sdk-a2a/11893",
+    "summary": "(요약 없음 — data.json에서 직접 채워도 됨)",
+    "tags": [
+      "multi-agent",
+      "python",
+      "a2a",
+      "json-rpc"
+    ],
+    "score": 0.6
+  },
+  {
+    "date": "2026-09-14",
+    "source": "PyTorch KR",
+    "title": "OKF Agent Memory: 벡터 DB 없이 Git 저장소의 마크다운으로 AI 코딩 에이전트 기억을 관리하는 도구",
+    "url": "https://discuss.pytorch.kr/t/okf-agent-memory-db-git-ai/11884",
+    "summary": "(요약 없음 — data.json에서 직접 채워도 됨)",
+    "tags": [
+      "mcp",
+      "coding-agent",
+      "agent-memory",
+      "golang"
+    ],
+    "score": 0.56
+  },
+  {
     "date": "2026-09-13",
     "source": "PyTorch KR",
     "title": "OpenAI Codex 팀이 권하는 GPT-6 Astra 전환 준비, 스킬 설명은 좁게 AGENTS.md는 조건부로",
@@ -808,34 +836,6 @@
       "kimi-k3",
       "cpu-inference",
       "memory-efficient"
-    ],
-    "score": 0.44
-  },
-  {
-    "date": "2026-08-15",
-    "source": "PyTorch KR",
-    "title": "Gathered Scenes Zine: 사진을 종이 질감의 편집 디자인 작품으로 바꾸는 Codex 스킬",
-    "url": "https://discuss.pytorch.kr/t/gathered-scenes-zine-codex/11607",
-    "summary": "(요약 없음 — data.json에서 직접 채워도 됨)",
-    "tags": [
-      "codex",
-      "agent-skills",
-      "image-generation",
-      "non-commercial-license"
-    ],
-    "score": 0.56
-  },
-  {
-    "date": "2026-08-15",
-    "source": "PyTorch KR",
-    "title": "SIE: 에이전트가 쓰는 임베딩부터 OCR까지 한 클러스터에서 서빙하는 오픈소스 추론 엔진",
-    "url": "https://discuss.pytorch.kr/t/sie-ocr/11597",
-    "summary": "(요약 없음 — data.json에서 직접 채워도 됨)",
-    "tags": [
-      "rag",
-      "apache-2",
-      "reranking",
-      "embeddings"
     ],
     "score": 0.44
   }
