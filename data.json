@@ -1,5 +1,33 @@
 [
   {
+    "date": "2026-09-16",
+    "source": "PyTorch KR",
+    "title": "Paperthin: 코딩 에이전트가 작업 중 생성한 문서와 코드를 덜어내는 오픈소스 스킬 모음 (28-in-1)",
+    "url": "https://discuss.pytorch.kr/t/paperthin-28-in-1/11921",
+    "summary": "(요약 없음 — data.json에서 직접 채워도 됨)",
+    "tags": [
+      "claude-code",
+      "coding-agent",
+      "codex",
+      "agent-skills"
+    ],
+    "score": 0.67
+  },
+  {
+    "date": "2026-09-16",
+    "source": "PyTorch KR",
+    "title": "Three.js Game Skills: 코딩 에이전트가 만든 브라우저 게임을 점수표로 검증하는 스킬 9종",
+    "url": "https://discuss.pytorch.kr/t/three-js-game-skills-9/11916",
+    "summary": "(요약 없음 — data.json에서 직접 채워도 됨)",
+    "tags": [
+      "claude-code",
+      "coding-agent",
+      "codex",
+      "agent-skills"
+    ],
+    "score": 0.62
+  },
+  {
     "date": "2026-09-15",
     "source": "PyTorch KR",
     "title": "[A2A 알아보기 3편] A2A CLI: 클라이언트 코드 없이, 터미널에서 A2A 에이전트를 호출하고 띄우는 공식 명령줄 도구",
@@ -808,34 +836,6 @@
       "rust",
       "web-scraping",
       "browser-automation"
-    ],
-    "score": 0.45
-  },
-  {
-    "date": "2026-08-17",
-    "source": "PyTorch KR",
-    "title": "DeepSeek Harness: 에이전트 루프까지 설정으로 교체하는 플러그인 구조의 코딩 에이전트",
-    "url": "https://discuss.pytorch.kr/t/deepseek-harness/11628",
-    "summary": "(요약 없음 — data.json에서 직접 채워도 됨)",
-    "tags": [
-      "coding-agent",
-      "agent-framework",
-      "typescript",
-      "deepseek"
-    ],
-    "score": 0.48
-  },
-  {
-    "date": "2026-08-17",
-    "source": "PyTorch KR",
-    "title": "Agent-Safe Pipeline: 에이전트는 제안만 하고 승인은 정책이 결정하는 참조 아키텍처",
-    "url": "https://discuss.pytorch.kr/t/agent-safe-pipeline/11630",
-    "summary": "(요약 없음 — data.json에서 직접 채워도 됨)",
-    "tags": [
-      "mcp",
-      "prompt-injection",
-      "human-in-the-loop",
-      "policy-as-code"
     ],
     "score": 0.45
   }
