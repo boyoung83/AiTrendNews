@@ -1,5 +1,33 @@
 [
   {
+    "date": "2026-09-17",
+    "source": "PyTorch KR",
+    "title": "edge0: 35B MoE 모델을 활성 메모리 3GiB로 실행하는 SSD 전문가 스트리밍 추론 프레임워크",
+    "url": "https://discuss.pytorch.kr/t/edge0-35b-moe-3gib-ssd/11914",
+    "summary": "(요약 없음 — data.json에서 직접 채워도 됨)",
+    "tags": [
+      "on-device",
+      "moe",
+      "apple-silicon",
+      "quantization"
+    ],
+    "score": 0.61
+  },
+  {
+    "date": "2026-09-17",
+    "source": "PyTorch KR",
+    "title": "Cognition, Kimi K3 기반 코딩 모델 SWE-2 공개: Fable 5.1과 1점 차, 비용은 64% 절감",
+    "url": "https://discuss.pytorch.kr/t/cognition-kimi-k3-swe-2-fable-5-1-1-64/11891",
+    "summary": "(요약 없음 — data.json에서 직접 채워도 됨)",
+    "tags": [
+      "coding-agent",
+      "benchmark",
+      "reinforcement-learning",
+      "kimi-k3"
+    ],
+    "score": 0.48
+  },
+  {
     "date": "2026-09-16",
     "source": "PyTorch KR",
     "title": "Paperthin: 코딩 에이전트가 작업 중 생성한 문서와 코드를 덜어내는 오픈소스 스킬 모음 (28-in-1)",
@@ -808,34 +836,6 @@
       "pytorch",
       "transformer",
       "llm-from-scratch"
-    ],
-    "score": 0.45
-  },
-  {
-    "date": "2026-08-18",
-    "source": "PyTorch KR",
-    "title": "Photo Abstract Editorial: 원본 사진을 건드리지 않고 추상 패널을 덧붙이는 Codex 스킬",
-    "url": "https://discuss.pytorch.kr/t/photo-abstract-editorial-codex/11635",
-    "summary": "(요약 없음 — data.json에서 직접 채워도 됨)",
-    "tags": [
-      "codex",
-      "prompt-engineering",
-      "agent-skill",
-      "image-generation"
-    ],
-    "score": 0.52
-  },
-  {
-    "date": "2026-08-18",
-    "source": "PyTorch KR",
-    "title": "Moli: Chrome Headless보다 가벼우면서 웹 페이지 데이터 활용에 적합한 AI 에이전트용 헤드리스 브라우저",
-    "url": "https://discuss.pytorch.kr/t/moli-chrome-headless-ai/11643",
-    "summary": "(요약 없음 — data.json에서 직접 채워도 됨)",
-    "tags": [
-      "ai-agent",
-      "rust",
-      "web-scraping",
-      "browser-automation"
     ],
     "score": 0.45
   }
