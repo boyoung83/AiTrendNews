@@ -1,5 +1,33 @@
 [
   {
+    "date": "2026-09-18",
+    "source": "PyTorch KR",
+    "title": "BrowserSkill: 사람이 사용하던 브라우저 상태 그대로 에이전트에게 사용할 수 있도록 하는 CLI 도구",
+    "url": "https://discuss.pytorch.kr/t/browserskill-cli/11936",
+    "summary": "(요약 없음 — data.json에서 직접 채워도 됨)",
+    "tags": [
+      "ai-agent",
+      "mit-license",
+      "rust",
+      "cli"
+    ],
+    "score": 0.65
+  },
+  {
+    "date": "2026-09-18",
+    "source": "PyTorch KR",
+    "title": "Jev, 토큰 대신 확률적 결정을 내놓는 새로운 형태의 System One 모델 (feat. TypeSafe AI)",
+    "url": "https://discuss.pytorch.kr/t/jev-system-one-feat-typesafe-ai/11935",
+    "summary": "(요약 없음 — data.json에서 직접 채워도 됨)",
+    "tags": [
+      "llm",
+      "reinforcement-learning",
+      "product-launch",
+      "automation"
+    ],
+    "score": 0.48
+  },
+  {
     "date": "2026-09-17",
     "source": "PyTorch KR",
     "title": "edge0: 35B MoE 모델을 활성 메모리 3GiB로 실행하는 SSD 전문가 스트리밍 추론 프레임워크",
@@ -810,33 +838,5 @@
       "macos"
     ],
     "score": 0.61
-  },
-  {
-    "date": "2026-08-19",
-    "source": "PyTorch KR",
-    "title": "Andrew Ng의 AI Engineering Skills Map: 개발자가 갖춰야 할 4가지 핵심 역량들",
-    "url": "https://discuss.pytorch.kr/t/andrew-ng-ai-engineering-skills-map-4/11638",
-    "summary": "(요약 없음 — data.json에서 직접 채워도 됨)",
-    "tags": [
-      "coding-agent",
-      "andrew-ng",
-      "ai-engineering",
-      "career"
-    ],
-    "score": 0.63
-  },
-  {
-    "date": "2026-08-19",
-    "source": "PyTorch KR",
-    "title": "How to Train Your GPT: LLaMA 3 구조를 밑바닥부터 구현하며 배우는 LLM의 원리와 동작",
-    "url": "https://discuss.pytorch.kr/t/how-to-train-your-gpt-llama-3-llm/11599",
-    "summary": "(요약 없음 — data.json에서 직접 채워도 됨)",
-    "tags": [
-      "mit-license",
-      "pytorch",
-      "transformer",
-      "llm-from-scratch"
-    ],
-    "score": 0.45
   }
 ]
