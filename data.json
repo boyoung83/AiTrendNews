@@ -1,5 +1,33 @@
 [
   {
+    "date": "2026-09-19",
+    "source": "PyTorch KR",
+    "title": "Kaggle TPU Lab: 무료 Kaggle TPU에서 320B 크기의 GLM-5.3-Flash을 서빙하는 코딩 에이전트용 API 레시피 저장소",
+    "url": "https://discuss.pytorch.kr/t/kaggle-tpu-lab-kaggle-tpu-320b-glm-5-3-flash-api/11944",
+    "summary": "(요약 없음 — data.json에서 직접 채워도 됨)",
+    "tags": [
+      "coding-agent",
+      "mixture-of-experts",
+      "vllm",
+      "long-context"
+    ],
+    "score": 0.48
+  },
+  {
+    "date": "2026-09-19",
+    "source": "PyTorch KR",
+    "title": "Anthropic, 내부의 AI 개발 속도를 측정하는 3가지 지표 공개 공개: Claude가 AI R&D의 26%를 주도",
+    "url": "https://discuss.pytorch.kr/t/anthropic-ai-3-claude-ai-r-d-26/11953",
+    "summary": "(요약 없음 — data.json에서 직접 채워도 됨)",
+    "tags": [
+      "agent",
+      "anthropic",
+      "claude",
+      "benchmark"
+    ],
+    "score": 0.34
+  },
+  {
     "date": "2026-09-18",
     "source": "PyTorch KR",
     "title": "BrowserSkill: 사람이 사용하던 브라우저 상태 그대로 에이전트에게 사용할 수 있도록 하는 CLI 도구",
@@ -810,33 +838,5 @@
       "codex"
     ],
     "score": 0.52
-  },
-  {
-    "date": "2026-08-20",
-    "source": "PyTorch KR",
-    "title": "Cindy: Claude Code와 Codex를 작업 도중에 바꿔 가며 쓰는 오픈소스 AI 에이전트 클라이언트",
-    "url": "https://discuss.pytorch.kr/t/cindy-claude-code-codex-ai/11657",
-    "summary": "(요약 없음 — data.json에서 직접 채워도 됨)",
-    "tags": [
-      "claude-code",
-      "ai-agent",
-      "codex",
-      "agent-harness"
-    ],
-    "score": 0.64
-  },
-  {
-    "date": "2026-08-20",
-    "source": "PyTorch KR",
-    "title": "phone-harness: Xcode나 WebDriverAgent 없이 AI 에이전트가 실제 아이폰을 조작하는 도구",
-    "url": "https://discuss.pytorch.kr/t/phone-harness-xcode-webdriveragent-ai/11644",
-    "summary": "(요약 없음 — data.json에서 직접 채워도 됨)",
-    "tags": [
-      "agent",
-      "mit-license",
-      "ocr",
-      "macos"
-    ],
-    "score": 0.61
   }
 ]
