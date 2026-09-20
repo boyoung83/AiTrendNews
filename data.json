@@ -1,5 +1,33 @@
 [
   {
+    "date": "2026-09-20",
+    "source": "PyTorch KR",
+    "title": "HarnessTax: 7가지 모델 x 3가지 하네스로 실험한, 모델과 하네스에 따른 성능과 비용에 대한 연구 (feat. UC Berkeley)",
+    "url": "https://discuss.pytorch.kr/t/harnesstax-7-x-3-feat-uc-berkeley/11957",
+    "summary": "(요약 없음 — data.json에서 직접 채워도 됨)",
+    "tags": [
+      "claude-code",
+      "coding-agent",
+      "codex",
+      "benchmark"
+    ],
+    "score": 0.35
+  },
+  {
+    "date": "2026-09-20",
+    "source": "PyTorch KR",
+    "title": "Chat On Steroids: 승인한 폴더 내에서 ChatGPT가 파일과 터미널을 다루도록 하는 로컬 MCP 앱",
+    "url": "https://discuss.pytorch.kr/t/chat-on-steroids-chatgpt-mcp/11915",
+    "summary": "(요약 없음 — data.json에서 직접 채워도 됨)",
+    "tags": [
+      "coding-agent",
+      "mcp",
+      "chatgpt",
+      "desktop-app"
+    ],
+    "score": 0.32
+  },
+  {
     "date": "2026-09-19",
     "source": "PyTorch KR",
     "title": "Kaggle TPU Lab: 무료 Kaggle TPU에서 320B 크기의 GLM-5.3-Flash을 서빙하는 코딩 에이전트용 API 레시피 저장소",
@@ -810,33 +838,5 @@
       "code-review"
     ],
     "score": 0.47
-  },
-  {
-    "date": "2026-08-21",
-    "source": "PyTorch KR",
-    "title": "Oil Motion: AI 생성 영상을 스크롤과 마우스가 제어하는 웹 애니메이션으로 바꾸는 에이전트 스킬",
-    "url": "https://discuss.pytorch.kr/t/oil-motion-ai/11668",
-    "summary": "(요약 없음 — data.json에서 직접 채워도 됨)",
-    "tags": [
-      "mit-license",
-      "agent-skill",
-      "video-generation",
-      "minimax-h3"
-    ],
-    "score": 0.6
-  },
-  {
-    "date": "2026-08-21",
-    "source": "PyTorch KR",
-    "title": "Cumora: AI 에이전트들과 업무를 나누고 진행 상황을 공유하는 에이전트 팀을 위한 채팅 앱",
-    "url": "https://discuss.pytorch.kr/t/cumora-ai/11666",
-    "summary": "(요약 없음 — data.json에서 직접 채워도 됨)",
-    "tags": [
-      "claude-code",
-      "mit-license",
-      "multi-agent",
-      "codex"
-    ],
-    "score": 0.52
   }
 ]
