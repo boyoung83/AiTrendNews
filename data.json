@@ -1,5 +1,33 @@
 [
   {
+    "date": "2026-09-21",
+    "source": "PyTorch KR",
+    "title": "OpenArm: 원격 조작부터 학습 정책 평가까지 공개한 오픈소스 양팔 로봇",
+    "url": "https://discuss.pytorch.kr/t/openarm/11947",
+    "summary": "(요약 없음 — data.json에서 직접 채워도 됨)",
+    "tags": [
+      "robotics",
+      "physical-ai",
+      "imitation-learning",
+      "robot-arm"
+    ],
+    "score": 0.51
+  },
+  {
+    "date": "2026-09-21",
+    "source": "PyTorch KR",
+    "title": "kev: 비공개 모델 Jev를 Qwen과 LoRA로 재현해 맥북에서 학습하고 실행하는 결정 모델",
+    "url": "https://discuss.pytorch.kr/t/kev-jev-qwen-lora/11963",
+    "summary": "(요약 없음 — data.json에서 직접 채워도 됨)",
+    "tags": [
+      "qwen",
+      "lora",
+      "structured-output",
+      "calibration"
+    ],
+    "score": 0.31
+  },
+  {
     "date": "2026-09-20",
     "source": "PyTorch KR",
     "title": "HarnessTax: 7가지 모델 x 3가지 하네스로 실험한, 모델과 하네스에 따른 성능과 비용에 대한 연구 (feat. UC Berkeley)",
@@ -810,33 +838,5 @@
       "qwen"
     ],
     "score": 0.46
-  },
-  {
-    "date": "2026-08-22",
-    "source": "PyTorch KR",
-    "title": "hyperresearch: 읽은 자료를 보관해 다음 리서치에 재사용하는 Claude Code용 16단계 조사 파이프라인",
-    "url": "https://discuss.pytorch.kr/t/hyperresearch-claude-code-16/11646",
-    "summary": "(요약 없음 — data.json에서 직접 채워도 됨)",
-    "tags": [
-      "claude-code",
-      "agent",
-      "mit-license",
-      "deep-research"
-    ],
-    "score": 0.47
-  },
-  {
-    "date": "2026-08-22",
-    "source": "PyTorch KR",
-    "title": "Sol Advisor: 작업 규모와 위험도에 따라 서브 에이전트 위임 여부를 결정하는 Codex 에이전트 오케스트레이션 플러그인",
-    "url": "https://discuss.pytorch.kr/t/sol-advisor-codex/11678",
-    "summary": "(요약 없음 — data.json에서 직접 채워도 됨)",
-    "tags": [
-      "mit-license",
-      "coding-agent",
-      "codex",
-      "code-review"
-    ],
-    "score": 0.47
   }
 ]
