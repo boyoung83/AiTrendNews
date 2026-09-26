@@ -1,5 +1,33 @@
 [
   {
+    "date": "2026-09-26",
+    "source": "PyTorch KR",
+    "title": "Andrew Ng의 AI Engineering Skills Map: AI 앱 구축과 운영 역량 (Building and deploying AI applications)",
+    "url": "https://discuss.pytorch.kr/t/andrew-ng-ai-engineering-skills-map-ai-building-and-deploying-ai-applications/11992",
+    "summary": "(요약 없음 — data.json에서 직접 채워도 됨)",
+    "tags": [
+      "llm",
+      "agent",
+      "guide",
+      "andrew-ng"
+    ],
+    "score": 0.5
+  },
+  {
+    "date": "2026-09-26",
+    "source": "PyTorch KR",
+    "title": "Xiaomi, RL 코드와 학습 환경까지 공개한 1.02T 옴니모달 MiMo-V2.6 출시, 오픈소스 지능 지수 1위",
+    "url": "https://discuss.pytorch.kr/t/xiaomi-rl-1-02t-mimo-v2-6-1/11981",
+    "summary": "(요약 없음 — data.json에서 직접 채워도 됨)",
+    "tags": [
+      "llm",
+      "opensource",
+      "multimodal",
+      "reinforcement-learning"
+    ],
+    "score": 0.41
+  },
+  {
     "date": "2026-09-25",
     "source": "PyTorch KR",
     "title": "Claude Opus 5.5 프롬프팅 & 마이그레이션 가이드: Anthropic이 공개한, Opus 5, 4.x, Sonnet 5 코드를 400 오류 없이 옮기는 법",
@@ -810,33 +838,5 @@
       "html"
     ],
     "score": 0.6
-  },
-  {
-    "date": "2026-08-26",
-    "source": "PyTorch KR",
-    "title": "Slack은 어떻게 대화를 조직의 지식으로 바꾸는가: Anthropic이 공개한 사람과 AI 에이전트가 함께 일하는 6가지 원칙 (feat. Claude Tag)",
-    "url": "https://discuss.pytorch.kr/t/slack-anthropic-ai-6-feat-claude-tag/11702",
-    "summary": "(요약 없음 — data.json에서 직접 채워도 됨)",
-    "tags": [
-      "agent",
-      "anthropic",
-      "claude",
-      "enterprise-ai"
-    ],
-    "score": 0.66
-  },
-  {
-    "date": "2026-08-26",
-    "source": "PyTorch KR",
-    "title": "PandaProbe: 에이전트의 실패를 추적/평가하여 스스로 고치는 자기 치유 하네스를 구현한 오픈소스 플랫폼",
-    "url": "https://discuss.pytorch.kr/t/pandaprobe/11715",
-    "summary": "(요약 없음 — data.json에서 직접 채워도 됨)",
-    "tags": [
-      "self-hosted",
-      "llmops",
-      "agent-evaluation",
-      "agent-observability"
-    ],
-    "score": 0.62
   }
 ]
