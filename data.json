@@ -1,5 +1,33 @@
 [
   {
+    "date": "2026-09-28",
+    "source": "PyTorch KR",
+    "title": "Jev 생태계: Jev 모델 기반의 GitHub 프로젝트 1천여개를 23개 분야로 정리한 프로젝트 목록",
+    "url": "https://discuss.pytorch.kr/t/jev-jev-github-1-23/12003",
+    "summary": "(요약 없음 — data.json에서 직접 채워도 됨)",
+    "tags": [
+      "agent",
+      "awesome-list",
+      "structured-output",
+      "jev"
+    ],
+    "score": 0.56
+  },
+  {
+    "date": "2026-09-28",
+    "source": "PyTorch KR",
+    "title": "agent-shell: Claude Code, Codex, Gemini CLI를 Emacs 버퍼에서 쓰는 ACP 클라이언트",
+    "url": "https://discuss.pytorch.kr/t/agent-shell-claude-code-codex-gemini-cli-emacs-acp/12007",
+    "summary": "(요약 없음 — data.json에서 직접 채워도 됨)",
+    "tags": [
+      "claude-code",
+      "coding-agent",
+      "codex",
+      "gemini-cli"
+    ],
+    "score": 0.5
+  },
+  {
     "date": "2026-09-27",
     "source": "PyTorch KR",
     "title": "Andrew Ng의 AI Engineering Skills Map: 코딩 에이전트 활용 역량(Using coding agents)",
@@ -810,33 +838,5 @@
       "ai-safety"
     ],
     "score": 0.54
-  },
-  {
-    "date": "2026-08-28",
-    "source": "PyTorch KR",
-    "title": "FreeToken: 프론티어급 MoE 모델을 게이밍 데스크톱 수준에서 서빙하기 위한 Edge-Serving에 대한 연구",
-    "url": "https://discuss.pytorch.kr/t/freetoken-moe-edge-serving/11696",
-    "summary": "(요약 없음 — data.json에서 직접 채워도 됨)",
-    "tags": [
-      "llm",
-      "paper",
-      "agent",
-      "local-llm"
-    ],
-    "score": 0.65
-  },
-  {
-    "date": "2026-08-28",
-    "source": "PyTorch KR",
-    "title": "Vibe-Research: AI가 의사 결정을 하기 위해 필요한 데이터만 모아 주는 개인용 투자 리서치 대시보드",
-    "url": "https://discuss.pytorch.kr/t/vibe-research-ai/11726",
-    "summary": "(요약 없음 — data.json에서 직접 채워도 됨)",
-    "tags": [
-      "mcp",
-      "multi-agent",
-      "fastapi",
-      "fintech"
-    ],
-    "score": 0.6
   }
 ]
