@@ -1,5 +1,33 @@
 [
   {
+    "date": "2026-09-30",
+    "source": "PyTorch KR",
+    "title": "OpenRig: Claude Code와 Codex 세션들을 저장하고 불러올 수 있도록 하는 멀티 에이전트 하네스",
+    "url": "https://discuss.pytorch.kr/t/openrig-claude-code-codex/12042",
+    "summary": "(요약 없음 — data.json에서 직접 채워도 됨)",
+    "tags": [
+      "claude-code",
+      "coding-agent",
+      "multi-agent",
+      "codex"
+    ],
+    "score": 0.52
+  },
+  {
+    "date": "2026-09-30",
+    "source": "PyTorch KR",
+    "title": "Datadog가 공개한 장애 원인 변경을 찾는 에이전트 학습기 활용기: 교사 모델 GLM-5.3의 재현율 87%를 1/20 비용의 Qwen3.5-9B으로",
+    "url": "https://discuss.pytorch.kr/t/datadog-glm-5-3-87-1-20-qwen3-5-9b/12020",
+    "summary": "(요약 없음 — data.json에서 직접 채워도 됨)",
+    "tags": [
+      "agent",
+      "fine-tuning",
+      "qwen",
+      "observability"
+    ],
+    "score": 0.51
+  },
+  {
     "date": "2026-09-29",
     "source": "PyTorch KR",
     "title": "Andrew Ng의 AI Engineering Skills Map: 제품 개발 방향을 정하는 역량(Shaping the build)",
@@ -810,33 +838,5 @@
       "cli"
     ],
     "score": 0.53
-  },
-  {
-    "date": "2026-08-30",
-    "source": "PyTorch KR",
-    "title": "OpenConnector: 에이전트에 자격 증명을 넘기지 않고 1,000여 개 SaaS에 연결하는 오픈소스 게이트웨이",
-    "url": "https://discuss.pytorch.kr/t/openconnector-1-000-saas/11706",
-    "summary": "(요약 없음 — data.json에서 직접 채워도 됨)",
-    "tags": [
-      "ai-agent",
-      "mcp",
-      "typescript",
-      "self-hosted"
-    ],
-    "score": 0.52
-  },
-  {
-    "date": "2026-08-30",
-    "source": "PyTorch KR",
-    "title": "HarnessRouter: Codex와 Claude Code를 내 컨테이너 하나에서 실행하는 자체 호스팅 게이트웨이",
-    "url": "https://discuss.pytorch.kr/t/harnessrouter-codex-claude-code/11716",
-    "summary": "(요약 없음 — data.json에서 직접 채워도 됨)",
-    "tags": [
-      "coding-agent",
-      "self-hosted",
-      "agent-harness",
-      "docker"
-    ],
-    "score": 0.48
   }
 ]
