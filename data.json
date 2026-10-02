@@ -1,5 +1,33 @@
 [
   {
+    "date": "2026-10-02",
+    "source": "PyTorch KR",
+    "title": "Liquid AI, 문장 생성 대신 Jev 호환 API로 분류 / 라우팅 / 점수를 처리하는 결정 모델 d1 공개",
+    "url": "https://discuss.pytorch.kr/t/liquid-ai-jev-api-d1/12063",
+    "summary": "(요약 없음 — data.json에서 직접 채워도 됨)",
+    "tags": [
+      "llm",
+      "jev",
+      "api",
+      "liquid-ai"
+    ],
+    "score": 0.47
+  },
+  {
+    "date": "2026-10-02",
+    "source": "PyTorch KR",
+    "title": "Cloudflare가 제안하는 소프트웨어 개발 방법론의 변화: SDLC에서 ADLC로, 배포와 운영까지 에이전트에게 맡기는 소프트웨어 팩토리",
+    "url": "https://discuss.pytorch.kr/t/cloudflare-sdlc-adlc/12021",
+    "summary": "(요약 없음 — data.json에서 직접 채워도 됨)",
+    "tags": [
+      "agent",
+      "observability",
+      "cloudflare",
+      "opentelemetry"
+    ],
+    "score": 0.46
+  },
+  {
     "date": "2026-10-01",
     "source": "PyTorch KR",
     "title": "OpenAI DevDay 2026 발표 25가지 총정리: 상시 에이전트 dots부터 GPT-6.1 Sol, 플러그인 확장까지",
@@ -810,33 +838,5 @@
       "tauri"
     ],
     "score": 0.67
-  },
-  {
-    "date": "2026-09-01",
-    "source": "PyTorch KR",
-    "title": "Agent Flow: Claude Code와 Codex의 에이전트 실행 과정을 실시간 노드 그래프로 보여주는 도구",
-    "url": "https://discuss.pytorch.kr/t/agent-flow-claude-code-codex/11767",
-    "summary": "(요약 없음 — data.json에서 직접 채워도 됨)",
-    "tags": [
-      "claude-code",
-      "coding-agent",
-      "codex",
-      "observability"
-    ],
-    "score": 0.72
-  },
-  {
-    "date": "2026-09-01",
-    "source": "PyTorch KR",
-    "title": "WikiSkill: 에이전트의 실행 경험을 위키에 쌓아 스킬을 진화시키는 3계층 구조에 대한 연구",
-    "url": "https://discuss.pytorch.kr/t/wikiskill-3/11772",
-    "summary": "(요약 없음 — data.json에서 직접 채워도 됨)",
-    "tags": [
-      "llm",
-      "paper",
-      "agent",
-      "agent-skills"
-    ],
-    "score": 0.68
   }
 ]
