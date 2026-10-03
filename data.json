@@ -1,5 +1,33 @@
 [
   {
+    "date": "2026-10-03",
+    "source": "PyTorch KR",
+    "title": "ChatGPT Pro 3단계 개편 정리: Pro 200 사용량 축소와 Pro 500 Ultrafast의 속도 대비 비용 (feat. Codex)",
+    "url": "https://discuss.pytorch.kr/t/chatgpt-pro-3-pro-200-pro-500-ultrafast-feat-codex/12054",
+    "summary": "(요약 없음 — data.json에서 직접 채워도 됨)",
+    "tags": [
+      "openai",
+      "chatgpt",
+      "codex",
+      "product-launch"
+    ],
+    "score": 0.48
+  },
+  {
+    "date": "2026-10-03",
+    "source": "PyTorch KR",
+    "title": "dots: 봇 탐지를 피하도록 패치하고, Firefox로 웹 작업을 하는 오픈소스 로컬 브라우저 에이전트 (≠ OpenAI dots)",
+    "url": "https://discuss.pytorch.kr/t/dots-firefox-openai-dots/12078",
+    "summary": "(요약 없음 — data.json에서 직접 채워도 됨)",
+    "tags": [
+      "mcp",
+      "web-agent",
+      "openrouter",
+      "playwright"
+    ],
+    "score": 0.48
+  },
+  {
     "date": "2026-10-02",
     "source": "PyTorch KR",
     "title": "Liquid AI, 문장 생성 대신 Jev 호환 API로 분류 / 라우팅 / 점수를 처리하는 결정 모델 d1 공개",
@@ -808,34 +836,6 @@
       "multi-agent",
       "spec-driven-development",
       "reverse-engineering"
-    ],
-    "score": 0.67
-  },
-  {
-    "date": "2026-09-02",
-    "source": "PyTorch KR",
-    "title": "AI 에이전트들로 만든 외계 행성 문명 생성 시뮬레이션 공개",
-    "url": "https://discuss.pytorch.kr/t/ai/11777",
-    "summary": "(요약 없음 — data.json에서 직접 채워도 됨)",
-    "tags": [
-      "ai",
-      "agent",
-      "비드래프트",
-      "허깅페이스"
-    ],
-    "score": 0.67
-  },
-  {
-    "date": "2026-09-02",
-    "source": "PyTorch KR",
-    "title": "Open Science Desktop: 결과 그림에서 생성 코드까지 되짚을 수 있는, 내 컴퓨터용 AI 연구 작업도구 (≠ OpenScience)",
-    "url": "https://discuss.pytorch.kr/t/open-science-desktop-ai-openscience/11752",
-    "summary": "(요약 없음 — data.json에서 직접 채워도 됨)",
-    "tags": [
-      "mcp",
-      "local-first",
-      "research-agent",
-      "tauri"
     ],
     "score": 0.67
   }
