@@ -1,5 +1,33 @@
 [
   {
+    "date": "2026-10-06",
+    "source": "PyTorch KR",
+    "title": "AgentCraft: Claude 에이전트 팀의 코딩 작업을 Minecraft 스튜디오에서 지켜보고 병합하는 모드",
+    "url": "https://discuss.pytorch.kr/t/agentcraft-claude-minecraft/12101",
+    "summary": "(요약 없음 — data.json에서 직접 채워도 됨)",
+    "tags": [
+      "coding-agent",
+      "mit-license",
+      "multi-agent",
+      "claude-agent-sdk"
+    ],
+    "score": 0.49
+  },
+  {
+    "date": "2026-10-06",
+    "source": "PyTorch KR",
+    "title": "A.I.G(AI-Infra-Guard): AI 인프라와 MCP 서버, 에이전트, 모델을 계층별로 점검하는 텐센트의 레드팀 플랫폼",
+    "url": "https://discuss.pytorch.kr/t/a-i-g-ai-infra-guard-ai-mcp/12090",
+    "summary": "(요약 없음 — data.json에서 직접 채워도 됨)",
+    "tags": [
+      "mcp",
+      "agent-skills",
+      "ai-security",
+      "tencent"
+    ],
+    "score": 0.46
+  },
+  {
     "date": "2026-10-05",
     "source": "PyTorch KR",
     "title": "Translate Book: arXiv - arXiv 논문을 원문 구조 그대로 번역 논문으로 만들어 주는 Claude Code 스킬",
@@ -810,33 +838,5 @@
       "reference-implementation"
     ],
     "score": 0.59
-  },
-  {
-    "date": "2026-09-05",
-    "source": "PyTorch KR",
-    "title": "sepia: AI가 작성한 티를 없애기 위해, 어휘 교정 뿐만 아니라 서사 구조까지 종합적으로 살펴보고 개선하는 에이전트 스킬",
-    "url": "https://discuss.pytorch.kr/t/sepia-ai/11813",
-    "summary": "(요약 없음 — data.json에서 직접 채워도 됨)",
-    "tags": [
-      "claude-code",
-      "prompt-engineering",
-      "agent-skills",
-      "ai-writing"
-    ],
-    "score": 0.72
-  },
-  {
-    "date": "2026-09-05",
-    "source": "PyTorch KR",
-    "title": "OpenAI GPT-6 Astra 출시: 사이버보안 Critical 등급 첫 도달과 낮아진 CoT 모니터링 가능성",
-    "url": "https://discuss.pytorch.kr/t/openai-gpt-6-astra-critical-cot/11819",
-    "summary": "(요약 없음 — data.json에서 직접 채워도 됨)",
-    "tags": [
-      "llm",
-      "openai",
-      "agent",
-      "ai-safety"
-    ],
-    "score": 0.66
   }
 ]
