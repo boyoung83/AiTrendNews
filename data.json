@@ -1,5 +1,33 @@
 [
   {
+    "date": "2026-10-08",
+    "source": "PyTorch KR",
+    "title": "Crafting Apps: Adobe 소프트웨어 7종을 Rust로 다시 구현한 오픈소스 프로젝트 7종 공개",
+    "url": "https://discuss.pytorch.kr/t/crafting-apps-adobe-7-rust-7/12119",
+    "summary": "(요약 없음 — data.json에서 직접 채워도 됨)",
+    "tags": [
+      "ai-agent",
+      "mcp",
+      "rust",
+      "image-editing"
+    ],
+    "score": 0.78
+  },
+  {
+    "date": "2026-10-08",
+    "source": "PyTorch KR",
+    "title": "Google이 공개한 AI 에이전트 프라이버시와 보안의 51가지 이슈에 대한 워크숍 보고서 [영문/PDF/116p]",
+    "url": "https://discuss.pytorch.kr/t/google-ai-51-pdf-116p/12113",
+    "summary": "(요약 없음 — data.json에서 직접 채워도 됨)",
+    "tags": [
+      "agent",
+      "google",
+      "report",
+      "prompt-injection"
+    ],
+    "score": 0.57
+  },
+  {
     "date": "2026-10-07",
     "source": "PyTorch KR",
     "title": "Jev와 유사한 오픈소스 결정 모델에 대한 정리: Decision Index와 JevBench로 비교한 결정 모델 성능 비교",
@@ -805,33 +833,5 @@
       "guide"
     ],
     "score": 0.51
-  },
-  {
-    "date": "2026-09-07",
-    "source": "PyTorch KR",
-    "title": "OpenAI가 공개한 GPT-6 Astra 공식 활용 가이드: 자주 되묻는 모델을 끝까지 일하게 하는 프롬프팅과 마이그레이션",
-    "url": "https://discuss.pytorch.kr/t/openai-gpt-6-astra/11846",
-    "summary": "(요약 없음 — data.json에서 직접 채워도 됨)",
-    "tags": [
-      "openai",
-      "agent",
-      "guide",
-      "migration"
-    ],
-    "score": 0.71
-  },
-  {
-    "date": "2026-09-07",
-    "source": "PyTorch KR",
-    "title": "Codex with ChatGPT: 웹 ChatGPT에 설계와 검토를 맡기는 읽기 전용 MCP 연결",
-    "url": "https://discuss.pytorch.kr/t/codex-with-chatgpt-chatgpt-mcp/11804",
-    "summary": "(요약 없음 — data.json에서 직접 채워도 됨)",
-    "tags": [
-      "mcp",
-      "coding-agent",
-      "chatgpt",
-      "codex"
-    ],
-    "score": 0.69
   }
 ]
