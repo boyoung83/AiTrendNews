@@ -1,5 +1,33 @@
 [
   {
+    "date": "2026-10-09",
+    "source": "PyTorch KR",
+    "title": "Google, 텍스트 전용이던 EmbeddingGemma를 이미지, 영상, 음성까지 넓힌 EmbeddingGemma 2 공개",
+    "url": "https://discuss.pytorch.kr/t/google-embeddinggemma-embeddinggemma-2/12118",
+    "summary": "(요약 없음 — data.json에서 직접 채워도 됨)",
+    "tags": [
+      "rag",
+      "google",
+      "multimodal",
+      "embedding"
+    ],
+    "score": 0.5
+  },
+  {
+    "date": "2026-10-09",
+    "source": "PyTorch KR",
+    "title": "Octop: 서버 한 대로 가족과 소규모 팀이 각자 전용 AI 에이전트를 쓰는 셀프 호스팅 비서 (feat. Tencent)",
+    "url": "https://discuss.pytorch.kr/t/octop-ai-feat-tencent/12124",
+    "summary": "(요약 없음 — data.json에서 직접 채워도 됨)",
+    "tags": [
+      "ai-agent",
+      "multi-agent",
+      "self-hosted",
+      "openclaw"
+    ],
+    "score": 0.43
+  },
+  {
     "date": "2026-10-08",
     "source": "PyTorch KR",
     "title": "Crafting Apps: Adobe 소프트웨어 7종을 Rust로 다시 구현한 오픈소스 프로젝트 7종 공개",
@@ -805,33 +833,5 @@
       "fastapi"
     ],
     "score": 0.49
-  },
-  {
-    "date": "2026-09-08",
-    "source": "PyTorch KR",
-    "title": "free PhD labor: 고정된 워크플로우 대신 에이전트가 다음 단계를 정하는 연구 자동화 프레임워크",
-    "url": "https://discuss.pytorch.kr/t/free-phd-labor/11838",
-    "summary": "(요약 없음 — data.json에서 직접 채워도 됨)",
-    "tags": [
-      "multi-agent",
-      "agent-framework",
-      "autoresearch",
-      "research-automation"
-    ],
-    "score": 0.59
-  },
-  {
-    "date": "2026-09-08",
-    "source": "PyTorch KR",
-    "title": "Anthropic, Claude Code 시스템 프롬프트 80% 삭제: Claude 5 세대 컨텍스트 엔지니어링 규칙 6가지",
-    "url": "https://discuss.pytorch.kr/t/anthropic-claude-code-80-claude-5-6/11845",
-    "summary": "(요약 없음 — data.json에서 직접 채워도 됨)",
-    "tags": [
-      "claude-code",
-      "anthropic",
-      "agent-skills",
-      "guide"
-    ],
-    "score": 0.51
   }
 ]
