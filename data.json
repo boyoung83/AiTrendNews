@@ -1,5 +1,28 @@
 [
   {
+    "date": "2026-10-11",
+    "source": "PyTorch KR",
+    "title": "Jeff-Code: 0.8B 결정 모델이 턴마다 사고 여부를 골라 Qwen3.8-27B의 작업당 시간을 32% 줄인 Pi 포크",
+    "url": "https://discuss.pytorch.kr/t/jeff-code-0-8b-qwen3-8-27b-32-pi/12122",
+    "summary": "(요약 없음 — data.json에서 직접 채워도 됨)",
+    "tags": [
+      "agent",
+      "coding-agent",
+      "qwen",
+      "lora"
+    ],
+    "score": 0.39
+  },
+  {
+    "date": "2026-10-11",
+    "source": "PyTorch KR",
+    "title": "[오픈소스] 협업을 재려면 정보 배치부터 설계해야 했다: AgentWorld 경량 실험장 (비공식)",
+    "url": "https://discuss.pytorch.kr/t/agentworld/12131",
+    "summary": "(요약 없음 — data.json에서 직접 채워도 됨)",
+    "tags": [],
+    "score": 0.38
+  },
+  {
     "date": "2026-10-10",
     "source": "PyTorch KR",
     "title": "Hunk: 코딩 에이전트가 남긴 코드 변경 내역을 검토하는 터미널 diff 뷰어 프로젝트",
@@ -805,33 +828,5 @@
       "apodex"
     ],
     "score": 0.43
-  },
-  {
-    "date": "2026-09-10",
-    "source": "PyTorch KR",
-    "title": "Goldie: 코딩 에이전트가 앱을 직접 실행해 앱스토어 스크린샷과 미리보기 영상을 만드는 CLI 도구",
-    "url": "https://discuss.pytorch.kr/t/goldie-cli/11864",
-    "summary": "(요약 없음 — data.json에서 직접 채워도 됨)",
-    "tags": [
-      "agent-skills",
-      "mobile-app",
-      "app-store",
-      "ios-simulator"
-    ],
-    "score": 0.59
-  },
-  {
-    "date": "2026-09-10",
-    "source": "PyTorch KR",
-    "title": "GitReverse: 공개 GitHub 저장소를 바이브 코딩용 프롬프트 한 개로 되돌리는 웹 도구",
-    "url": "https://discuss.pytorch.kr/t/gitreverse-github/11816",
-    "summary": "(요약 없음 — data.json에서 직접 채워도 됨)",
-    "tags": [
-      "coding-agent",
-      "prompt-engineering",
-      "vibe-coding",
-      "reverse-engineering"
-    ],
-    "score": 0.47
   }
 ]
