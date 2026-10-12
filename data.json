@@ -1,5 +1,33 @@
 [
   {
+    "date": "2026-10-12",
+    "source": "PyTorch KR",
+    "title": "GuideLLM v0.8.0 공개, 지연 SLO를 지키는 최대 동시성 탐색과 에이전트 트레이스 재생 (feat. vLLM)",
+    "url": "https://discuss.pytorch.kr/t/guidellm-v0-8-0-slo-feat-vllm/12149",
+    "summary": "(요약 없음 — data.json에서 직접 채워도 됨)",
+    "tags": [
+      "agent",
+      "benchmark",
+      "vllm",
+      "llm-inference"
+    ],
+    "score": 0.64
+  },
+  {
+    "date": "2026-10-12",
+    "source": "PyTorch KR",
+    "title": "REA: Ghidra와 IDA 같은 분석 도구를 하나의 MCP로 묶어 코딩 에이전트에 연결하는 리버스 엔지니어링 도구",
+    "url": "https://discuss.pytorch.kr/t/rea-ghidra-ida-mcp/12150",
+    "summary": "(요약 없음 — data.json에서 직접 채워도 됨)",
+    "tags": [
+      "coding-agent",
+      "mcp",
+      "reverse-engineering",
+      "binary-analysis"
+    ],
+    "score": 0.51
+  },
+  {
     "date": "2026-10-11",
     "source": "PyTorch KR",
     "title": "Jeff-Code: 0.8B 결정 모델이 턴마다 사고 여부를 골라 Qwen3.8-27B의 작업당 시간을 32% 줄인 Pi 포크",
@@ -800,33 +828,5 @@
       "coding-agent"
     ],
     "score": 0.4
-  },
-  {
-    "date": "2026-09-11",
-    "source": "PyTorch KR",
-    "title": "Envoy AI Gateway가 Agent Router로, AAIF 합류 후에도 CRD와 aigw CLI는 그대로",
-    "url": "https://discuss.pytorch.kr/t/envoy-ai-gateway-agent-router-aaif-crd-aigw-cli/11880",
-    "summary": "(요약 없음 — data.json에서 직접 채워도 됨)",
-    "tags": [
-      "opensource",
-      "agent",
-      "mcp",
-      "ai-gateway"
-    ],
-    "score": 0.59
-  },
-  {
-    "date": "2026-09-11",
-    "source": "PyTorch KR",
-    "title": "FrontierAgent: 단일 에이전트와 병렬 팀 두 방식을 한 터미널에서 고르는 오픈소스 에이전트 런타임 프로젝트",
-    "url": "https://discuss.pytorch.kr/t/frontieragent/11842",
-    "summary": "(요약 없음 — data.json에서 직접 채워도 됨)",
-    "tags": [
-      "multi-agent",
-      "deep-research",
-      "tui",
-      "apodex"
-    ],
-    "score": 0.43
   }
 ]
