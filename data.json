@@ -1,5 +1,33 @@
 [
   {
+    "date": "2026-10-13",
+    "source": "PyTorch KR",
+    "title": "Anthropic이 공개한, Claude 모델 평가 중 발생한 4가지 의도치 않은 행동들에 대한 모델 행동 보고서",
+    "url": "https://discuss.pytorch.kr/t/anthropic-claude-4/12165",
+    "summary": "(요약 없음 — data.json에서 직접 채워도 됨)",
+    "tags": [
+      "agent",
+      "anthropic",
+      "claude",
+      "llm-evaluation"
+    ],
+    "score": 0.5
+  },
+  {
+    "date": "2026-10-13",
+    "source": "PyTorch KR",
+    "title": "Unsloth, LLM을 Laya, Clef와 같인 Jev식 결정 모델을 미세조정하고 로컬에서 서빙하는 학습 가이드 공개",
+    "url": "https://discuss.pytorch.kr/t/unsloth-llm-laya-clef-jev/12158",
+    "summary": "(요약 없음 — data.json에서 직접 채워도 됨)",
+    "tags": [
+      "llm",
+      "fine-tuning",
+      "jev",
+      "lora"
+    ],
+    "score": 0.49
+  },
+  {
     "date": "2026-10-12",
     "source": "PyTorch KR",
     "title": "GuideLLM v0.8.0 공개, 지연 SLO를 지키는 최대 동시성 탐색과 에이전트 트레이스 재생 (feat. vLLM)",
@@ -800,33 +828,5 @@
       "asr"
     ],
     "score": 0.34
-  },
-  {
-    "date": "2026-09-12",
-    "source": "PyTorch KR",
-    "title": "[A2A 알아보기 1편] A2A 프로토콜: 프레임워크가 서로 달라도 에이전트들끼리 서로 작업을 위임하게 하는 표준 규격",
-    "url": "https://discuss.pytorch.kr/t/a2a-1-a2a/11892",
-    "summary": "(요약 없음 — data.json에서 직접 채워도 됨)",
-    "tags": [
-      "mcp",
-      "multi-agent",
-      "a2a",
-      "json-rpc"
-    ],
-    "score": 0.44
-  },
-  {
-    "date": "2026-09-12",
-    "source": "PyTorch KR",
-    "title": "OpenAI, 자동화 연구 인턴 목표 달성 발표와 함께 공개한 사내 측정치: 에이전트 노동이 사람의 3.1배",
-    "url": "https://discuss.pytorch.kr/t/openai-3-1/11849",
-    "summary": "(요약 없음 — data.json에서 직접 채워도 됨)",
-    "tags": [
-      "llm",
-      "openai",
-      "agent",
-      "coding-agent"
-    ],
-    "score": 0.4
   }
 ]
