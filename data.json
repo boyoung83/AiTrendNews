@@ -1,5 +1,33 @@
 [
   {
+    "date": "2026-10-16",
+    "source": "PyTorch KR",
+    "title": "Liquid AI, 활성 2B로 로컬 에이전트를 돌리는 MoE 추론 모델 LFM2.5-24B-A2B 공개 (feat. Hermes Agent)",
+    "url": "https://discuss.pytorch.kr/t/liquid-ai-2b-moe-lfm2-5-24b-a2b-feat-hermes-agent/12188",
+    "summary": "(요약 없음 — data.json에서 직접 채워도 됨)",
+    "tags": [
+      "agent",
+      "open-weights",
+      "moe",
+      "on-device-ai"
+    ],
+    "score": 0.53
+  },
+  {
+    "date": "2026-10-16",
+    "source": "PyTorch KR",
+    "title": "AI-DLC: Claude Code와 Codex 등에서 요구사항부터 배포까지 진행하며, 필요한 경우 사람 승인 단계를 강제하는 워크플로우 (feat. AWS)",
+    "url": "https://discuss.pytorch.kr/t/ai-dlc-claude-code-codex-feat-aws/12204",
+    "summary": "(요약 없음 — data.json에서 직접 채워도 됨)",
+    "tags": [
+      "claude-code",
+      "coding-agent",
+      "codex",
+      "agent-workflow"
+    ],
+    "score": 0.5
+  },
+  {
     "date": "2026-10-15",
     "source": "PyTorch KR",
     "title": "Awesome Reverse Engineering: MCP 서버까지 작업별로 정리한 리버스 엔지니어링 도구 목록",
@@ -800,33 +828,5 @@
       "agent-skills"
     ],
     "score": 0.62
-  },
-  {
-    "date": "2026-09-15",
-    "source": "PyTorch KR",
-    "title": "[A2A 알아보기 3편] A2A CLI: 클라이언트 코드 없이, 터미널에서 A2A 에이전트를 호출하고 띄우는 공식 명령줄 도구",
-    "url": "https://discuss.pytorch.kr/t/a2a-3-a2a-cli-a2a/11894",
-    "summary": "(요약 없음 — data.json에서 직접 채워도 됨)",
-    "tags": [
-      "multi-agent",
-      "developer-tools",
-      "a2a",
-      "agent-protocol"
-    ],
-    "score": 0.65
-  },
-  {
-    "date": "2026-09-15",
-    "source": "PyTorch KR",
-    "title": "Hugging Face가 Papers with Code 논문 11만 편의 하이브리드 검색을 만든 방법 (feat. pgvector, RRF)",
-    "url": "https://discuss.pytorch.kr/t/hugging-face-papers-with-code-11-feat-pgvector-rrf/11859",
-    "summary": "(요약 없음 — data.json에서 직접 채워도 됨)",
-    "tags": [
-      "embedding",
-      "postgresql",
-      "pgvector",
-      "hugging-face"
-    ],
-    "score": 0.57
   }
 ]
