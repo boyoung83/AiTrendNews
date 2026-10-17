@@ -1,5 +1,33 @@
 [
   {
+    "date": "2026-10-17",
+    "source": "PyTorch KR",
+    "title": "고려대 DMIS 연구실, 마스킹 비율마다 LM 헤드를 나눠 분류와 검색을 함께 잡은 32K 인코더 UltraBERT 공개",
+    "url": "https://discuss.pytorch.kr/t/dmis-lm-32k-ultrabert/12199",
+    "summary": "(요약 없음 — data.json에서 직접 채워도 됨)",
+    "tags": [
+      "embedding",
+      "hugging-face",
+      "retrieval",
+      "bert"
+    ],
+    "score": 0.46
+  },
+  {
+    "date": "2026-10-17",
+    "source": "PyTorch KR",
+    "title": "RSI-Anything: 월드 모델로 후보를 고르고 검증된 업데이트만 남기는 재귀적 자기 개선 프레임워크에 대한 연구",
+    "url": "https://discuss.pytorch.kr/t/rsi-anything/12175",
+    "summary": "(요약 없음 — data.json에서 직접 채워도 됨)",
+    "tags": [
+      "llm",
+      "paper",
+      "agent",
+      "world-model"
+    ],
+    "score": 0.44
+  },
+  {
     "date": "2026-10-16",
     "source": "PyTorch KR",
     "title": "Liquid AI, 활성 2B로 로컬 에이전트를 돌리는 MoE 추론 모델 LFM2.5-24B-A2B 공개 (feat. Hermes Agent)",
@@ -800,33 +828,5 @@
       "kimi-k3"
     ],
     "score": 0.48
-  },
-  {
-    "date": "2026-09-16",
-    "source": "PyTorch KR",
-    "title": "Paperthin: 코딩 에이전트가 작업 중 생성한 문서와 코드를 덜어내는 오픈소스 스킬 모음 (28-in-1)",
-    "url": "https://discuss.pytorch.kr/t/paperthin-28-in-1/11921",
-    "summary": "(요약 없음 — data.json에서 직접 채워도 됨)",
-    "tags": [
-      "claude-code",
-      "coding-agent",
-      "codex",
-      "agent-skills"
-    ],
-    "score": 0.67
-  },
-  {
-    "date": "2026-09-16",
-    "source": "PyTorch KR",
-    "title": "Three.js Game Skills: 코딩 에이전트가 만든 브라우저 게임을 점수표로 검증하는 스킬 9종",
-    "url": "https://discuss.pytorch.kr/t/three-js-game-skills-9/11916",
-    "summary": "(요약 없음 — data.json에서 직접 채워도 됨)",
-    "tags": [
-      "claude-code",
-      "coding-agent",
-      "codex",
-      "agent-skills"
-    ],
-    "score": 0.62
   }
 ]
