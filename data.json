@@ -1,5 +1,33 @@
 [
   {
+    "date": "2026-10-18",
+    "source": "PyTorch KR",
+    "title": "MASS(Multi-Agent Self-Supervision): 자신을 복제한 에이전트 팀의 작업 궤적으로 학습하는 재귀적 자기 개선(RSI)에 대한 연구 (feat. SakanaAI)",
+    "url": "https://discuss.pytorch.kr/t/mass-multi-agent-self-supervision-rsi-feat-sakanaai/12176",
+    "summary": "(요약 없음 — data.json에서 직접 채워도 됨)",
+    "tags": [
+      "llm",
+      "paper",
+      "agent",
+      "multi-agent"
+    ],
+    "score": 0.41
+  },
+  {
+    "date": "2026-10-18",
+    "source": "PyTorch KR",
+    "title": "[2026/10/05 ~ 11] 이번 주에 살펴볼 만한 AI/ML 논문 모음",
+    "url": "https://discuss.pytorch.kr/t/2026-10-05-11-ai-ml/12155",
+    "summary": "(요약 없음 — data.json에서 직접 채워도 됨)",
+    "tags": [
+      "paper",
+      "ai-ml-papers-of-the-week",
+      "recursive-self-improvement",
+      "scholarevolve"
+    ],
+    "score": 0.38
+  },
+  {
     "date": "2026-10-17",
     "source": "PyTorch KR",
     "title": "고려대 DMIS 연구실, 마스킹 비율마다 LM 헤드를 나눠 분류와 검색을 함께 잡은 32K 인코더 UltraBERT 공개",
@@ -798,34 +826,6 @@
       "reinforcement-learning",
       "product-launch",
       "automation"
-    ],
-    "score": 0.48
-  },
-  {
-    "date": "2026-09-17",
-    "source": "PyTorch KR",
-    "title": "edge0: 35B MoE 모델을 활성 메모리 3GiB로 실행하는 SSD 전문가 스트리밍 추론 프레임워크",
-    "url": "https://discuss.pytorch.kr/t/edge0-35b-moe-3gib-ssd/11914",
-    "summary": "(요약 없음 — data.json에서 직접 채워도 됨)",
-    "tags": [
-      "on-device",
-      "moe",
-      "apple-silicon",
-      "quantization"
-    ],
-    "score": 0.61
-  },
-  {
-    "date": "2026-09-17",
-    "source": "PyTorch KR",
-    "title": "Cognition, Kimi K3 기반 코딩 모델 SWE-2 공개: Fable 5.1과 1점 차, 비용은 64% 절감",
-    "url": "https://discuss.pytorch.kr/t/cognition-kimi-k3-swe-2-fable-5-1-1-64/11891",
-    "summary": "(요약 없음 — data.json에서 직접 채워도 됨)",
-    "tags": [
-      "coding-agent",
-      "benchmark",
-      "reinforcement-learning",
-      "kimi-k3"
     ],
     "score": 0.48
   }
