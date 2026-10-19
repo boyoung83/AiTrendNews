@@ -1,5 +1,33 @@
 [
   {
+    "date": "2026-10-19",
+    "source": "PyTorch KR",
+    "title": "Claudemy: 주제 하나로 웹을 조사해 출처가 달린 2분 오디오 강의를 만드는 Claude Code 스킬",
+    "url": "https://discuss.pytorch.kr/t/claudemy-2-claude-code/12234",
+    "summary": "(요약 없음 — data.json에서 직접 채워도 됨)",
+    "tags": [
+      "claude-code",
+      "text-to-speech",
+      "agent-skill",
+      "podcast"
+    ],
+    "score": 0.5
+  },
+  {
+    "date": "2026-10-19",
+    "source": "PyTorch KR",
+    "title": "Bespoke Labs, 사실 하나만 바꾼 대조 데이터로 만든 9B 결정 모델 Nimble과 학습 레시피 공개",
+    "url": "https://discuss.pytorch.kr/t/bespoke-labs-9b-nimble/12196",
+    "summary": "(요약 없음 — data.json에서 직접 채워도 됨)",
+    "tags": [
+      "opensource",
+      "fine-tuning",
+      "qwen",
+      "jev"
+    ],
+    "score": 0.45
+  },
+  {
     "date": "2026-10-18",
     "source": "PyTorch KR",
     "title": "MASS(Multi-Agent Self-Supervision): 자신을 복제한 에이전트 팀의 작업 궤적으로 학습하는 재귀적 자기 개선(RSI)에 대한 연구 (feat. SakanaAI)",
@@ -800,33 +828,5 @@
       "benchmark"
     ],
     "score": 0.34
-  },
-  {
-    "date": "2026-09-18",
-    "source": "PyTorch KR",
-    "title": "BrowserSkill: 사람이 사용하던 브라우저 상태 그대로 에이전트에게 사용할 수 있도록 하는 CLI 도구",
-    "url": "https://discuss.pytorch.kr/t/browserskill-cli/11936",
-    "summary": "(요약 없음 — data.json에서 직접 채워도 됨)",
-    "tags": [
-      "ai-agent",
-      "mit-license",
-      "rust",
-      "cli"
-    ],
-    "score": 0.65
-  },
-  {
-    "date": "2026-09-18",
-    "source": "PyTorch KR",
-    "title": "Jev, 토큰 대신 확률적 결정을 내놓는 새로운 형태의 System One 모델 (feat. TypeSafe AI)",
-    "url": "https://discuss.pytorch.kr/t/jev-system-one-feat-typesafe-ai/11935",
-    "summary": "(요약 없음 — data.json에서 직접 채워도 됨)",
-    "tags": [
-      "llm",
-      "reinforcement-learning",
-      "product-launch",
-      "automation"
-    ],
-    "score": 0.48
   }
 ]
