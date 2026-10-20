@@ -1,5 +1,33 @@
 [
   {
+    "date": "2026-10-20",
+    "source": "PyTorch KR",
+    "title": "LeanREA: REA의 MCP 도구 207개 대신 8KB 스킬 파일 하나로 리버스 엔지니어링을 안내하는 에이전트 스킬 (≠ REA 공식 경량판)",
+    "url": "https://discuss.pytorch.kr/t/leanrea-rea-mcp-207-8kb-rea/12233",
+    "summary": "(요약 없음 — data.json에서 직접 채워도 됨)",
+    "tags": [
+      "claude-code",
+      "coding-agent",
+      "mcp",
+      "agent-skills"
+    ],
+    "score": 0.74
+  },
+  {
+    "date": "2026-10-20",
+    "source": "PyTorch KR",
+    "title": "[오픈소스] 하네스 논문 세 편을 에이전트 하나로 묶어 봤습니다: LongHarness + Harmony Harness + Harness² 경량 구현 (비공식)",
+    "url": "https://discuss.pytorch.kr/t/longharness-harmony-harness-harness/12248",
+    "summary": "(요약 없음 — data.json에서 직접 채워도 됨)",
+    "tags": [
+      "llm",
+      "claude-code",
+      "agent",
+      "opensource"
+    ],
+    "score": 0.72
+  },
+  {
     "date": "2026-10-19",
     "source": "PyTorch KR",
     "title": "Claudemy: 주제 하나로 웹을 조사해 출처가 달린 2분 오디오 강의를 만드는 Claude Code 스킬",
@@ -800,33 +828,5 @@
       "desktop-app"
     ],
     "score": 0.32
-  },
-  {
-    "date": "2026-09-19",
-    "source": "PyTorch KR",
-    "title": "Kaggle TPU Lab: 무료 Kaggle TPU에서 320B 크기의 GLM-5.3-Flash을 서빙하는 코딩 에이전트용 API 레시피 저장소",
-    "url": "https://discuss.pytorch.kr/t/kaggle-tpu-lab-kaggle-tpu-320b-glm-5-3-flash-api/11944",
-    "summary": "(요약 없음 — data.json에서 직접 채워도 됨)",
-    "tags": [
-      "coding-agent",
-      "mixture-of-experts",
-      "vllm",
-      "long-context"
-    ],
-    "score": 0.48
-  },
-  {
-    "date": "2026-09-19",
-    "source": "PyTorch KR",
-    "title": "Anthropic, 내부의 AI 개발 속도를 측정하는 3가지 지표 공개 공개: Claude가 AI R&D의 26%를 주도",
-    "url": "https://discuss.pytorch.kr/t/anthropic-ai-3-claude-ai-r-d-26/11953",
-    "summary": "(요약 없음 — data.json에서 직접 채워도 됨)",
-    "tags": [
-      "agent",
-      "anthropic",
-      "claude",
-      "benchmark"
-    ],
-    "score": 0.34
   }
 ]
