@@ -1,5 +1,33 @@
 [
   {
+    "date": "2026-10-21",
+    "source": "PyTorch KR",
+    "title": "LLM 에이전트의 외부화(Externalization)에 대한 리뷰 논문 (1/2): 가중치에서 하네스로, 메모리와 스킬",
+    "url": "https://discuss.pytorch.kr/t/llm-externalization-1-2/12177",
+    "summary": "(요약 없음 — data.json에서 직접 채워도 됨)",
+    "tags": [
+      "survey-paper",
+      "llm-agent",
+      "agent-skills",
+      "agent-memory"
+    ],
+    "score": 0.67
+  },
+  {
+    "date": "2026-10-21",
+    "source": "PyTorch KR",
+    "title": "Harness²: 정답 라벨 없이 작업마다 에이전트 하네스를 고치고, 그 경험을 다음 작업에 넘기는 프레임워크 (feat. Google)",
+    "url": "https://discuss.pytorch.kr/t/harness-feat-google/12231",
+    "summary": "(요약 없음 — data.json에서 직접 채워도 됨)",
+    "tags": [
+      "llm-agent",
+      "agent-harness",
+      "google-research",
+      "self-improvement"
+    ],
+    "score": 0.53
+  },
+  {
     "date": "2026-10-20",
     "source": "PyTorch KR",
     "title": "LeanREA: REA의 MCP 도구 207개 대신 8KB 스킬 파일 하나로 리버스 엔지니어링을 안내하는 에이전트 스킬 (≠ REA 공식 경량판)",
@@ -800,33 +828,5 @@
       "calibration"
     ],
     "score": 0.31
-  },
-  {
-    "date": "2026-09-20",
-    "source": "PyTorch KR",
-    "title": "HarnessTax: 7가지 모델 x 3가지 하네스로 실험한, 모델과 하네스에 따른 성능과 비용에 대한 연구 (feat. UC Berkeley)",
-    "url": "https://discuss.pytorch.kr/t/harnesstax-7-x-3-feat-uc-berkeley/11957",
-    "summary": "(요약 없음 — data.json에서 직접 채워도 됨)",
-    "tags": [
-      "claude-code",
-      "coding-agent",
-      "codex",
-      "benchmark"
-    ],
-    "score": 0.35
-  },
-  {
-    "date": "2026-09-20",
-    "source": "PyTorch KR",
-    "title": "Chat On Steroids: 승인한 폴더 내에서 ChatGPT가 파일과 터미널을 다루도록 하는 로컬 MCP 앱",
-    "url": "https://discuss.pytorch.kr/t/chat-on-steroids-chatgpt-mcp/11915",
-    "summary": "(요약 없음 — data.json에서 직접 채워도 됨)",
-    "tags": [
-      "coding-agent",
-      "mcp",
-      "chatgpt",
-      "desktop-app"
-    ],
-    "score": 0.32
   }
 ]
