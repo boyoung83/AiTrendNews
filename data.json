@@ -1,5 +1,33 @@
 [
   {
+    "date": "2026-10-22",
+    "source": "PyTorch KR",
+    "title": "Traceway: LLM 호출 비용까지 추적하고 AI 에이전트가 직접 조회하는 셀프 호스팅 관측 플랫폼",
+    "url": "https://discuss.pytorch.kr/t/traceway-llm-ai/12232",
+    "summary": "(요약 없음 — data.json에서 직접 채워도 됨)",
+    "tags": [
+      "mcp",
+      "agent-skills",
+      "self-hosted",
+      "observability"
+    ],
+    "score": 0.52
+  },
+  {
+    "date": "2026-10-22",
+    "source": "PyTorch KR",
+    "title": "DeepInfer: DeepSeek이 V4.1-Flash 모델의 서비스에 사용하는 추론 프레임워크 (단, 오프라인 추론만 공개 😅)",
+    "url": "https://discuss.pytorch.kr/t/deepinfer-deepseek-v4-1-flash/12256",
+    "summary": "(요약 없음 — data.json에서 직접 채워도 됨)",
+    "tags": [
+      "moe",
+      "deepseek",
+      "speculative-decoding",
+      "llm-serving"
+    ],
+    "score": 0.45
+  },
+  {
     "date": "2026-10-21",
     "source": "PyTorch KR",
     "title": "LLM 에이전트의 외부화(Externalization)에 대한 리뷰 논문 (1/2): 가중치에서 하네스로, 메모리와 스킬",
@@ -800,33 +828,5 @@
       "benchmark"
     ],
     "score": 0.5
-  },
-  {
-    "date": "2026-09-21",
-    "source": "PyTorch KR",
-    "title": "OpenArm: 원격 조작부터 학습 정책 평가까지 공개한 오픈소스 양팔 로봇",
-    "url": "https://discuss.pytorch.kr/t/openarm/11947",
-    "summary": "(요약 없음 — data.json에서 직접 채워도 됨)",
-    "tags": [
-      "robotics",
-      "physical-ai",
-      "imitation-learning",
-      "robot-arm"
-    ],
-    "score": 0.51
-  },
-  {
-    "date": "2026-09-21",
-    "source": "PyTorch KR",
-    "title": "kev: 비공개 모델 Jev를 Qwen과 LoRA로 재현해 맥북에서 학습하고 실행하는 결정 모델",
-    "url": "https://discuss.pytorch.kr/t/kev-jev-qwen-lora/11963",
-    "summary": "(요약 없음 — data.json에서 직접 채워도 됨)",
-    "tags": [
-      "qwen",
-      "lora",
-      "structured-output",
-      "calibration"
-    ],
-    "score": 0.31
   }
 ]
