@@ -1,5 +1,33 @@
 [
   {
+    "date": "2026-10-23",
+    "source": "PyTorch KR",
+    "title": "[2026/10/12 ~ 18] 이번 주에 살펴볼 만한 AI/ML 논문 모음",
+    "url": "https://discuss.pytorch.kr/t/2026-10-12-18-ai-ml/12236",
+    "summary": "(요약 없음 — data.json에서 직접 채워도 됨)",
+    "tags": [
+      "paper",
+      "ai-ml-papers-of-the-week",
+      "decision-model",
+      "self-evolving-agent"
+    ],
+    "score": 0.54
+  },
+  {
+    "date": "2026-10-23",
+    "source": "PyTorch KR",
+    "title": "AAIF에 Agent Skills, Open Responses, OpenEnv, OpenSandbox 합류해 프로젝트 10개로",
+    "url": "https://discuss.pytorch.kr/t/aaif-agent-skills-open-responses-openenv-opensandbox-10/12275",
+    "summary": "(요약 없음 — data.json에서 직접 채워도 됨)",
+    "tags": [
+      "agent",
+      "opensource",
+      "agent-skills",
+      "linux-foundation"
+    ],
+    "score": 0.51
+  },
+  {
     "date": "2026-10-22",
     "source": "PyTorch KR",
     "title": "Traceway: LLM 호출 비용까지 추적하고 AI 에이전트가 직접 조회하는 셀프 호스팅 관측 플랫폼",
@@ -800,33 +828,5 @@
       "evaluation"
     ],
     "score": 0.46
-  },
-  {
-    "date": "2026-09-23",
-    "source": "PyTorch KR",
-    "title": "Fast Jev Compaction: 컨텍스트 정리 시, 불필요한 도구 호출 결과를 제외하는 Claude Code 플러그인",
-    "url": "https://discuss.pytorch.kr/t/fast-jev-compaction-claude-code/11970",
-    "summary": "(요약 없음 — data.json에서 직접 채워도 됨)",
-    "tags": [
-      "claude-code",
-      "coding-agent",
-      "plugin",
-      "typesafe-ai"
-    ],
-    "score": 0.53
-  },
-  {
-    "date": "2026-09-23",
-    "source": "PyTorch KR",
-    "title": "OpenAI, API 가격을 절반으로 낮춘 GPT-6 Sol과 Luna 출시: 추론 강도별 과제당 비용으로 본 성능과 정렬",
-    "url": "https://discuss.pytorch.kr/t/openai-api-gpt-6-sol-luna/11989",
-    "summary": "(요약 없음 — data.json에서 직접 채워도 됨)",
-    "tags": [
-      "llm",
-      "openai",
-      "agent",
-      "benchmark"
-    ],
-    "score": 0.5
   }
 ]
