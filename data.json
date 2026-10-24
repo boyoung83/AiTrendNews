@@ -1,5 +1,33 @@
 [
   {
+    "date": "2026-10-24",
+    "source": "PyTorch KR",
+    "title": "Hugging Face, Apple Foundation Models 코드를 그대로 로컬과 클라우드에서 사용 가능한 AnyLanguageModel 1.0 공개",
+    "url": "https://discuss.pytorch.kr/t/hugging-face-apple-foundation-models-anylanguagemodel-1-0/12258",
+    "summary": "(요약 없음 — data.json에서 직접 채워도 됨)",
+    "tags": [
+      "llm",
+      "on-device",
+      "apple",
+      "hugging-face"
+    ],
+    "score": 0.57
+  },
+  {
+    "date": "2026-10-24",
+    "source": "PyTorch KR",
+    "title": "OpenAI가 AAIF에 기증한 Open Responses: 여러 LLM 제공자를 같은 요청 형식으로 호출하는 공개 사양",
+    "url": "https://discuss.pytorch.kr/t/openai-aaif-open-responses-llm/12277",
+    "summary": "(요약 없음 — data.json에서 직접 채워도 됨)",
+    "tags": [
+      "llm",
+      "openai",
+      "agent",
+      "api"
+    ],
+    "score": 0.5
+  },
+  {
     "date": "2026-10-23",
     "source": "PyTorch KR",
     "title": "[2026/10/12 ~ 18] 이번 주에 살펴볼 만한 AI/ML 논문 모음",
@@ -800,33 +828,5 @@
       "claude"
     ],
     "score": 0.43
-  },
-  {
-    "date": "2026-09-24",
-    "source": "PyTorch KR",
-    "title": "StepFun Step 5 Preview 출시: Kimi K3와 같은 지능, 작업 비용은 1/3, 가중치 공개는 10/15 예정",
-    "url": "https://discuss.pytorch.kr/t/stepfun-step-5-preview-kimi-k3-1-3-10-15/11987",
-    "summary": "(요약 없음 — data.json에서 직접 채워도 됨)",
-    "tags": [
-      "llm",
-      "agent",
-      "benchmark",
-      "open-weights"
-    ],
-    "score": 0.54
-  },
-  {
-    "date": "2026-09-24",
-    "source": "PyTorch KR",
-    "title": "NVIDIA가 정리한 AI 에이전트 평가: 도구 호출 정확도 대신 과업 완수를 채점하는 지표들과 트레이스 읽는 법",
-    "url": "https://discuss.pytorch.kr/t/nvidia-ai/11986",
-    "summary": "(요약 없음 — data.json에서 직접 채워도 됨)",
-    "tags": [
-      "ai-agent",
-      "nvidia",
-      "benchmark",
-      "evaluation"
-    ],
-    "score": 0.46
   }
 ]
