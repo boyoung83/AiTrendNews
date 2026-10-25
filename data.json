@@ -1,5 +1,33 @@
 [
   {
+    "date": "2026-10-25",
+    "source": "PyTorch KR",
+    "title": "Kimi K3.1 Pro 출시: K3보다 33% 낮은 API 가격, 사이버 보안 데이터를 뺀 3T급 오픈 웨이트 모델 (가중치는 11/4까지 공개 예정)",
+    "url": "https://discuss.pytorch.kr/t/kimi-k3-1-pro-k3-33-api-3t-11-4/12289",
+    "summary": "(요약 없음 — data.json에서 직접 채워도 됨)",
+    "tags": [
+      "llm",
+      "benchmark",
+      "product-launch",
+      "open-weights"
+    ],
+    "score": 0.51
+  },
+  {
+    "date": "2026-10-25",
+    "source": "PyTorch KR",
+    "title": "NVIDIA, 4GB VRAM에서 동작하는 대화형 에이전트용 소형 모델 Nemotron 3.5 Bolt E4B 공개 (feat. Gemma 4)",
+    "url": "https://discuss.pytorch.kr/t/nvidia-4gb-vram-nemotron-3-5-bolt-e4b-feat-gemma-4/12291",
+    "summary": "(요약 없음 — data.json에서 직접 채워도 됨)",
+    "tags": [
+      "agent",
+      "nvidia",
+      "on-device",
+      "speculative-decoding"
+    ],
+    "score": 0.47
+  },
+  {
     "date": "2026-10-24",
     "source": "PyTorch KR",
     "title": "Hugging Face, Apple Foundation Models 코드를 그대로 로컬과 클라우드에서 사용 가능한 AnyLanguageModel 1.0 공개",
@@ -800,33 +828,5 @@
       "reinforcement-learning"
     ],
     "score": 0.41
-  },
-  {
-    "date": "2026-09-25",
-    "source": "PyTorch KR",
-    "title": "Claude Opus 5.5 프롬프팅 & 마이그레이션 가이드: Anthropic이 공개한, Opus 5, 4.x, Sonnet 5 코드를 400 오류 없이 옮기는 법",
-    "url": "https://discuss.pytorch.kr/t/claude-opus-5-5-anthropic-opus-5-4-x-sonnet-5-400/12002",
-    "summary": "(요약 없음 — data.json에서 직접 채워도 됨)",
-    "tags": [
-      "llm",
-      "agent",
-      "anthropic",
-      "claude"
-    ],
-    "score": 0.5
-  },
-  {
-    "date": "2026-09-25",
-    "source": "PyTorch KR",
-    "title": "Anthropic, Claude Opus 5.5 출시: Fable 5.1급 성능에 Opus 5보다 40% 낮은 실행 비용",
-    "url": "https://discuss.pytorch.kr/t/anthropic-claude-opus-5-5-fable-5-1-opus-5-40/11988",
-    "summary": "(요약 없음 — data.json에서 직접 채워도 됨)",
-    "tags": [
-      "llm",
-      "agent",
-      "anthropic",
-      "claude"
-    ],
-    "score": 0.43
   }
 ]
