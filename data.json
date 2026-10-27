@@ -1,5 +1,31 @@
 [
   {
+    "date": "2026-10-27",
+    "source": "PyTorch KR",
+    "title": "Corgi: Claude Code, Codex 등 여러 코딩 에이전트를 한 터미널에서 지켜보는 멀티플렉서 (feat. Ghostty, herdr)",
+    "url": "https://discuss.pytorch.kr/t/corgi-claude-code-codex-feat-ghostty-herdr/12290",
+    "summary": "(요약 없음 — data.json에서 직접 채워도 됨)",
+    "tags": [
+      "claude-code",
+      "coding-agent",
+      "codex",
+      "developer-tools"
+    ],
+    "score": 0.86
+  },
+  {
+    "date": "2026-10-27",
+    "source": "PyTorch KR",
+    "title": "한국어 STT 평가: 정답의 숫자 표기 하나로 모델 비교가 뒤집히는 문제 (공개 모델 6개로 확인해 본 것들)",
+    "url": "https://discuss.pytorch.kr/t/stt-6/12327",
+    "summary": "(요약 없음 — data.json에서 직접 채워도 됨)",
+    "tags": [
+      "opensource",
+      "stt"
+    ],
+    "score": 0.71
+  },
+  {
     "date": "2026-10-26",
     "source": "PyTorch KR",
     "title": "Docker와 Kubernetes를 같은 API로 다루는 에이전트 샌드박스 OpenSandbox, AAIF 프로젝트로 합류",
@@ -800,33 +826,5 @@
       "gemini-cli"
     ],
     "score": 0.5
-  },
-  {
-    "date": "2026-09-27",
-    "source": "PyTorch KR",
-    "title": "Andrew Ng의 AI Engineering Skills Map: 코딩 에이전트 활용 역량(Using coding agents)",
-    "url": "https://discuss.pytorch.kr/t/andrew-ng-ai-engineering-skills-map-using-coding-agents/11994",
-    "summary": "(요약 없음 — data.json에서 직접 채워도 됨)",
-    "tags": [
-      "agent",
-      "coding-agent",
-      "guide",
-      "andrew-ng"
-    ],
-    "score": 0.61
-  },
-  {
-    "date": "2026-09-27",
-    "source": "PyTorch KR",
-    "title": "Andrew Ng의 AI Engineering Skills Map: 개발자의 소프트웨어 기본기(Software engineering fundamentals)",
-    "url": "https://discuss.pytorch.kr/t/andrew-ng-ai-engineering-skills-map-software-engineering-fundamentals/11993",
-    "summary": "(요약 없음 — data.json에서 직접 채워도 됨)",
-    "tags": [
-      "coding-agent",
-      "guide",
-      "andrew-ng",
-      "ai-engineering"
-    ],
-    "score": 0.51
   }
 ]
