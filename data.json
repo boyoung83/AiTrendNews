@@ -1,5 +1,33 @@
 [
   {
+    "date": "2026-10-31",
+    "source": "PyTorch KR",
+    "title": "OpenQodex: 코딩 에이전트의 변경을 push 전에 별도 Claude Code와 Codex 세션이 검토하는 도구",
+    "url": "https://discuss.pytorch.kr/t/openqodex-push-claude-code-codex/12335",
+    "summary": "(요약 없음 — data.json에서 직접 채워도 됨)",
+    "tags": [
+      "claude-code",
+      "coding-agent",
+      "mcp",
+      "codex"
+    ],
+    "score": 0.6
+  },
+  {
+    "date": "2026-10-31",
+    "source": "PyTorch KR",
+    "title": "Claude Code 팀의 코드 리뷰 방식: 병합 PR이 2배로 늘 때 되돌림 비율은 40% 넘게 줄인 방법 (feat. Anthropic)",
+    "url": "https://discuss.pytorch.kr/t/claude-code-pr-2-40-feat-anthropic/12336",
+    "summary": "(요약 없음 — data.json에서 직접 채워도 됨)",
+    "tags": [
+      "claude-code",
+      "agent",
+      "anthropic",
+      "coding-agent"
+    ],
+    "score": 0.58
+  },
+  {
     "date": "2026-10-30",
     "source": "PyTorch KR",
     "title": "tstack: 코딩 에이전트가 변경 증명부터 리뷰 봇 대응, PR 병합까지 맡게 하는 스킬 9종 (feat. Theo Browne)",
@@ -798,33 +826,5 @@
       "opentelemetry"
     ],
     "score": 0.46
-  },
-  {
-    "date": "2026-10-01",
-    "source": "PyTorch KR",
-    "title": "OpenAI DevDay 2026 발표 25가지 총정리: 상시 에이전트 dots부터 GPT-6.1 Sol, 플러그인 확장까지",
-    "url": "https://discuss.pytorch.kr/t/openai-devday-2026-25-dots-gpt-6-1-sol/12053",
-    "summary": "(요약 없음 — data.json에서 직접 채워도 됨)",
-    "tags": [
-      "openai",
-      "agent",
-      "mcp",
-      "chatgpt"
-    ],
-    "score": 0.6
-  },
-  {
-    "date": "2026-10-01",
-    "source": "PyTorch KR",
-    "title": "Laya: 텍스트 생성 없이 한 번의 순전파로 결정을 내리는 Jev 호환 오픈 가중치 모델과 로컬 실행 도구들",
-    "url": "https://discuss.pytorch.kr/t/laya-jev/12027",
-    "summary": "(요약 없음 — data.json에서 직접 채워도 됨)",
-    "tags": [
-      "apple-silicon",
-      "mlx",
-      "jev",
-      "decision-model"
-    ],
-    "score": 0.54
   }
 ]
