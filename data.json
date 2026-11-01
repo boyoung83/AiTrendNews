@@ -1,5 +1,33 @@
 [
   {
+    "date": "2026-11-01",
+    "source": "PyTorch KR",
+    "title": "Step Code: StepFun이 Pi 코딩 에이전트에 서브에이전트와 웹 페이지 배포를 더한 터미널 코딩 에이전트",
+    "url": "https://discuss.pytorch.kr/t/step-code-stepfun-pi/12287",
+    "summary": "(요약 없음 — data.json에서 직접 채워도 됨)",
+    "tags": [
+      "coding-agent",
+      "mcp",
+      "multi-agent",
+      "stepfun"
+    ],
+    "score": 0.5
+  },
+  {
+    "date": "2026-11-01",
+    "source": "PyTorch KR",
+    "title": "Memento: 성공과 실패 사례를 별도 공간에 저장하는 방식으로, LLM 파인튜닝 없이 성능을 높이는 딥 리서치 에이전트",
+    "url": "https://discuss.pytorch.kr/t/memento-llm/12309",
+    "summary": "(요약 없음 — data.json에서 직접 채워도 됨)",
+    "tags": [
+      "mcp",
+      "llm-agent",
+      "agent-memory",
+      "deep-research"
+    ],
+    "score": 0.46
+  },
+  {
     "date": "2026-10-31",
     "source": "PyTorch KR",
     "title": "OpenQodex: 코딩 에이전트의 변경을 push 전에 별도 Claude Code와 Codex 세션이 검토하는 도구",
@@ -798,33 +826,5 @@
       "playwright"
     ],
     "score": 0.48
-  },
-  {
-    "date": "2026-10-02",
-    "source": "PyTorch KR",
-    "title": "Liquid AI, 문장 생성 대신 Jev 호환 API로 분류 / 라우팅 / 점수를 처리하는 결정 모델 d1 공개",
-    "url": "https://discuss.pytorch.kr/t/liquid-ai-jev-api-d1/12063",
-    "summary": "(요약 없음 — data.json에서 직접 채워도 됨)",
-    "tags": [
-      "llm",
-      "jev",
-      "api",
-      "liquid-ai"
-    ],
-    "score": 0.47
-  },
-  {
-    "date": "2026-10-02",
-    "source": "PyTorch KR",
-    "title": "Cloudflare가 제안하는 소프트웨어 개발 방법론의 변화: SDLC에서 ADLC로, 배포와 운영까지 에이전트에게 맡기는 소프트웨어 팩토리",
-    "url": "https://discuss.pytorch.kr/t/cloudflare-sdlc-adlc/12021",
-    "summary": "(요약 없음 — data.json에서 직접 채워도 됨)",
-    "tags": [
-      "agent",
-      "observability",
-      "cloudflare",
-      "opentelemetry"
-    ],
-    "score": 0.46
   }
 ]
