@@ -1,5 +1,33 @@
 [
   {
+    "date": "2026-11-02",
+    "source": "PyTorch KR",
+    "title": "KOMOS – 한국어 음성 품질 평가 모델을 오픈소스로 공개했습니다",
+    "url": "https://discuss.pytorch.kr/t/komos/12380",
+    "summary": "(요약 없음 — data.json에서 직접 채워도 됨)",
+    "tags": [
+      "ai",
+      "opensource",
+      "tts",
+      "evaluation"
+    ],
+    "score": 0.6
+  },
+  {
+    "date": "2026-11-02",
+    "source": "PyTorch KR",
+    "title": "[프로젝트 공유] day-trader-skill-kr: 미국 주식 전용 Day Trader Skill을 국내 주식용으로 옮기고, 장기 투자 검증·대가 점검표·논지 추적을 더한 Claude 스킬 묶음",
+    "url": "https://discuss.pytorch.kr/t/day-trader-skill-kr-day-trader-skill-claude/12373",
+    "summary": "(요약 없음 — data.json에서 직접 채워도 됨)",
+    "tags": [
+      "claude-code",
+      "agent",
+      "claude-skills",
+      "trading-agents"
+    ],
+    "score": 0.54
+  },
+  {
     "date": "2026-11-01",
     "source": "PyTorch KR",
     "title": "Step Code: StepFun이 Pi 코딩 에이전트에 서브에이전트와 웹 페이지 배포를 더한 터미널 코딩 에이전트",
@@ -798,33 +826,5 @@
       "python"
     ],
     "score": 0.45
-  },
-  {
-    "date": "2026-10-03",
-    "source": "PyTorch KR",
-    "title": "ChatGPT Pro 3단계 개편 정리: Pro 200 사용량 축소와 Pro 500 Ultrafast의 속도 대비 비용 (feat. Codex)",
-    "url": "https://discuss.pytorch.kr/t/chatgpt-pro-3-pro-200-pro-500-ultrafast-feat-codex/12054",
-    "summary": "(요약 없음 — data.json에서 직접 채워도 됨)",
-    "tags": [
-      "openai",
-      "chatgpt",
-      "codex",
-      "product-launch"
-    ],
-    "score": 0.48
-  },
-  {
-    "date": "2026-10-03",
-    "source": "PyTorch KR",
-    "title": "dots: 봇 탐지를 피하도록 패치하고, Firefox로 웹 작업을 하는 오픈소스 로컬 브라우저 에이전트 (≠ OpenAI dots)",
-    "url": "https://discuss.pytorch.kr/t/dots-firefox-openai-dots/12078",
-    "summary": "(요약 없음 — data.json에서 직접 채워도 됨)",
-    "tags": [
-      "mcp",
-      "web-agent",
-      "openrouter",
-      "playwright"
-    ],
-    "score": 0.48
   }
 ]
