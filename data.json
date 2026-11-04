@@ -1,5 +1,33 @@
 [
   {
+    "date": "2026-11-04",
+    "source": "PyTorch KR",
+    "title": "Auto Ontology: DB 메타데이터로 온톨로지를 생성해 AI 에이전트의 SQL을 검증하는 NVIDIA의 시맨틱 레이어 프레임워크",
+    "url": "https://discuss.pytorch.kr/t/auto-ontology-db-ai-sql-nvidia/12402",
+    "summary": "(요약 없음 — data.json에서 직접 채워도 됨)",
+    "tags": [
+      "ai-agent",
+      "mcp",
+      "nvidia",
+      "text-to-sql"
+    ],
+    "score": 0.7
+  },
+  {
+    "date": "2026-11-04",
+    "source": "PyTorch KR",
+    "title": "AI 현황 보고서(State of AI) 2026: 프런티어 모델의 3강 구도, 에이전트 보안 사고, AGI 2027 예측 등 [영문/PDF/244p]",
+    "url": "https://discuss.pytorch.kr/t/ai-state-of-ai-2026-3-agi-2027-pdf-244p/12366",
+    "summary": "(요약 없음 — data.json에서 직접 채워도 됨)",
+    "tags": [
+      "llm",
+      "agent",
+      "ai-safety",
+      "report"
+    ],
+    "score": 0.55
+  },
+  {
     "date": "2026-11-03",
     "source": "PyTorch KR",
     "title": "Google, Gemini 4 Carbon 출시: Argon과 같은 가격에 AA 지수 1위, 사이버 방어 기관부터 제공",
@@ -796,33 +824,5 @@
       "tencent"
     ],
     "score": 0.46
-  },
-  {
-    "date": "2026-10-05",
-    "source": "PyTorch KR",
-    "title": "Translate Book: arXiv - arXiv 논문을 원문 구조 그대로 번역 논문으로 만들어 주는 Claude Code 스킬",
-    "url": "https://discuss.pytorch.kr/t/translate-book-arxiv-arxiv-claude-code/12097",
-    "summary": "(요약 없음 — data.json에서 직접 채워도 됨)",
-    "tags": [
-      "paper",
-      "claude-code",
-      "agent-skills",
-      "arxiv"
-    ],
-    "score": 0.5
-  },
-  {
-    "date": "2026-10-05",
-    "source": "PyTorch KR",
-    "title": "NVIDIA VSS 3.3: 영상 AI 에이전트를 프롬프트로 조립하고, 변하지 않은 화면의 VLM 토큰은 줄이기 (feat. Adaptive EVS)",
-    "url": "https://discuss.pytorch.kr/t/nvidia-vss-3-3-ai-vlm-feat-adaptive-evs/12077",
-    "summary": "(요약 없음 — data.json에서 직접 채워도 됨)",
-    "tags": [
-      "agent",
-      "nvidia",
-      "agent-skills",
-      "vlm"
-    ],
-    "score": 0.47
   }
 ]
