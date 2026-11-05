@@ -1,5 +1,33 @@
 [
   {
+    "date": "2026-11-05",
+    "source": "PyTorch KR",
+    "title": "Google, Antigravity용 Cheminformatics Skills 출시: 크리조티닙 사례로 본 에이전트 신약 설계 (feat. RDKit, ChEMBL)",
+    "url": "https://discuss.pytorch.kr/t/google-antigravity-cheminformatics-skills-feat-rdkit-chembl/12413",
+    "summary": "(요약 없음 — data.json에서 직접 채워도 됨)",
+    "tags": [
+      "agent-skills",
+      "google-deepmind",
+      "ai-for-science",
+      "google-antigravity"
+    ],
+    "score": 0.62
+  },
+  {
+    "date": "2026-11-05",
+    "source": "PyTorch KR",
+    "title": "Anatomy: 상자와 화살표 대신 움직이는 기계 그림으로 기술 개념을 설명하는 에이전트 스킬",
+    "url": "https://discuss.pytorch.kr/t/anatomy/12412",
+    "summary": "(요약 없음 — data.json에서 직접 채워도 됨)",
+    "tags": [
+      "claude-code",
+      "agent-skills",
+      "visualization",
+      "webgl"
+    ],
+    "score": 0.6
+  },
+  {
     "date": "2026-11-04",
     "source": "PyTorch KR",
     "title": "Auto Ontology: DB 메타데이터로 온톨로지를 생성해 AI 에이전트의 SQL을 검증하는 NVIDIA의 시맨틱 레이어 프레임워크",
@@ -796,33 +824,5 @@
     "summary": "(요약 없음 — data.json에서 직접 채워도 됨)",
     "tags": [],
     "score": 0.39
-  },
-  {
-    "date": "2026-10-06",
-    "source": "PyTorch KR",
-    "title": "AgentCraft: Claude 에이전트 팀의 코딩 작업을 Minecraft 스튜디오에서 지켜보고 병합하는 모드",
-    "url": "https://discuss.pytorch.kr/t/agentcraft-claude-minecraft/12101",
-    "summary": "(요약 없음 — data.json에서 직접 채워도 됨)",
-    "tags": [
-      "coding-agent",
-      "mit-license",
-      "multi-agent",
-      "claude-agent-sdk"
-    ],
-    "score": 0.49
-  },
-  {
-    "date": "2026-10-06",
-    "source": "PyTorch KR",
-    "title": "A.I.G(AI-Infra-Guard): AI 인프라와 MCP 서버, 에이전트, 모델을 계층별로 점검하는 텐센트의 레드팀 플랫폼",
-    "url": "https://discuss.pytorch.kr/t/a-i-g-ai-infra-guard-ai-mcp/12090",
-    "summary": "(요약 없음 — data.json에서 직접 채워도 됨)",
-    "tags": [
-      "mcp",
-      "agent-skills",
-      "ai-security",
-      "tencent"
-    ],
-    "score": 0.46
   }
 ]
