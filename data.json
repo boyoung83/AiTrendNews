@@ -1,5 +1,33 @@
 [
   {
+    "date": "2026-11-06",
+    "source": "PyTorch KR",
+    "title": "OpenAI, 사람의 일상 과제를 대신 처리하는 능력을 재기 위한 LifeVal 벤치마크 및 최신 GPT 모델들의 측정 결과 공개",
+    "url": "https://discuss.pytorch.kr/t/openai-lifeval-gpt/12392",
+    "summary": "(요약 없음 — data.json에서 직접 채워도 됨)",
+    "tags": [
+      "agent",
+      "openai",
+      "benchmark",
+      "evaluation"
+    ],
+    "score": 0.47
+  },
+  {
+    "date": "2026-11-06",
+    "source": "PyTorch KR",
+    "title": "TensorRT Edge-LLM으로 DGX Spark에서 Nemotron 3.5 Lightning 실행하기 (DSpark로 생성 속도 최대 1.7배)",
+    "url": "https://discuss.pytorch.kr/t/tensorrt-edge-llm-dgx-spark-nemotron-3-5-lightning-dspark-1-7/12401",
+    "summary": "(요약 없음 — data.json에서 직접 채워도 됨)",
+    "tags": [
+      "nvidia",
+      "on-device",
+      "guide",
+      "speculative-decoding"
+    ],
+    "score": 0.46
+  },
+  {
     "date": "2026-11-05",
     "source": "PyTorch KR",
     "title": "Google, Antigravity용 Cheminformatics Skills 출시: 크리조티닙 사례로 본 에이전트 신약 설계 (feat. RDKit, ChEMBL)",
@@ -801,28 +829,5 @@
       "prompt-injection"
     ],
     "score": 0.57
-  },
-  {
-    "date": "2026-10-07",
-    "source": "PyTorch KR",
-    "title": "Jev와 유사한 오픈소스 결정 모델에 대한 정리: Decision Index와 JevBench로 비교한 결정 모델 성능 비교",
-    "url": "https://discuss.pytorch.kr/t/jev-decision-index-jevbench/12095",
-    "summary": "(요약 없음 — data.json에서 직접 채워도 됨)",
-    "tags": [
-      "benchmark",
-      "hugging-face",
-      "jev",
-      "structured-output"
-    ],
-    "score": 0.42
-  },
-  {
-    "date": "2026-10-07",
-    "source": "PyTorch KR",
-    "title": "로컬 모델로 SQL을 쓰고 실행하는 에이전트를 붙인 오픈소스 DB 클라이언트, 46개 엔진에서 실제로 되는지 재봤습니다",
-    "url": "https://discuss.pytorch.kr/t/sql-db-46/12105",
-    "summary": "(요약 없음 — data.json에서 직접 채워도 됨)",
-    "tags": [],
-    "score": 0.39
   }
 ]
