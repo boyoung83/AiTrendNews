@@ -1,5 +1,33 @@
 [
   {
+    "date": "2026-11-07",
+    "source": "PyTorch KR",
+    "title": "OpenAI, 승인된 보안 조직 전용 GPT-6 Cyber 출시: 범위 밖 공격 0.07%, Linux 익스플로잇 948건",
+    "url": "https://discuss.pytorch.kr/t/openai-gpt-6-cyber-0-07-linux-948/12434",
+    "summary": "(요약 없음 — data.json에서 직접 채워도 됨)",
+    "tags": [
+      "llm",
+      "agent",
+      "openai",
+      "product-launch"
+    ],
+    "score": 0.45
+  },
+  {
+    "date": "2026-11-07",
+    "source": "PyTorch KR",
+    "title": "Thinking Machines Lab, 활성 17B의 2세대 모델 Inkling 2 Small을 Tinker에 먼저 출시 (가중치는 다음 주 공개 예정)",
+    "url": "https://discuss.pytorch.kr/t/thinking-machines-lab-17b-2-inkling-2-small-tinker/12438",
+    "summary": "(요약 없음 — data.json에서 직접 채워도 됨)",
+    "tags": [
+      "llm",
+      "multimodal",
+      "open-weights",
+      "moe"
+    ],
+    "score": 0.4
+  },
+  {
     "date": "2026-11-06",
     "source": "PyTorch KR",
     "title": "OpenAI, 사람의 일상 과제를 대신 처리하는 능력을 재기 위한 LifeVal 벤치마크 및 최신 GPT 모델들의 측정 결과 공개",
@@ -801,33 +829,5 @@
       "openclaw"
     ],
     "score": 0.43
-  },
-  {
-    "date": "2026-10-08",
-    "source": "PyTorch KR",
-    "title": "Crafting Apps: Adobe 소프트웨어 7종을 Rust로 다시 구현한 오픈소스 프로젝트 7종 공개",
-    "url": "https://discuss.pytorch.kr/t/crafting-apps-adobe-7-rust-7/12119",
-    "summary": "(요약 없음 — data.json에서 직접 채워도 됨)",
-    "tags": [
-      "ai-agent",
-      "mcp",
-      "rust",
-      "image-editing"
-    ],
-    "score": 0.78
-  },
-  {
-    "date": "2026-10-08",
-    "source": "PyTorch KR",
-    "title": "Google이 공개한 AI 에이전트 프라이버시와 보안의 51가지 이슈에 대한 워크숍 보고서 [영문/PDF/116p]",
-    "url": "https://discuss.pytorch.kr/t/google-ai-51-pdf-116p/12113",
-    "summary": "(요약 없음 — data.json에서 직접 채워도 됨)",
-    "tags": [
-      "agent",
-      "google",
-      "report",
-      "prompt-injection"
-    ],
-    "score": 0.57
   }
 ]
