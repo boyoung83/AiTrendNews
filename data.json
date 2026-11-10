@@ -1,5 +1,33 @@
 [
   {
+    "date": "2026-11-10",
+    "source": "PyTorch KR",
+    "title": "ToyBlocks: AllenAI가 공개한, 블록 조작으로 로봇 학습의 실패 원인을 분석하는 공개 실험 환경",
+    "url": "https://discuss.pytorch.kr/t/toyblocks-allenai/12448",
+    "summary": "(요약 없음 — data.json에서 직접 채워도 됨)",
+    "tags": [
+      "opensource",
+      "robotics",
+      "world-model",
+      "vla"
+    ],
+    "score": 0.4
+  },
+  {
+    "date": "2026-11-10",
+    "source": "PyTorch KR",
+    "title": "에이전트 메모리, 많이 저장하기보다 검증하고 다시 정리하기 (feat. Anthropic)",
+    "url": "https://discuss.pytorch.kr/t/feat-anthropic/12449",
+    "summary": "(요약 없음 — data.json에서 직접 채워도 됨)",
+    "tags": [
+      "agent",
+      "anthropic",
+      "benchmark",
+      "claude"
+    ],
+    "score": 0.34
+  },
+  {
     "date": "2026-11-09",
     "source": "PyTorch KR",
     "title": "모델 학습도 이제 코딩 에이전트에게: Claude Code에 맡겼더니 20분 만에 계약서 검토 모델이 배포됐습니다 (정확도 69.5→87.8%, 오픈소스 Overmind)",
@@ -801,28 +829,5 @@
       "binary-analysis"
     ],
     "score": 0.51
-  },
-  {
-    "date": "2026-10-11",
-    "source": "PyTorch KR",
-    "title": "Jeff-Code: 0.8B 결정 모델이 턴마다 사고 여부를 골라 Qwen3.8-27B의 작업당 시간을 32% 줄인 Pi 포크",
-    "url": "https://discuss.pytorch.kr/t/jeff-code-0-8b-qwen3-8-27b-32-pi/12122",
-    "summary": "(요약 없음 — data.json에서 직접 채워도 됨)",
-    "tags": [
-      "agent",
-      "coding-agent",
-      "qwen",
-      "lora"
-    ],
-    "score": 0.39
-  },
-  {
-    "date": "2026-10-11",
-    "source": "PyTorch KR",
-    "title": "[오픈소스] 협업을 재려면 정보 배치부터 설계해야 했다: AgentWorld 경량 실험장 (비공식)",
-    "url": "https://discuss.pytorch.kr/t/agentworld/12131",
-    "summary": "(요약 없음 — data.json에서 직접 채워도 됨)",
-    "tags": [],
-    "score": 0.38
   }
 ]
