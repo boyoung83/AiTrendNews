@@ -1,5 +1,23 @@
 [
   {
+    "date": "2026-11-11",
+    "source": "PyTorch KR",
+    "title": "[실험] 비싼 모델이 앞부분만 하고 로컬 4B 모델에 넘기면? 재무 분석 에이전트로 해 본 AgentBaton 축소 재현 (비공식)",
+    "url": "https://discuss.pytorch.kr/t/4b-agentbaton/12464",
+    "summary": "(요약 없음 — data.json에서 직접 채워도 됨)",
+    "tags": [],
+    "score": 0.35
+  },
+  {
+    "date": "2026-11-11",
+    "source": "PyTorch KR",
+    "title": "PyMuPDF Office: PDF·오피스·한글(HWP) 문서를 하나로 처리하는 Python 라이브러리 (구 PyMuPDF Pro)",
+    "url": "https://discuss.pytorch.kr/t/pymupdf-office-pdf-hwp-python-pymupdf-pro/12453",
+    "summary": "(요약 없음 — data.json에서 직접 채워도 됨)",
+    "tags": [],
+    "score": 0.28
+  },
+  {
     "date": "2026-11-10",
     "source": "PyTorch KR",
     "title": "ToyBlocks: AllenAI가 공개한, 블록 조작으로 로봇 학습의 실패 원인을 분석하는 공개 실험 환경",
@@ -801,33 +819,5 @@
       "lora"
     ],
     "score": 0.49
-  },
-  {
-    "date": "2026-10-12",
-    "source": "PyTorch KR",
-    "title": "GuideLLM v0.8.0 공개, 지연 SLO를 지키는 최대 동시성 탐색과 에이전트 트레이스 재생 (feat. vLLM)",
-    "url": "https://discuss.pytorch.kr/t/guidellm-v0-8-0-slo-feat-vllm/12149",
-    "summary": "(요약 없음 — data.json에서 직접 채워도 됨)",
-    "tags": [
-      "agent",
-      "benchmark",
-      "vllm",
-      "llm-inference"
-    ],
-    "score": 0.64
-  },
-  {
-    "date": "2026-10-12",
-    "source": "PyTorch KR",
-    "title": "REA: Ghidra와 IDA 같은 분석 도구를 하나의 MCP로 묶어 코딩 에이전트에 연결하는 리버스 엔지니어링 도구",
-    "url": "https://discuss.pytorch.kr/t/rea-ghidra-ida-mcp/12150",
-    "summary": "(요약 없음 — data.json에서 직접 채워도 됨)",
-    "tags": [
-      "coding-agent",
-      "mcp",
-      "reverse-engineering",
-      "binary-analysis"
-    ],
-    "score": 0.51
   }
 ]
