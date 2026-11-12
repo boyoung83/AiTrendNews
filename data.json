@@ -1,5 +1,33 @@
 [
   {
+    "date": "2026-11-12",
+    "source": "PyTorch KR",
+    "title": "Solo to Team: 여러 AI 에이전트에게 맡긴 작업을 회수하고 증거로 검증하는 협업 스킬 4종",
+    "url": "https://discuss.pytorch.kr/t/solo-to-team-ai-4/12487",
+    "summary": "(요약 없음 — data.json에서 직접 채워도 됨)",
+    "tags": [
+      "multi-agent",
+      "codex",
+      "agent-skills",
+      "cursor"
+    ],
+    "score": 0.6
+  },
+  {
+    "date": "2026-11-12",
+    "source": "PyTorch KR",
+    "title": "InfraRSI: LLM 분산 학습의 설정과 코드를 함께 최적화하고 검증하는 에이전트 하네스",
+    "url": "https://discuss.pytorch.kr/t/infrarsi-llm/12473",
+    "summary": "(요약 없음 — data.json에서 직접 채워도 됨)",
+    "tags": [
+      "llm",
+      "paper",
+      "agent",
+      "self-improvement"
+    ],
+    "score": 0.53
+  },
+  {
     "date": "2026-11-11",
     "source": "PyTorch KR",
     "title": "[실험] 비싼 모델이 앞부분만 하고 로컬 4B 모델에 넘기면? 재무 분석 에이전트로 해 본 AgentBaton 축소 재현 (비공식)",
@@ -791,33 +819,5 @@
       "benchmark"
     ],
     "score": 0.5
-  },
-  {
-    "date": "2026-10-13",
-    "source": "PyTorch KR",
-    "title": "Anthropic이 공개한, Claude 모델 평가 중 발생한 4가지 의도치 않은 행동들에 대한 모델 행동 보고서",
-    "url": "https://discuss.pytorch.kr/t/anthropic-claude-4/12165",
-    "summary": "(요약 없음 — data.json에서 직접 채워도 됨)",
-    "tags": [
-      "agent",
-      "anthropic",
-      "claude",
-      "llm-evaluation"
-    ],
-    "score": 0.5
-  },
-  {
-    "date": "2026-10-13",
-    "source": "PyTorch KR",
-    "title": "Unsloth, LLM을 Laya, Clef와 같인 Jev식 결정 모델을 미세조정하고 로컬에서 서빙하는 학습 가이드 공개",
-    "url": "https://discuss.pytorch.kr/t/unsloth-llm-laya-clef-jev/12158",
-    "summary": "(요약 없음 — data.json에서 직접 채워도 됨)",
-    "tags": [
-      "llm",
-      "fine-tuning",
-      "jev",
-      "lora"
-    ],
-    "score": 0.49
   }
 ]
