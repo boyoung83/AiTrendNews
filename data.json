@@ -1,5 +1,33 @@
 [
   {
+    "date": "2026-11-14",
+    "source": "PyTorch KR",
+    "title": "[오픈소스] HWP까지 읽는 문서 → Markdown 변환기 OpenDocKit을 만들었습니다 (LangChain, LlamaIndex, MCP 지원)",
+    "url": "https://discuss.pytorch.kr/t/hwp-markdown-opendockit-langchain-llamaindex-mcp/12505",
+    "summary": "(요약 없음 — data.json에서 직접 채워도 됨)",
+    "tags": [
+      "opensource",
+      "rag",
+      "mcp",
+      "python"
+    ],
+    "score": 0.63
+  },
+  {
+    "date": "2026-11-14",
+    "source": "PyTorch KR",
+    "title": "Anthropic, Claude Fable 5.2와 Mythos 5.2 출시: 가격 인하와 최대 30% 빠른 출력 (feat. Opus 5.5)",
+    "url": "https://discuss.pytorch.kr/t/anthropic-claude-fable-5-2-mythos-5-2-30-feat-opus-5-5/12478",
+    "summary": "(요약 없음 — data.json에서 직접 채워도 됨)",
+    "tags": [
+      "llm",
+      "agent",
+      "anthropic",
+      "benchmark"
+    ],
+    "score": 0.54
+  },
+  {
     "date": "2026-11-13",
     "source": "PyTorch KR",
     "title": "Google, 에이전트가 텍스트 대신 네이티브 화면으로 답하게 하는 생성형 UI 프로토콜 A2UI 1.0 공개 (feat. MCP Apps)",
@@ -791,33 +819,5 @@
       "agent-workflow"
     ],
     "score": 0.5
-  },
-  {
-    "date": "2026-10-15",
-    "source": "PyTorch KR",
-    "title": "Awesome Reverse Engineering: MCP 서버까지 작업별로 정리한 리버스 엔지니어링 도구 목록",
-    "url": "https://discuss.pytorch.kr/t/awesome-reverse-engineering-mcp/12172",
-    "summary": "(요약 없음 — data.json에서 직접 채워도 됨)",
-    "tags": [
-      "ai-agent",
-      "mcp",
-      "awesome-list",
-      "reverse-engineering"
-    ],
-    "score": 0.55
-  },
-  {
-    "date": "2026-10-15",
-    "source": "PyTorch KR",
-    "title": "Microsoft, Jev 호환 API의 결정 모델 Microsoft-Decision-1 출시 (입력 1M 토큰당 $0.042)",
-    "url": "https://discuss.pytorch.kr/t/microsoft-jev-api-microsoft-decision-1-1m-0-042/12140",
-    "summary": "(요약 없음 — data.json에서 직접 채워도 됨)",
-    "tags": [
-      "llm",
-      "microsoft",
-      "product-launch",
-      "jev"
-    ],
-    "score": 0.49
   }
 ]
