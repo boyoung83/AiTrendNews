@@ -1,5 +1,33 @@
 [
   {
+    "date": "2026-11-15",
+    "source": "PyTorch KR",
+    "title": "devvm: 프로젝트마다 전용 VM에서 코딩 에이전트를 실행하고 토큰은 내 컴퓨터에 두는 샌드박스",
+    "url": "https://discuss.pytorch.kr/t/devvm-vm/12515",
+    "summary": "(요약 없음 — data.json에서 직접 채워도 됨)",
+    "tags": [
+      "claude-code",
+      "coding-agent",
+      "sandbox",
+      "agent-security"
+    ],
+    "score": 0.46
+  },
+  {
+    "date": "2026-11-15",
+    "source": "PyTorch KR",
+    "title": "llama.cpp, 3년 반 만에 v1.0.0 공개: 이제 C API 호환이 깨지면 메이저 버전을 올립니다 (feat. ggml)",
+    "url": "https://discuss.pytorch.kr/t/llama-cpp-3-v1-0-0-c-api-feat-ggml/12509",
+    "summary": "(요약 없음 — data.json에서 직접 채워도 됨)",
+    "tags": [
+      "local-llm",
+      "hugging-face",
+      "release",
+      "inference"
+    ],
+    "score": 0.44
+  },
+  {
     "date": "2026-11-14",
     "source": "PyTorch KR",
     "title": "[오픈소스] HWP까지 읽는 문서 → Markdown 변환기 OpenDocKit을 만들었습니다 (LangChain, LlamaIndex, MCP 지원)",
@@ -791,33 +819,5 @@
       "world-model"
     ],
     "score": 0.44
-  },
-  {
-    "date": "2026-10-16",
-    "source": "PyTorch KR",
-    "title": "Liquid AI, 활성 2B로 로컬 에이전트를 돌리는 MoE 추론 모델 LFM2.5-24B-A2B 공개 (feat. Hermes Agent)",
-    "url": "https://discuss.pytorch.kr/t/liquid-ai-2b-moe-lfm2-5-24b-a2b-feat-hermes-agent/12188",
-    "summary": "(요약 없음 — data.json에서 직접 채워도 됨)",
-    "tags": [
-      "agent",
-      "open-weights",
-      "moe",
-      "on-device-ai"
-    ],
-    "score": 0.53
-  },
-  {
-    "date": "2026-10-16",
-    "source": "PyTorch KR",
-    "title": "AI-DLC: Claude Code와 Codex 등에서 요구사항부터 배포까지 진행하며, 필요한 경우 사람 승인 단계를 강제하는 워크플로우 (feat. AWS)",
-    "url": "https://discuss.pytorch.kr/t/ai-dlc-claude-code-codex-feat-aws/12204",
-    "summary": "(요약 없음 — data.json에서 직접 채워도 됨)",
-    "tags": [
-      "claude-code",
-      "coding-agent",
-      "codex",
-      "agent-workflow"
-    ],
-    "score": 0.5
   }
 ]
