@@ -1,5 +1,33 @@
 [
   {
+    "date": "2026-11-16",
+    "source": "PyTorch KR",
+    "title": "AlphaGenome 2 출시: 세포 유형별 변이 효과 예측으로 단일세포 eQTL 재현율 약 2배 (feat. Google DeepMind)",
+    "url": "https://discuss.pytorch.kr/t/alphagenome-2-eqtl-2-feat-google-deepmind/12491",
+    "summary": "(요약 없음 — data.json에서 직접 채워도 됨)",
+    "tags": [
+      "google",
+      "release",
+      "google-deepmind",
+      "ai-for-science"
+    ],
+    "score": 0.42
+  },
+  {
+    "date": "2026-11-16",
+    "source": "PyTorch KR",
+    "title": "XYBench: AllenAI가 공개한, 사용자가 잘못 짚은 질문에서 LLM이 진짜 목표를 찾는지 확인하는 벤치마크",
+    "url": "https://discuss.pytorch.kr/t/xybench-allenai-llm/12507",
+    "summary": "(요약 없음 — data.json에서 직접 채워도 됨)",
+    "tags": [
+      "llm",
+      "benchmark",
+      "evaluation",
+      "emnlp"
+    ],
+    "score": 0.39
+  },
+  {
     "date": "2026-11-15",
     "source": "PyTorch KR",
     "title": "devvm: 프로젝트마다 전용 VM에서 코딩 에이전트를 실행하고 토큰은 내 컴퓨터에 두는 샌드박스",
@@ -791,33 +819,5 @@
       "scholarevolve"
     ],
     "score": 0.38
-  },
-  {
-    "date": "2026-10-17",
-    "source": "PyTorch KR",
-    "title": "고려대 DMIS 연구실, 마스킹 비율마다 LM 헤드를 나눠 분류와 검색을 함께 잡은 32K 인코더 UltraBERT 공개",
-    "url": "https://discuss.pytorch.kr/t/dmis-lm-32k-ultrabert/12199",
-    "summary": "(요약 없음 — data.json에서 직접 채워도 됨)",
-    "tags": [
-      "embedding",
-      "hugging-face",
-      "retrieval",
-      "bert"
-    ],
-    "score": 0.46
-  },
-  {
-    "date": "2026-10-17",
-    "source": "PyTorch KR",
-    "title": "RSI-Anything: 월드 모델로 후보를 고르고 검증된 업데이트만 남기는 재귀적 자기 개선 프레임워크에 대한 연구",
-    "url": "https://discuss.pytorch.kr/t/rsi-anything/12175",
-    "summary": "(요약 없음 — data.json에서 직접 채워도 됨)",
-    "tags": [
-      "llm",
-      "paper",
-      "agent",
-      "world-model"
-    ],
-    "score": 0.44
   }
 ]
