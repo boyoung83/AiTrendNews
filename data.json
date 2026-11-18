@@ -1,5 +1,33 @@
 [
   {
+    "date": "2026-11-18",
+    "source": "PyTorch KR",
+    "title": "Qwen, 새로운 구조로 이전보다 토큰과 API 가격을 줄인 2.4T 규모 플래그십 모델 Qwen4-Max 출시 (소형 모델은 가중치 공개 예정)",
+    "url": "https://discuss.pytorch.kr/t/qwen-api-2-4t-qwen4-max/12557",
+    "summary": "(요약 없음 — data.json에서 직접 채워도 됨)",
+    "tags": [
+      "llm",
+      "agent",
+      "benchmark",
+      "product-launch"
+    ],
+    "score": 0.62
+  },
+  {
+    "date": "2026-11-18",
+    "source": "PyTorch KR",
+    "title": "GPT-6.2 Astra 및 Sol 프롬프팅 가이드: 대화 이력을 고치면 추론이 버려지는 API 변경과 대응법",
+    "url": "https://discuss.pytorch.kr/t/gpt-6-2-astra-sol-api/12563",
+    "summary": "(요약 없음 — data.json에서 직접 채워도 됨)",
+    "tags": [
+      "llm",
+      "agent",
+      "openai",
+      "codex"
+    ],
+    "score": 0.57
+  },
+  {
     "date": "2026-11-17",
     "source": "PyTorch KR",
     "title": "OpenAI, 에이전트가 실제 카드번호 없이 결제하는 ChatGPT Wallet 출시: 구매마다 생체 인증 (미국, Pro 요금제 한정)",
@@ -791,33 +819,5 @@
       "opensource"
     ],
     "score": 0.72
-  },
-  {
-    "date": "2026-10-19",
-    "source": "PyTorch KR",
-    "title": "Claudemy: 주제 하나로 웹을 조사해 출처가 달린 2분 오디오 강의를 만드는 Claude Code 스킬",
-    "url": "https://discuss.pytorch.kr/t/claudemy-2-claude-code/12234",
-    "summary": "(요약 없음 — data.json에서 직접 채워도 됨)",
-    "tags": [
-      "claude-code",
-      "text-to-speech",
-      "agent-skill",
-      "podcast"
-    ],
-    "score": 0.5
-  },
-  {
-    "date": "2026-10-19",
-    "source": "PyTorch KR",
-    "title": "Bespoke Labs, 사실 하나만 바꾼 대조 데이터로 만든 9B 결정 모델 Nimble과 학습 레시피 공개",
-    "url": "https://discuss.pytorch.kr/t/bespoke-labs-9b-nimble/12196",
-    "summary": "(요약 없음 — data.json에서 직접 채워도 됨)",
-    "tags": [
-      "opensource",
-      "fine-tuning",
-      "qwen",
-      "jev"
-    ],
-    "score": 0.45
   }
 ]
