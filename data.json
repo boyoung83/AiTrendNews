@@ -1,5 +1,33 @@
 [
   {
+    "date": "2026-11-19",
+    "source": "PyTorch KR",
+    "title": "코딩 에이전트 Devin이 만든 사내 도구를 클라우드 머신에서 바로 실행하고 운영하는 Devin Apps 출시",
+    "url": "https://discuss.pytorch.kr/t/devin-devin-apps/12555",
+    "summary": "(요약 없음 — data.json에서 직접 채워도 됨)",
+    "tags": [
+      "ai-agent",
+      "coding-agent",
+      "product-launch",
+      "devin"
+    ],
+    "score": 0.64
+  },
+  {
+    "date": "2026-11-19",
+    "source": "PyTorch KR",
+    "title": "ECC: 계획, 테스트, 리뷰, 기억 절차를 Claude Code와 Codex 등 코딩 에이전트에 설치하는 도구 (이전 Everything Claude Code)",
+    "url": "https://discuss.pytorch.kr/t/ecc-claude-code-codex-everything-claude-code/12585",
+    "summary": "(요약 없음 — data.json에서 직접 채워도 됨)",
+    "tags": [
+      "claude-code",
+      "coding-agent",
+      "codex",
+      "agent-skills"
+    ],
+    "score": 0.6
+  },
+  {
     "date": "2026-11-18",
     "source": "PyTorch KR",
     "title": "Qwen, 새로운 구조로 이전보다 토큰과 API 가격을 줄인 2.4T 규모 플래그십 모델 Qwen4-Max 출시 (소형 모델은 가중치 공개 예정)",
@@ -791,33 +819,5 @@
       "self-improvement"
     ],
     "score": 0.53
-  },
-  {
-    "date": "2026-10-20",
-    "source": "PyTorch KR",
-    "title": "LeanREA: REA의 MCP 도구 207개 대신 8KB 스킬 파일 하나로 리버스 엔지니어링을 안내하는 에이전트 스킬 (≠ REA 공식 경량판)",
-    "url": "https://discuss.pytorch.kr/t/leanrea-rea-mcp-207-8kb-rea/12233",
-    "summary": "(요약 없음 — data.json에서 직접 채워도 됨)",
-    "tags": [
-      "claude-code",
-      "coding-agent",
-      "mcp",
-      "agent-skills"
-    ],
-    "score": 0.74
-  },
-  {
-    "date": "2026-10-20",
-    "source": "PyTorch KR",
-    "title": "[오픈소스] 하네스 논문 세 편을 에이전트 하나로 묶어 봤습니다: LongHarness + Harmony Harness + Harness² 경량 구현 (비공식)",
-    "url": "https://discuss.pytorch.kr/t/longharness-harmony-harness-harness/12248",
-    "summary": "(요약 없음 — data.json에서 직접 채워도 됨)",
-    "tags": [
-      "llm",
-      "claude-code",
-      "agent",
-      "opensource"
-    ],
-    "score": 0.72
   }
 ]
