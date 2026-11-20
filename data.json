@@ -1,5 +1,33 @@
 [
   {
+    "date": "2026-11-20",
+    "source": "PyTorch KR",
+    "title": "Sevren, 휴대폰에서 오프라인으로 돌아가는 10B-A1B 추론 모델 Embla 1 공개 (feat. embla-metal)",
+    "url": "https://discuss.pytorch.kr/t/sevren-10b-a1b-embla-1-feat-embla-metal/12556",
+    "summary": "(요약 없음 — data.json에서 직접 채워도 됨)",
+    "tags": [
+      "llm",
+      "on-device",
+      "moe",
+      "release"
+    ],
+    "score": 0.58
+  },
+  {
+    "date": "2026-11-20",
+    "source": "PyTorch KR",
+    "title": "Personal Agent Protocol 1.0 공개: Sierra와 Meta가 주도하는, 개인용 AI 에이전트의 로그인과 권한에 대한 공개 표준",
+    "url": "https://discuss.pytorch.kr/t/personal-agent-protocol-1-0-sierra-meta-ai/12554",
+    "summary": "(요약 없음 — data.json에서 직접 채워도 됨)",
+    "tags": [
+      "agent",
+      "meta",
+      "protocol",
+      "oauth"
+    ],
+    "score": 0.52
+  },
+  {
     "date": "2026-11-19",
     "source": "PyTorch KR",
     "title": "코딩 에이전트 Devin이 만든 사내 도구를 클라우드 머신에서 바로 실행하고 운영하는 Devin Apps 출시",
@@ -791,33 +819,5 @@
       "llm-serving"
     ],
     "score": 0.45
-  },
-  {
-    "date": "2026-10-21",
-    "source": "PyTorch KR",
-    "title": "LLM 에이전트의 외부화(Externalization)에 대한 리뷰 논문 (1/2): 가중치에서 하네스로, 메모리와 스킬",
-    "url": "https://discuss.pytorch.kr/t/llm-externalization-1-2/12177",
-    "summary": "(요약 없음 — data.json에서 직접 채워도 됨)",
-    "tags": [
-      "survey-paper",
-      "llm-agent",
-      "agent-skills",
-      "agent-memory"
-    ],
-    "score": 0.67
-  },
-  {
-    "date": "2026-10-21",
-    "source": "PyTorch KR",
-    "title": "Harness²: 정답 라벨 없이 작업마다 에이전트 하네스를 고치고, 그 경험을 다음 작업에 넘기는 프레임워크 (feat. Google)",
-    "url": "https://discuss.pytorch.kr/t/harness-feat-google/12231",
-    "summary": "(요약 없음 — data.json에서 직접 채워도 됨)",
-    "tags": [
-      "llm-agent",
-      "agent-harness",
-      "google-research",
-      "self-improvement"
-    ],
-    "score": 0.53
   }
 ]
