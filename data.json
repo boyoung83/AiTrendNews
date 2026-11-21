@@ -1,5 +1,28 @@
 [
   {
+    "date": "2026-11-21",
+    "source": "PyTorch KR",
+    "title": "[도구 공개] 에이전트가 쓴 보고서의 숫자마다 영수증을 붙이는 스킬, receipts",
+    "url": "https://discuss.pytorch.kr/t/receipts/12592",
+    "summary": "(요약 없음 — data.json에서 직접 채워도 됨)",
+    "tags": [],
+    "score": 0.48
+  },
+  {
+    "date": "2026-11-21",
+    "source": "PyTorch KR",
+    "title": "Phai-A1: Qwen3.6-35B-A3B를 화웨이 Ascend 칩에서 사후 학습한 1M 컨텍스트의 코딩 에이전트용 공개 모델",
+    "url": "https://discuss.pytorch.kr/t/phai-a1-qwen3-6-35b-a3b-ascend-1m/12587",
+    "summary": "(요약 없음 — data.json에서 직접 채워도 됨)",
+    "tags": [
+      "llm",
+      "coding-agent",
+      "open-weights",
+      "moe"
+    ],
+    "score": 0.46
+  },
+  {
     "date": "2026-11-20",
     "source": "PyTorch KR",
     "title": "Sevren, 휴대폰에서 오프라인으로 돌아가는 10B-A1B 추론 모델 Embla 1 공개 (feat. embla-metal)",
@@ -791,33 +814,5 @@
       "linux-foundation"
     ],
     "score": 0.51
-  },
-  {
-    "date": "2026-10-22",
-    "source": "PyTorch KR",
-    "title": "Traceway: LLM 호출 비용까지 추적하고 AI 에이전트가 직접 조회하는 셀프 호스팅 관측 플랫폼",
-    "url": "https://discuss.pytorch.kr/t/traceway-llm-ai/12232",
-    "summary": "(요약 없음 — data.json에서 직접 채워도 됨)",
-    "tags": [
-      "mcp",
-      "agent-skills",
-      "self-hosted",
-      "observability"
-    ],
-    "score": 0.52
-  },
-  {
-    "date": "2026-10-22",
-    "source": "PyTorch KR",
-    "title": "DeepInfer: DeepSeek이 V4.1-Flash 모델의 서비스에 사용하는 추론 프레임워크 (단, 오프라인 추론만 공개 😅)",
-    "url": "https://discuss.pytorch.kr/t/deepinfer-deepseek-v4-1-flash/12256",
-    "summary": "(요약 없음 — data.json에서 직접 채워도 됨)",
-    "tags": [
-      "moe",
-      "deepseek",
-      "speculative-decoding",
-      "llm-serving"
-    ],
-    "score": 0.45
   }
 ]
