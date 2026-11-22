@@ -1,5 +1,33 @@
 [
   {
+    "date": "2026-11-22",
+    "source": "PyTorch KR",
+    "title": "DSA: 미국, 중국, 한국 등, 6개 주요 주식 시장의 관심 종목을 매일 LLM으로 분석해 메신저로 보내주는 주식 리서치 시스템",
+    "url": "https://discuss.pytorch.kr/t/dsa-6-llm/12589",
+    "summary": "(요약 없음 — data.json에서 직접 채워도 됨)",
+    "tags": [
+      "multi-agent",
+      "llm-agent",
+      "litellm",
+      "github-actions"
+    ],
+    "score": 0.51
+  },
+  {
+    "date": "2026-11-22",
+    "source": "PyTorch KR",
+    "title": "Haru-4B: 4,000만 시간의 실제 음성으로 학습한, 듣는 동안 말하는 전이중 음성 대화 모델 공개 (feat. Qwen3.5, MeanFlow)",
+    "url": "https://discuss.pytorch.kr/t/haru-4b-4-000-feat-qwen3-5-meanflow/12533",
+    "summary": "(요약 없음 — data.json에서 직접 채워도 됨)",
+    "tags": [
+      "open-weights",
+      "qwen3-5",
+      "speech-to-speech",
+      "full-duplex"
+    ],
+    "score": 0.44
+  },
+  {
     "date": "2026-11-21",
     "source": "PyTorch KR",
     "title": "[도구 공개] 에이전트가 쓴 보고서의 숫자마다 영수증을 붙이는 스킬, receipts",
@@ -786,33 +814,5 @@
       "api"
     ],
     "score": 0.5
-  },
-  {
-    "date": "2026-10-23",
-    "source": "PyTorch KR",
-    "title": "[2026/10/12 ~ 18] 이번 주에 살펴볼 만한 AI/ML 논문 모음",
-    "url": "https://discuss.pytorch.kr/t/2026-10-12-18-ai-ml/12236",
-    "summary": "(요약 없음 — data.json에서 직접 채워도 됨)",
-    "tags": [
-      "paper",
-      "ai-ml-papers-of-the-week",
-      "decision-model",
-      "self-evolving-agent"
-    ],
-    "score": 0.54
-  },
-  {
-    "date": "2026-10-23",
-    "source": "PyTorch KR",
-    "title": "AAIF에 Agent Skills, Open Responses, OpenEnv, OpenSandbox 합류해 프로젝트 10개로",
-    "url": "https://discuss.pytorch.kr/t/aaif-agent-skills-open-responses-openenv-opensandbox-10/12275",
-    "summary": "(요약 없음 — data.json에서 직접 채워도 됨)",
-    "tags": [
-      "agent",
-      "opensource",
-      "agent-skills",
-      "linux-foundation"
-    ],
-    "score": 0.51
   }
 ]
