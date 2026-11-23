@@ -1,5 +1,33 @@
 [
   {
+    "date": "2026-11-23",
+    "source": "PyTorch KR",
+    "title": "skill-distill: Claude Code와 Codex의 성공 세션을 오픈 웨이트 모델이 재현하도록 스킬로 다듬는 루프",
+    "url": "https://discuss.pytorch.kr/t/skill-distill-claude-code-codex/12609",
+    "summary": "(요약 없음 — data.json에서 직접 채워도 됨)",
+    "tags": [
+      "claude-code",
+      "coding-agent",
+      "codex",
+      "agent-skills"
+    ],
+    "score": 0.5
+  },
+  {
+    "date": "2026-11-23",
+    "source": "PyTorch KR",
+    "title": "셸을 쥐여주자 공개 LLM 21종이 전부 뚫렸다: GPT·라마·딥시크·Qwen 같은 기준 점검, 종합 등급 21/21 'F', 100건 중 최대 98건 위험 행동",
+    "url": "https://discuss.pytorch.kr/t/llm-21-gpt-qwen-21-21-f-100-98/12583",
+    "summary": "(요약 없음 — data.json에서 직접 채워도 됨)",
+    "tags": [
+      "llm",
+      "ai",
+      "모델",
+      "해킹"
+    ],
+    "score": 0.49
+  },
+  {
     "date": "2026-11-22",
     "source": "PyTorch KR",
     "title": "DSA: 미국, 중국, 한국 등, 6개 주요 주식 시장의 관심 종목을 매일 LLM으로 분석해 메신저로 보내주는 주식 리서치 시스템",
@@ -786,33 +814,5 @@
       "speculative-decoding"
     ],
     "score": 0.47
-  },
-  {
-    "date": "2026-10-24",
-    "source": "PyTorch KR",
-    "title": "Hugging Face, Apple Foundation Models 코드를 그대로 로컬과 클라우드에서 사용 가능한 AnyLanguageModel 1.0 공개",
-    "url": "https://discuss.pytorch.kr/t/hugging-face-apple-foundation-models-anylanguagemodel-1-0/12258",
-    "summary": "(요약 없음 — data.json에서 직접 채워도 됨)",
-    "tags": [
-      "llm",
-      "on-device",
-      "apple",
-      "hugging-face"
-    ],
-    "score": 0.57
-  },
-  {
-    "date": "2026-10-24",
-    "source": "PyTorch KR",
-    "title": "OpenAI가 AAIF에 기증한 Open Responses: 여러 LLM 제공자를 같은 요청 형식으로 호출하는 공개 사양",
-    "url": "https://discuss.pytorch.kr/t/openai-aaif-open-responses-llm/12277",
-    "summary": "(요약 없음 — data.json에서 직접 채워도 됨)",
-    "tags": [
-      "llm",
-      "openai",
-      "agent",
-      "api"
-    ],
-    "score": 0.5
   }
 ]
