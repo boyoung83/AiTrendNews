@@ -1,5 +1,33 @@
 [
   {
+    "date": "2026-11-24",
+    "source": "PyTorch KR",
+    "title": "Thinking Machines Lab, 32GB Mac에서 돌아가는 루프 트랜스포머 Inkling 2 Mini 공개",
+    "url": "https://discuss.pytorch.kr/t/thinking-machines-lab-32gb-mac-inkling-2-mini/12612",
+    "summary": "(요약 없음 — data.json에서 직접 채워도 됨)",
+    "tags": [
+      "local-llm",
+      "open-weights",
+      "moe",
+      "release"
+    ],
+    "score": 0.64
+  },
+  {
+    "date": "2026-11-24",
+    "source": "PyTorch KR",
+    "title": "하네스 기반, RL로 학습한 Qwen3.8-27B LoRA 어댑터 공개: 정확도는 상승하면서 도구 호출 횟수는 감소",
+    "url": "https://discuss.pytorch.kr/t/rl-qwen3-8-27b-lora/12610",
+    "summary": "(요약 없음 — data.json에서 직접 채워도 됨)",
+    "tags": [
+      "coding-agent",
+      "reinforcement-learning",
+      "qwen",
+      "hugging-face"
+    ],
+    "score": 0.58
+  },
+  {
     "date": "2026-11-23",
     "source": "PyTorch KR",
     "title": "skill-distill: Claude Code와 Codex의 성공 세션을 오픈 웨이트 모델이 재현하도록 스킬로 다듬는 루프",
@@ -786,33 +814,5 @@
       "linux-foundation"
     ],
     "score": 0.5
-  },
-  {
-    "date": "2026-10-25",
-    "source": "PyTorch KR",
-    "title": "Kimi K3.1 Pro 출시: K3보다 33% 낮은 API 가격, 사이버 보안 데이터를 뺀 3T급 오픈 웨이트 모델 (가중치는 11/4까지 공개 예정)",
-    "url": "https://discuss.pytorch.kr/t/kimi-k3-1-pro-k3-33-api-3t-11-4/12289",
-    "summary": "(요약 없음 — data.json에서 직접 채워도 됨)",
-    "tags": [
-      "llm",
-      "benchmark",
-      "product-launch",
-      "open-weights"
-    ],
-    "score": 0.51
-  },
-  {
-    "date": "2026-10-25",
-    "source": "PyTorch KR",
-    "title": "NVIDIA, 4GB VRAM에서 동작하는 대화형 에이전트용 소형 모델 Nemotron 3.5 Bolt E4B 공개 (feat. Gemma 4)",
-    "url": "https://discuss.pytorch.kr/t/nvidia-4gb-vram-nemotron-3-5-bolt-e4b-feat-gemma-4/12291",
-    "summary": "(요약 없음 — data.json에서 직접 채워도 됨)",
-    "tags": [
-      "agent",
-      "nvidia",
-      "on-device",
-      "speculative-decoding"
-    ],
-    "score": 0.47
   }
 ]
