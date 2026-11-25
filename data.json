@@ -1,5 +1,33 @@
 [
   {
+    "date": "2026-11-25",
+    "source": "PyTorch KR",
+    "title": "RadixArk, 과제 1,200개 강화학습만으로 Qwen3.8-27B를 다듬은 DaisyRose-27B 공개 (feat. Miles)",
+    "url": "https://discuss.pytorch.kr/t/radixark-1-200-qwen3-8-27b-daisyrose-27b-feat-miles/12588",
+    "summary": "(요약 없음 — data.json에서 직접 채워도 됨)",
+    "tags": [
+      "llm",
+      "agent",
+      "reinforcement-learning",
+      "qwen"
+    ],
+    "score": 0.47
+  },
+  {
+    "date": "2026-11-25",
+    "source": "PyTorch KR",
+    "title": "Google, Gemini 4 Neon 출시: AA 지수에서 Carbon을 앞선 Gemini 4 중간 모델",
+    "url": "https://discuss.pytorch.kr/t/google-gemini-4-neon-aa-carbon-gemini-4/12590",
+    "summary": "(요약 없음 — data.json에서 직접 채워도 됨)",
+    "tags": [
+      "llm",
+      "agent",
+      "google",
+      "benchmark"
+    ],
+    "score": 0.44
+  },
+  {
     "date": "2026-11-24",
     "source": "PyTorch KR",
     "title": "Thinking Machines Lab, 32GB Mac에서 돌아가는 루프 트랜스포머 Inkling 2 Mini 공개",
@@ -786,33 +814,5 @@
       "stt"
     ],
     "score": 0.71
-  },
-  {
-    "date": "2026-10-26",
-    "source": "PyTorch KR",
-    "title": "Docker와 Kubernetes를 같은 API로 다루는 에이전트 샌드박스 OpenSandbox, AAIF 프로젝트로 합류",
-    "url": "https://discuss.pytorch.kr/t/docker-kubernetes-api-opensandbox-aaif/12276",
-    "summary": "(요약 없음 — data.json에서 직접 채워도 됨)",
-    "tags": [
-      "agent",
-      "opensource",
-      "sandbox",
-      "linux-foundation"
-    ],
-    "score": 0.62
-  },
-  {
-    "date": "2026-10-26",
-    "source": "PyTorch KR",
-    "title": "Anthropic, Agent Skills 표준을 AAIF에 기증: SKILL.md는 그대로, 배포와 보안은 남은 과제",
-    "url": "https://discuss.pytorch.kr/t/anthropic-agent-skills-aaif-skill-md/12278",
-    "summary": "(요약 없음 — data.json에서 직접 채워도 됨)",
-    "tags": [
-      "agent",
-      "anthropic",
-      "agent-skills",
-      "linux-foundation"
-    ],
-    "score": 0.5
   }
 ]
