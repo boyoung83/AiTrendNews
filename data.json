@@ -1,5 +1,33 @@
 [
   {
+    "date": "2026-11-26",
+    "source": "PyTorch KR",
+    "title": "Hugging Face가 공개한 에이전트 평가를 위한 구축 가이드",
+    "url": "https://discuss.pytorch.kr/t/hugging-face/12636",
+    "summary": "(요약 없음 — data.json에서 직접 채워도 됨)",
+    "tags": [
+      "agent",
+      "benchmark",
+      "hugging-face",
+      "guide"
+    ],
+    "score": 0.71
+  },
+  {
+    "date": "2026-11-26",
+    "source": "PyTorch KR",
+    "title": "vLLM-GR 공개: 생성형 추천 모델의 넓은 빔 서치를 요청 하나로 처리하는 vLLM 확장 소개",
+    "url": "https://discuss.pytorch.kr/t/vllm-gr-vllm/12648",
+    "summary": "(요약 없음 — data.json에서 직접 채워도 됨)",
+    "tags": [
+      "opensource",
+      "vllm",
+      "inference",
+      "recommendation"
+    ],
+    "score": 0.49
+  },
+  {
     "date": "2026-11-25",
     "source": "PyTorch KR",
     "title": "RadixArk, 과제 1,200개 강화학습만으로 Qwen3.8-27B를 다듬은 DaisyRose-27B 공개 (feat. Miles)",
@@ -788,31 +816,5 @@
       "coding-agent"
     ],
     "score": 0.6
-  },
-  {
-    "date": "2026-10-27",
-    "source": "PyTorch KR",
-    "title": "Corgi: Claude Code, Codex 등 여러 코딩 에이전트를 한 터미널에서 지켜보는 멀티플렉서 (feat. Ghostty, herdr)",
-    "url": "https://discuss.pytorch.kr/t/corgi-claude-code-codex-feat-ghostty-herdr/12290",
-    "summary": "(요약 없음 — data.json에서 직접 채워도 됨)",
-    "tags": [
-      "claude-code",
-      "coding-agent",
-      "codex",
-      "developer-tools"
-    ],
-    "score": 0.86
-  },
-  {
-    "date": "2026-10-27",
-    "source": "PyTorch KR",
-    "title": "한국어 STT 평가: 정답의 숫자 표기 하나로 모델 비교가 뒤집히는 문제 (공개 모델 6개로 확인해 본 것들)",
-    "url": "https://discuss.pytorch.kr/t/stt-6/12327",
-    "summary": "(요약 없음 — data.json에서 직접 채워도 됨)",
-    "tags": [
-      "opensource",
-      "stt"
-    ],
-    "score": 0.71
   }
 ]
