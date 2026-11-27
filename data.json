@@ -1,5 +1,33 @@
 [
   {
+    "date": "2026-11-27",
+    "source": "PyTorch KR",
+    "title": "fast-anything: 앱 전체 대신 느린 함수만 코딩 에이전트로 Rust로 다시 직성하고 검증하는 도구",
+    "url": "https://discuss.pytorch.kr/t/fast-anything-rust/12655",
+    "summary": "(요약 없음 — data.json에서 직접 채워도 됨)",
+    "tags": [
+      "claude-code",
+      "coding-agent",
+      "mcp",
+      "rust"
+    ],
+    "score": 0.63
+  },
+  {
+    "date": "2026-11-27",
+    "source": "PyTorch KR",
+    "title": "PrismML, FP16 에이전트 코딩 점수의 90%까지 끌어올린 5.93GB 규모의 삼진 모델 Ternary Bonsai 2.5 27B 공개",
+    "url": "https://discuss.pytorch.kr/t/prismml-fp16-90-5-93gb-ternary-bonsai-2-5-27b/12653",
+    "summary": "(요약 없음 — data.json에서 직접 채워도 됨)",
+    "tags": [
+      "llm",
+      "agent",
+      "on-device",
+      "quantization"
+    ],
+    "score": 0.47
+  },
+  {
     "date": "2026-11-26",
     "source": "PyTorch KR",
     "title": "Hugging Face가 공개한 에이전트 평가를 위한 구축 가이드",
@@ -786,34 +814,6 @@
       "mcp",
       "video-generation",
       "agent-skill"
-    ],
-    "score": 0.6
-  },
-  {
-    "date": "2026-10-28",
-    "source": "PyTorch KR",
-    "title": "3D Model Anything: 아이폰 LiDAR 스캔과 사진으로 자신의 방을 Web 기반 3D로 재구성하는 프로젝트 (feat. Three.js)",
-    "url": "https://discuss.pytorch.kr/t/3d-model-anything-lidar-web-3d-feat-three-js/12308",
-    "summary": "(요약 없음 — data.json에서 직접 채워도 됨)",
-    "tags": [
-      "codex",
-      "agent-skills",
-      "ios",
-      "3d-reconstruction"
-    ],
-    "score": 0.67
-  },
-  {
-    "date": "2026-10-28",
-    "source": "PyTorch KR",
-    "title": "Nanbeige4.3-33B, 3B 증류용 교사 학습으로 만든 33B 규모의, 유사 크기 모델들 대비 우수한 성능을 보인 에이전트 모델 공개",
-    "url": "https://discuss.pytorch.kr/t/nanbeige4-3-33b-3b-33b/12332",
-    "summary": "(요약 없음 — data.json에서 직접 채워도 됨)",
-    "tags": [
-      "llm",
-      "agent",
-      "opensource",
-      "coding-agent"
     ],
     "score": 0.6
   }
