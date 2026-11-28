@@ -1,5 +1,33 @@
 [
   {
+    "date": "2026-11-28",
+    "source": "PyTorch KR",
+    "title": "Inkworks: 기계의 작동 주기를 한 단계씩 멈춰 보는 3D 도면 페이지를 만드는 에이전트 스킬",
+    "url": "https://discuss.pytorch.kr/t/inkworks-3d/12676",
+    "summary": "(요약 없음 — data.json에서 직접 채워도 됨)",
+    "tags": [
+      "claude-code",
+      "agent-skills",
+      "3d",
+      "education"
+    ],
+    "score": 0.71
+  },
+  {
+    "date": "2026-11-28",
+    "source": "PyTorch KR",
+    "title": "shrink-anything: 내 테스트가 통과할 때만 죽은 코드와 안 쓰는 의존성을 지우는 정리 도구",
+    "url": "https://discuss.pytorch.kr/t/shrink-anything/12675",
+    "summary": "(요약 없음 — data.json에서 직접 채워도 됨)",
+    "tags": [
+      "claude-code",
+      "coding-agent",
+      "mcp",
+      "rust"
+    ],
+    "score": 0.62
+  },
+  {
     "date": "2026-11-27",
     "source": "PyTorch KR",
     "title": "fast-anything: 앱 전체 대신 느린 함수만 코딩 에이전트로 Rust로 다시 직성하고 검증하는 도구",
@@ -788,33 +816,5 @@
       "on-device"
     ],
     "score": 0.57
-  },
-  {
-    "date": "2026-10-29",
-    "source": "PyTorch KR",
-    "title": "Day Trader Skill: Python으로 숫자들을 계산하고, 주문은 사람의 2번 승인이 필요한 (미국 주식 전용) Claude용 트레이딩 스킬",
-    "url": "https://discuss.pytorch.kr/t/day-trader-skill-python-2-claude/12307",
-    "summary": "(요약 없음 — data.json에서 직접 채워도 됨)",
-    "tags": [
-      "claude-skills",
-      "finance",
-      "trading-agent",
-      "alpaca"
-    ],
-    "score": 0.73
-  },
-  {
-    "date": "2026-10-29",
-    "source": "PyTorch KR",
-    "title": "Digital Human Koubo: Renoise로 만든 AI 발표자 영상을 Remotion으로 편집하는 에이전트 스킬",
-    "url": "https://discuss.pytorch.kr/t/digital-human-koubo-renoise-ai-remotion/12340",
-    "summary": "(요약 없음 — data.json에서 직접 채워도 됨)",
-    "tags": [
-      "claude-code",
-      "mcp",
-      "video-generation",
-      "agent-skill"
-    ],
-    "score": 0.6
   }
 ]
